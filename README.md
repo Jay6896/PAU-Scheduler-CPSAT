@@ -133,3 +133,4 @@ This document explains the most important files, the folder structure, and the e
 
 5. What gets synced
    Only backend files are copied, so the Space receives `app.py`, `Dockerfile`, dependencies, APIs, and data files from `Scheduler-Backend`.
+   Generated export files in `output_data/Hybrid-Timetables/*.xlsx` are excluded from Space sync to satisfy Hugging Face binary push restrictions.

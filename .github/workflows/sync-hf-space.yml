@@ -53,13 +53,20 @@ jobs:
 
       - name: Sync backend files to Space root
         run: |
-          rsync -av --delete --exclude ".git/" Scheduler-Backend/ .hf-space/
+          rsync -av --delete \
+            --exclude ".git/" \
+            --exclude "output_data/Hybrid-Timetables/*.xlsx" \
+            Scheduler-Backend/ .hf-space/
 
       - name: Commit and push changes
         run: |
           cd .hf-space
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Ensure generated binary outputs are never committed to the Space mirror
+          git rm -f --cached output_data/Hybrid-Timetables/*.xlsx 2>/dev/null || true
+
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to sync"
