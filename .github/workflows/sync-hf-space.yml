@@ -11,6 +11,9 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HF_SPACE_ID: ${{ secrets.HF_SPACE_ID }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,14 +22,34 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y rsync
 
       - name: Clone Hugging Face Space
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           if [ -z "$HF_TOKEN" ]; then
             echo "HF_TOKEN is missing. Add it in GitHub repository secrets."
             exit 1
           fi
-          git clone https://oauth2:${HF_TOKEN}@huggingface.co/spaces/PAU-001/CP-SAT_Timetable_Scheduler .hf-space
+
+          SPACE_ID="${HF_SPACE_ID:-PAU-001/CP-SAT_Timetable_Scheduler}"
+          if [[ "$SPACE_ID" != */* ]]; then
+            SPACE_ID="PAU-001/$SPACE_ID"
+          fi
+
+          export SPACE_ID
+          ENCODED_SPACE_ID=$(python3 -c 'import os, urllib.parse; print(urllib.parse.quote(os.environ["SPACE_ID"], safe="/_-"))' )
+          AUTH_URL="https://hf-sync:${HF_TOKEN}@huggingface.co/spaces/${ENCODED_SPACE_ID}"
+
+          rm -rf .hf-space
+          for attempt in 1 2 3; do
+            echo "Clone attempt ${attempt} for Space ${SPACE_ID}"
+            if git clone "$AUTH_URL" .hf-space; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Failed to clone Space after 3 attempts."
+              echo "Verify HF_TOKEN permissions and HF_SPACE_ID secret if your Space name contains spaces."
+              exit 1
+            fi
+            sleep $((attempt * 5))
+          done
 
       - name: Sync backend files to Space root
         run: |

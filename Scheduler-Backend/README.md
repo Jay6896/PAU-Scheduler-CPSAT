@@ -127,8 +127,9 @@ This document explains the most important files, the folder structure, and the e
 3. Automatic sync strategy
    The workflow file `.github/workflows/sync-hf-space.yml` mirrors `Scheduler-Backend` into the Space root on each push to `main`.
 
-4. Required GitHub secret
+4. Required GitHub secrets
    Add `HF_TOKEN` in repository secrets with write access to the Space.
+   Optional `HF_SPACE_ID` can be set to the exact Space path such as `PAU-001/CP-SAT Timetable Scheduler` if your Space uses spaces or a different slug.
 
 5. What gets synced
    Only backend files are copied, so the Space receives `app.py`, `Dockerfile`, dependencies, APIs, and data files from `Scheduler-Backend`.
