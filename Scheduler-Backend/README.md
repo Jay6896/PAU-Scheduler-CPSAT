@@ -5,74 +5,74 @@ This document explains the most important files, the folder structure, and the e
 ## Repository layout
 
 1. `Scheduler-Backend`
-	Contains API routes, data transformation logic, and scheduling engines.
+   Contains API routes, data transformation logic, and scheduling engines.
 
 2. `Scheduler-Frontend`
-	Contains the React user interface used for upload, generation, and download.
+   Contains the React user interface used for upload, generation, and download.
 
 ## Backend file structure and purpose
 
 1. `app.py`
-	Main Flask entry point. Registers routes and starts the backend service.
+   Main Flask entry point. Registers routes and starts the backend service.
 
 2. `input_data_api.py`
-	Receives uploaded Excel data and stores normalized JSON files for scheduling.
+   Receives uploaded Excel data and stores normalized JSON files for scheduling.
 
 3. `transformer_api.py`
-	Runs input transformation endpoints and maps raw spreadsheet data to internal entities.
+   Runs input transformation endpoints and maps raw spreadsheet data to internal entities.
 
 4. `constraints_api.py`
-	Exposes constraint validation and reporting endpoints.
+   Exposes constraint validation and reporting endpoints.
 
 5. `output_data_api.py`
-	Exposes endpoints for timetable retrieval and download.
+   Exposes endpoints for timetable retrieval and download.
 
 6. `cp_sat_scheduler.py`
-	Core scheduling engine powered by Google OR Tools CP SAT.
+   Core scheduling engine powered by Google OR Tools CP SAT.
 
 7. `constraints.py`
-	Defines rule checks such as lecturer clashes, room conflicts, and allocation limits.
+   Defines rule checks such as lecturer clashes, room conflicts, and allocation limits.
 
 8. `transformer.py`
-	Converts uploaded source data into objects used by scheduling logic.
+   Converts uploaded source data into objects used by scheduling logic.
 
 9. `input_data.py`
-	Handles parsing and intermediate storage of uploaded source content.
+   Handles parsing and intermediate storage of uploaded source content.
 
 10. `output_data.py`
-	 Shapes final scheduling results for frontend rendering and export.
+    Shapes final scheduling results for frontend rendering and export.
 
 11. `export_service.py`
-	 Produces export artifacts such as spreadsheet outputs.
+    Produces export artifacts such as spreadsheet outputs.
 
 12. `verify_output.py`
-	 Validates generated output and produces violation summaries.
+    Validates generated output and produces violation summaries.
 
 13. `data/`
-	 Stores runtime JSON inputs, generated timetable data, and verification outputs.
+    Stores runtime JSON inputs, generated timetable data, and verification outputs.
 
 14. `entitities/`
-	 Defines core domain classes such as `course`, `faculty`, `room`, `student_group`, and `time_slot`.
+    Defines core domain classes such as `course`, `faculty`, `room`, `student_group`, and `time_slot`.
 
 ## Frontend file structure and purpose
 
 1. `src/App.js`
-	Root React component that mounts the timetable workflow.
+   Root React component that mounts the timetable workflow.
 
 2. `src/components/TimetableGenerator.js`
-	Main orchestration component for upload, generation, progress updates, and result state.
+   Main orchestration component for upload, generation, progress updates, and result state.
 
 3. `src/components/FileUpload.js`
-	Handles file selection, validation, and upload triggering.
+   Handles file selection, validation, and upload triggering.
 
 4. `src/components/TimetableResults.js`
-	Renders generated timetable grids and result navigation.
+   Renders generated timetable grids and result navigation.
 
 5. `src/services/api.js`
-	Central HTTP client layer for backend calls.
+   Central HTTP client layer for backend calls.
 
 6. `src/setupProxy.js`
-	Development proxy mapping from frontend origin to backend API.
+   Development proxy mapping from frontend origin to backend API.
 
 ## End to end process flow
 
