@@ -78,10 +78,6 @@ const TimetableGenerator = () => {
       timetableData?.data?.impossible_constraints ||
       timetableData?.data?.impossibleConstraints ||
       [];
-    const unsatisfied =
-      timetableData?.unsatisfied_constraints ||
-      timetableData?.data?.unsatisfied_constraints ||
-      [];
     if (!Array.isArray(impossible)) impossible = [];
     setImpossibleConstraints(impossible);
 
