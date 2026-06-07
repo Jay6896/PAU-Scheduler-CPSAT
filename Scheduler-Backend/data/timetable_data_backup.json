@@ -1,0 +1,4005 @@
+{
+  "timetables": [
+    {
+      "student_group": {
+        "name": "Electrical Engineering - Year 1",
+        "id": "EEE 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: Strength of Materials",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "Course: MTH 101, Lecturer: Dr. Akudo Ijezie, Room: Classroom 3",
+          "",
+          "Course: CHM 101, Lecturer: eofor@pau.edu.ng, Room: Classroom 3"
+        ],
+        [
+          "10:00",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: Strength of Materials",
+          "Course: EEE 102, Lecturer: Prof. Norbert Edomah, Room: Electronics, Control and Telecomms Lab",
+          "Course: PHY 101, Lecturer: Dr. Oludayo Akintunde, Room: Strength of Materials",
+          "Course: PHY 102, Lecturer: Dr. Gabriel Dosumu, Room: Ado-Ekiti",
+          "Course: CHM 101, Lecturer: eofor@pau.edu.ng, Room: Classroom 3"
+        ],
+        [
+          "11:00",
+          "",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: Strength of Materials",
+          "Course: PHY 101, Lecturer: Dr. Oludayo Akintunde, Room: Strength of Materials",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "Course: GST 111 - ENG, Lecturer: Dr. Ogechi Ekechi, Room: Jos",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "Course: GST 111 - ENG, Lecturer: Dr. Ogechi Ekechi, Room: Jos",
+          "",
+          "",
+          "Course: PAU-EEE 191, Lecturer: Fr. Elobuike Asogwa, Room: Classroom 4"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: EEE 102, Lecturer: Prof. Norbert Edomah, Room: Electronics, Control and Telecomms Lab",
+          "Course: MTH 101, Lecturer: Dr. Akudo Ijezie, Room: Classroom 3",
+          "Course: PHY 102, Lecturer: Dr. Gabriel Dosumu, Room: Oshogbo",
+          "Course: PAU-EEE 191, Lecturer: Fr. Elobuike Asogwa, Room: Classroom 4"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Electrical Engineering - Year 2",
+        "id": "EEE 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Ado-Ekiti",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Maiduguri",
+          "Course: ENT 211 - EEE, Lecturer: Miss Joy Emeasoba, Room: Classroom 2",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: SST New Classroom (Year 4)",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: Electronics, Control and Telecomms Lab"
+        ],
+        [
+          "10:00",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Ado-Ekiti",
+          "",
+          "Course: ENT 211 - EEE, Lecturer: Miss Joy Emeasoba, Room: Classroom 2",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: SST New Classroom (Year 4)",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: Electronics, Control and Telecomms Lab"
+        ],
+        [
+          "11:00",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Ado-Ekiti",
+          "Course: GET 203, Lecturer: Engr. Patrick Onwordi, Room: Electrical Power and Machines Lab",
+          "",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: SST New Classroom (Year 4)",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: Electronics, Control and Telecomms Lab"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: GET 203, Lecturer: Engr. Patrick Onwordi, Room: Electrical Power and Machines Lab",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Electronics, Control and Telecomms Lab",
+          "Course: PAU-EEE 292, Lecturer: Dr. Adaora Onaga, Room: Classroom 2",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Art and Graphics Studio",
+          "BREAK",
+          "Course: PAU-EEE 292, Lecturer: Dr. Adaora Onaga, Room: Classroom 2",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Art and Graphics Studio",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Electronics, Control and Telecomms Lab",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Electronics, Control and Telecomms Lab",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Electrical Engineering - Year 3",
+        "id": "EEE 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: GET 301 - EEE, Lecturer: Dr. Avbenake Onoriode, Room: Maiduguri",
+          "",
+          "",
+          "Course: GET 306 - EEE, Lecturer: Dr. Emmanuel Usen, Room: Classroom 5",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: GST 312 -EEE, Lecturer: Mr. Obinna Ikejimba, Room: Ibadan",
+          "Course: GET 306 - EEE, Lecturer: Dr. Emmanuel Usen, Room: Classroom 5",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: PAU-EEE 313, Lecturer: Prof. Norbert Edomah, Room: Physics and Applied Electricity lab",
+          "Course: GST 312 -EEE, Lecturer: Mr. Obinna Ikejimba, Room: Ibadan",
+          "Course: GET 306 - EEE, Lecturer: Dr. Emmanuel Usen, Room: Classroom 5",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: PAU-EEE 313, Lecturer: Prof. Norbert Edomah, Room: Physics and Applied Electricity lab",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GET 305 - EEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab",
+          "BREAK",
+          "Course: EEE 311, Lecturer: oomeje@pau.edu.ng, Room: Electrical Power and Machines Lab",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: GET 305 - EEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab",
+          "",
+          "Course: EEE 311, Lecturer: oomeje@pau.edu.ng, Room: Electrical Power and Machines Lab",
+          "Course: EEE 321, Lecturer: Dr. Jeremiah Bandele, Room: Classroom 2"
+        ],
+        [
+          "15:00",
+          "Course: GET 301 - EEE, Lecturer: Dr. Avbenake Onoriode, Room: Jalingo",
+          "Course: GET 305 - EEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab",
+          "",
+          "Course: PAU-EEE 311, Lecturer: Prof. Norbert Edomah, Room: Classroom 3",
+          "Course: EEE 321, Lecturer: Dr. Jeremiah Bandele, Room: Classroom 2"
+        ],
+        [
+          "16:00",
+          "Course: GET 301 - EEE, Lecturer: Dr. Avbenake Onoriode, Room: Jalingo",
+          "",
+          "Course: ENT 312 - EEE, Lecturer: Miss Halima Rabiu, Room: Electrical Power and Machines Lab",
+          "Course: PAU-EEE 311, Lecturer: Prof. Norbert Edomah, Room: Classroom 3",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "Course: ENT 312 - EEE, Lecturer: Miss Halima Rabiu, Room: Electrical Power and Machines Lab",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Electrical Engineering - Year 4",
+        "id": "EEE 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-EEE 405, Lecturer: Dr. Iniobong Afahakan, Room: Art and Graphics Studio",
+          "",
+          "",
+          "Course: PAU-EEE 411, Lecturer: Dr. Daniel Okojie, Room: Physics and Applied Electricity lab",
+          "Course: PAU-EEE 407, Lecturer: tbd, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "10:00",
+          "Course: PAU-EEE 405, Lecturer: Dr. Iniobong Afahakan, Room: Art and Graphics Studio",
+          "Course: PAU-EEE 401, Lecturer: Dr. Adaora Onaga, Room: Uyo",
+          "",
+          "Course: PAU-EEE 411, Lecturer: Dr. Daniel Okojie, Room: Physics and Applied Electricity lab",
+          "Course: PAU-EEE 407, Lecturer: tbd, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "11:00",
+          "",
+          "Course: PAU-EEE 401, Lecturer: Dr. Adaora Onaga, Room: Uyo",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "Course: PAU-EEE 409, Lecturer: Dr. Daniel Okojie, Room: Classroom 5",
+          "",
+          "Course: PAU-EEE 407, Lecturer: tbd, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "Course: PAU-EEE 409, Lecturer: Dr. Daniel Okojie, Room: Classroom 5",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: PAU-EEE 403, Lecturer: Dr. Michael Adelabu, Room: Engineering Drawing Studio",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "Course: PAU-EEE 403, Lecturer: Dr. Michael Adelabu, Room: Engineering Drawing Studio",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Electrical Engineering - Year 5",
+        "id": "EEE 500"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GET 501 - EEE, Lecturer: Dr. Benjamin Anyaegbuna, Room: Classroom 3",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: EEE 593, Lecturer: Prof. Norbert Edomah, Room: Asaba",
+          "Course: GET 501 - EEE, Lecturer: Dr. Benjamin Anyaegbuna, Room: Classroom 3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: EEE 593, Lecturer: Prof. Norbert Edomah, Room: Asaba",
+          "Course: GET 501 - EEE, Lecturer: Dr. Benjamin Anyaegbuna, Room: Classroom 3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: EEE 593, Lecturer: Prof. Norbert Edomah, Room: Asaba",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechanical Engineering - Year 1",
+        "id": "MEE 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: GST 111 - ENG, Lecturer: Dr. Ogechi Ekechi, Room: TYD New classroom",
+          "",
+          "Course: CHM 101, Lecturer: eofor@pau.edu.ng, Room: Electrical Power and Machines Lab",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: GST 111 - ENG, Lecturer: Dr. Ogechi Ekechi, Room: TYD New classroom",
+          "",
+          "Course: CHM 101, Lecturer: eofor@pau.edu.ng, Room: Electrical Power and Machines Lab",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: PHY 102, Lecturer: Dr. Gabriel Dosumu, Room: Electronics, Control and Telecomms Lab",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: PHY 102, Lecturer: Dr. Gabriel Dosumu, Room: Electronics, Control and Telecomms Lab",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: SST New Classroom (Year 4)",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "BREAK",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: SST New Classroom (Year 4)",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: SST New Classroom (Year 4)",
+          "Course: PAU-EEE 191, Lecturer: Fr. Elobuike Asogwa, Room: Electronics, Control and Telecomms Lab"
+        ],
+        [
+          "15:00",
+          "",
+          "Course: MTH 101, Lecturer: Dr. Akudo Ijezie, Room: Strength of Materials",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          "",
+          "Course: PHY 101, Lecturer: Dr. Oludayo Akintunde, Room: Ibadan"
+        ],
+        [
+          "16:00",
+          "Course: PAU-EEE 191, Lecturer: Fr. Elobuike Asogwa, Room: Strength of Materials",
+          "Course: MTH 101, Lecturer: Dr. Akudo Ijezie, Room: Strength of Materials",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          "",
+          "Course: PHY 101, Lecturer: Dr. Oludayo Akintunde, Room: Ibadan"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechanical Engineering - Year 2",
+        "id": "MEE 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: SST New Classroom (Year 4)",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Engineering Drawing Studio",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Maiduguri",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Oshogbo",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: SST New Classroom (Year 4)",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Engineering Drawing Studio",
+          "Course: PAU-EEE 292, Lecturer: Dr. Adaora Onaga, Room: Oshogbo",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Oshogbo",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: SST New Classroom (Year 4)",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Classroom 4",
+          "Course: PAU-EEE 292, Lecturer: Dr. Adaora Onaga, Room: Oshogbo",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Oshogbo",
+          "Course: ENT 211 - EEE, Lecturer: Miss Joy Emeasoba, Room: Classroom 3"
+        ],
+        [
+          "12:00",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Classroom 3",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Engineering Drawing Studio",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: Strength of Materials",
+          "",
+          "Course: ENT 211 - EEE, Lecturer: Miss Joy Emeasoba, Room: Classroom 3"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: GET 203, Lecturer: Engr. Patrick Onwordi, Room: Strength of Materials"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: GET 203, Lecturer: Engr. Patrick Onwordi, Room: Strength of Materials"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: Strength of Materials",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: Strength of Materials",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechanical Engineering - Year 3",
+        "id": "MEE 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-MEE 331, Lecturer: Dr. Benjamin Anyaegbuna, Room: Electrical Power and Machines Lab",
+          "Course: PAU-MEE 313, Lecturer: Capt. Stan Igwe, Room: Electrical Power and Machines Lab",
+          "",
+          "Course: GST 312 - MEE, Lecturer: Mr. Obinna Ikejimba, Room: Strength of Materials",
+          "Course: GET 305 - MEE, Lecturer: Dr. Avbenake Onoriode, Room: Maiduguri"
+        ],
+        [
+          "10:00",
+          "Course: PAU-MEE 331, Lecturer: Dr. Benjamin Anyaegbuna, Room: Electrical Power and Machines Lab",
+          "Course: PAU-MEE 313, Lecturer: Capt. Stan Igwe, Room: Electrical Power and Machines Lab",
+          "Course: PAU-MCT 302, Lecturer: Dr. Peter Onu, Room: Engineering Drawing Studio",
+          "Course: GST 312 - MEE, Lecturer: Mr. Obinna Ikejimba, Room: Strength of Materials",
+          "Course: PAU-MEE 307, Lecturer: Dr. Anthony Onokwai, Room: Classroom 2"
+        ],
+        [
+          "11:00",
+          "Course: GET 301 - MEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab",
+          "Course: GET 306 - MEE, Lecturer: Dr. Emmanuel Usen, Room: Jalingo",
+          "Course: PAU-MCT 302, Lecturer: Dr. Peter Onu, Room: Engineering Drawing Studio",
+          "",
+          "Course: PAU-MEE 307, Lecturer: Dr. Anthony Onokwai, Room: Classroom 2"
+        ],
+        [
+          "12:00",
+          "Course: GET 301 - MEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab",
+          "Course: GET 306 - MEE, Lecturer: Dr. Emmanuel Usen, Room: Jalingo",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GET 306 - MEE, Lecturer: Dr. Emmanuel Usen, Room: Jalingo",
+          "BREAK",
+          "Course: PAU-MEE 315, Lecturer: Dr. Adekunle Oyelami, Room: Strength of Materials",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: GET 301 - MEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab",
+          "",
+          "Course: ENT 312 - MEE, Lecturer: Miss Halima Rabiu, Room: Oshogbo",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "Course: ENT 312 - MEE, Lecturer: Miss Halima Rabiu, Room: Oshogbo",
+          "Course: PAU-MEE 315, Lecturer: Dr. Adekunle Oyelami, Room: Strength of Materials",
+          "Course: GET 305 - MEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "Course: PAU-MEE 315, Lecturer: Dr. Adekunle Oyelami, Room: Strength of Materials",
+          "Course: GET 305 - MEE, Lecturer: Dr. Avbenake Onoriode, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechanical Engineering - Year 4",
+        "id": "MEE 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: MEE 405, Lecturer: Dr. Cynthia Abima, Room: Asaba"
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: MEE 405, Lecturer: Dr. Cynthia Abima, Room: Asaba"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: PAU-MEE 409, Lecturer: Prof. Roland Loto, Room: SST New Classroom (Year 4)",
+          "",
+          "",
+          "Course: MEE 405, Lecturer: Dr. Cynthia Abima, Room: Asaba"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-MEE 409, Lecturer: Prof. Roland Loto, Room: SST New Classroom (Year 4)",
+          "BREAK",
+          "Course: MEE 403, Lecturer: Dr. Anthony Onokwai, Room: Classroom 5",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: MEE 407, Lecturer: jajiboye@pau.edu.ng, Room: Electronics, Control and Telecomms Lab",
+          "",
+          "",
+          "Course: MEE 403, Lecturer: Dr. Anthony Onokwai, Room: Classroom 5",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: MEE 407, Lecturer: jajiboye@pau.edu.ng, Room: Electronics, Control and Telecomms Lab",
+          "Course: PAU-MEE 401, Lecturer: Dr. Adaora Onaga, Room: Engineering Drawing Studio",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "Course: PAU-MEE 401, Lecturer: Dr. Adaora Onaga, Room: Engineering Drawing Studio",
+          "Course: MEE 401, Lecturer: Dr. George Ihenacho, Room: Classroom 5",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "Course: MEE 401, Lecturer: Dr. George Ihenacho, Room: Classroom 5",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechanical Engineering - Year 5",
+        "id": "MEE 500"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-MEE 521, Lecturer: Dr. Peter Onu, Room: Electronics, Control and Telecomms Lab",
+          "",
+          "",
+          "Course: MEE 590, Lecturer: Dr. George Ihenacho, Room: Electrical Power and Machines Lab",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: PAU-MEE 521, Lecturer: Dr. Peter Onu, Room: Electronics, Control and Telecomms Lab",
+          "Course: GET 501 - MEE, Lecturer: Dr. Benjamin Anyaegbuna, Room: Classroom 2",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: GET 501 - MEE, Lecturer: Dr. Benjamin Anyaegbuna, Room: Classroom 2",
+          "Course: MEE 501, Lecturer: Engr. Patrick Onwordi, Room: Jos",
+          "Course: MEE 590, Lecturer: Dr. George Ihenacho, Room: Electrical Power and Machines Lab",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: GET 501 - MEE, Lecturer: Dr. Benjamin Anyaegbuna, Room: Classroom 2",
+          "Course: MEE 501, Lecturer: Engr. Patrick Onwordi, Room: Jos",
+          "Course: MEE 590, Lecturer: Dr. George Ihenacho, Room: Electrical Power and Machines Lab",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechatronics Engineering - Year 1",
+        "id": "MCT 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PHY 101, Lecturer: Dr. Oludayo Akintunde, Room: Abeokuta",
+          "Course: PHY 102, Lecturer: Dr. Gabriel Dosumu, Room: Asaba",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "Course: PHY 102, Lecturer: Dr. Gabriel Dosumu, Room: Asaba",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "",
+          "Course: MCT 102, Lecturer: Dr. Peter Onu, Room: Strength of Materials"
+        ],
+        [
+          "11:00",
+          "Course: MTH 101, Lecturer: Dr. Akudo Ijezie, Room: Classroom 1",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: Strength of Materials",
+          "Course: CHM 107, Lecturer: Dr. Clinton Ifegwu, Room: Chemistry lab",
+          "",
+          "Course: MCT 102, Lecturer: Dr. Peter Onu, Room: Strength of Materials"
+        ],
+        [
+          "12:00",
+          "Course: MTH 101, Lecturer: Dr. Akudo Ijezie, Room: Classroom 1",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: Strength of Materials",
+          "",
+          "",
+          "Course: MCT 102, Lecturer: Dr. Peter Onu, Room: Strength of Materials"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GET 101, Lecturer: aagholor@pau.edu.ng, Room: Strength of Materials",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: PAU-EEE 191, Lecturer: Fr. Elobuike Asogwa, Room: Art and Graphics Studio",
+          "",
+          "Course: GST 111 - ENG, Lecturer: Dr. Ogechi Ekechi, Room: Classroom 3",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: PAU-EEE 191, Lecturer: Fr. Elobuike Asogwa, Room: Art and Graphics Studio",
+          "",
+          "Course: GST 111 - ENG, Lecturer: Dr. Ogechi Ekechi, Room: Classroom 3",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          "Course: CHM 101, Lecturer: eofor@pau.edu.ng, Room: Classroom 5"
+        ],
+        [
+          "16:00",
+          "Course: PHY 101, Lecturer: Dr. Oludayo Akintunde, Room: Classroom 4",
+          "",
+          "",
+          "Course: PHY 107 - ENG, Lecturer: Dr. Oludayo Akintunde, Room: Physics and Applied Electricity lab",
+          "Course: CHM 101, Lecturer: eofor@pau.edu.ng, Room: Classroom 5"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mechatronics Engineering - Year 2",
+        "id": "MCT 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: Classroom 4",
+          "",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Classroom 1"
+        ],
+        [
+          "10:00",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Bauchi",
+          "",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: Classroom 4",
+          "",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Classroom 1"
+        ],
+        [
+          "11:00",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Bauchi",
+          "",
+          "Course: GET 211, Lecturer: Dr. Jeremiah Bandele, Room: Classroom 4",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: Umuahia",
+          "Course: GET 207, Lecturer: Prof. Roland Loto, Room: Classroom 1"
+        ],
+        [
+          "12:00",
+          "Course: GET 205, Lecturer: Dr. Anthony Onokwai, Room: Bauchi",
+          "Course: ENT 211 - EEE, Lecturer: Miss Joy Emeasoba, Room: Classroom 3",
+          "",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: Umuahia",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Classroom 5",
+          "BREAK",
+          "Course: GET 201, Lecturer: Prof. Norbert Edomah, Room: Umuahia",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Classroom 5",
+          "Course: GET 203, Lecturer: Engr. Patrick Onwordi, Room: Classroom 1",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: PAU-EEE 292, Lecturer: Dr. Adaora Onaga, Room: SST New Classroom (Year 4)",
+          "Course: GET 209, Lecturer: Dr. Adekunle Oyelami, Room: Classroom 5",
+          "Course: GET 203, Lecturer: Engr. Patrick Onwordi, Room: Classroom 1",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: PAU-EEE 292, Lecturer: Dr. Adaora Onaga, Room: SST New Classroom (Year 4)",
+          "Course: ENT 211 - EEE, Lecturer: Miss Joy Emeasoba, Room: Classroom 3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Software Engineering - Year 1",
+        "id": "SEN 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: MTH101, Lecturer: Dr. Clinton Ifegwu, Room: Bauchi",
+          "",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "Course: PAU-CSC 192, Lecturer: Fr. Ifeanyi Ogboh, Room: Maiduguri",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Engineering Drawing Studio"
+        ],
+        [
+          "11:00",
+          "",
+          "Course: PAU-CSC 192, Lecturer: Fr. Ifeanyi Ogboh, Room: Maiduguri",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Engineering Drawing Studio"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: PHY101, Lecturer: Dr. Rilwan Balogun, Room: Art and Graphics Studio",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: SST New Classroom (Year 4)",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 2",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Engineering Drawing Studio"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 2",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 2",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: SST New Classroom (Year 4)",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: MTH101, Lecturer: Dr. Clinton Ifegwu, Room: TYD New classroom",
+          "Course: PHY101, Lecturer: Dr. Rilwan Balogun, Room: SST New Classroom (Year 4)",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: SST New Classroom (Year 4)",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Software Engineering - Year 2",
+        "id": "SEN 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer lab 01",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer lab 01",
+          "Course: ENT 211 - CSC, Lecturer: Mr Uche Gbuna, Room: Electronics, Control and Telecomms Lab",
+          "Course: CSC 203, Lecturer: Dr. Akudo Ijezie, Room: Electronics, Control and Telecomms Lab",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: IFT 211, Lecturer: Dr. Michael Adelabu, Room: Art and Graphics Studio",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer lab 01",
+          "Course: ENT 211 - CSC, Lecturer: Mr Uche Gbuna, Room: Electronics, Control and Telecomms Lab",
+          "Course: CSC 203, Lecturer: Dr. Akudo Ijezie, Room: Electronics, Control and Telecomms Lab",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: IFT 211, Lecturer: Dr. Michael Adelabu, Room: Art and Graphics Studio",
+          "",
+          "",
+          "",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Electronics, Control and Telecomms Lab"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: MTH 201, Lecturer: Dr. Julius Ehigie, Room: Classroom 4",
+          "",
+          "Course: PAU-CSC 292, Lecturer: Prof. Juan Elegido, Room: Electrical Power and Machines Lab",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: MTH 201, Lecturer: Dr. Julius Ehigie, Room: Classroom 4",
+          "Course: SEN 201, Lecturer: Dr. Akinboro, Room: Abeokuta",
+          "Course: PAU-CSC 292, Lecturer: Prof. Juan Elegido, Room: Electrical Power and Machines Lab",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "Course: SEN 201, Lecturer: Dr. Akinboro, Room: Abeokuta",
+          "",
+          "",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Electronics, Control and Telecomms Lab"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Electronics, Control and Telecomms Lab"
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Software Engineering - Year 3",
+        "id": "SEN 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PAU-CSC 312, Lecturer: Mr. Taiwo Amoo, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PAU-CSC 312, Lecturer: Mr. Taiwo Amoo, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "11:00",
+          "Course: CSC 322 - SEN, Lecturer: snwokoye@pau.edu.ng, Room: Classroom 2",
+          "",
+          "",
+          "",
+          "Course: PAU-CSC 312, Lecturer: Mr. Taiwo Amoo, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "12:00",
+          "Course: CSC 322 - SEN, Lecturer: snwokoye@pau.edu.ng, Room: Classroom 2",
+          "",
+          "",
+          "Course: GST 312 - CSC, Lecturer: Prof. Juan Elegido, Room: Electronics, Control and Telecomms Lab",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: CSC 301, Lecturer: Dr. Stephen Adubi, Room: Computer lab 01",
+          "BREAK",
+          "Course: GST 312 - CSC, Lecturer: Prof. Juan Elegido, Room: Electronics, Control and Telecomms Lab",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: CSC 308, Lecturer: george.uwagbale@pau.edu.ng, Room: Lokoja",
+          "Course: CSC 301, Lecturer: Dr. Stephen Adubi, Room: Computer lab 01",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: CSC 308, Lecturer: george.uwagbale@pau.edu.ng, Room: Lokoja",
+          "Course: CSC 301, Lecturer: Dr. Stephen Adubi, Room: Computer lab 01",
+          "Course: CYB 201, Lecturer: Mr. Samuel Egunjobi, Room: TYD New classroom",
+          "",
+          "Course: PAU-CSC 317, Lecturer: Prof. Kingesely Muka, Room: Classroom 3"
+        ],
+        [
+          "16:00",
+          "Course: CSC 308, Lecturer: george.uwagbale@pau.edu.ng, Room: Lokoja",
+          "",
+          "Course: CYB 201, Lecturer: Mr. Samuel Egunjobi, Room: TYD New classroom",
+          "",
+          "Course: PAU-CSC 317, Lecturer: Prof. Kingesely Muka, Room: Classroom 3"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Computer Science - Year  1",
+        "id": "CSC 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Classroom 5",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: PAU-CSC 192, Lecturer: Fr. Ifeanyi Ogboh, Room: Oshogbo",
+          "",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Classroom 5",
+          "",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: Classroom 4"
+        ],
+        [
+          "11:00",
+          "Course: PAU-CSC 192, Lecturer: Fr. Ifeanyi Ogboh, Room: Oshogbo",
+          "",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Classroom 5",
+          "",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: Classroom 4"
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "Course: MTH101, Lecturer: Dr. Clinton Ifegwu, Room: Abakaliki",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: Classroom 4"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "BREAK",
+          "Course: MTH101, Lecturer: Dr. Clinton Ifegwu, Room: Abakaliki",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 1",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 1",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 1",
+          "",
+          "",
+          "Course: PHY101, Lecturer: Dr. Rilwan Balogun, Room: Electrical Power and Machines Lab",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "Course: PHY101, Lecturer: Dr. Rilwan Balogun, Room: Electrical Power and Machines Lab",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Computer Science - Year  2/Stream 1",
+        "id": "CSC 200 - 1"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Engineering Drawing Studio",
+          "",
+          "",
+          "Course: CSC 203, Lecturer: Dr. Akudo Ijezie, Room: Ado-Ekiti",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Engineering Drawing Studio",
+          "",
+          "",
+          "",
+          "Course: PAU-CSC 292, Lecturer: Prof. Juan Elegido, Room: Ado-Ekiti"
+        ],
+        [
+          "11:00",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Engineering Drawing Studio",
+          "Course: ENT 211 - CSC, Lecturer: Mr Uche Gbuna, Room: Classroom 1",
+          "",
+          "",
+          "Course: PAU-CSC 292, Lecturer: Prof. Juan Elegido, Room: Ado-Ekiti"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: ENT 211 - CSC, Lecturer: Mr Uche Gbuna, Room: Classroom 1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer Lab 02",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: IFT 211, Lecturer: Dr. Michael Adelabu, Room: Strength of Materials",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer Lab 02",
+          "Course: MTH 201, Lecturer: Dr. Julius Ehigie, Room: Umuahia",
+          "Course: SEN 201, Lecturer: Dr. Akinboro, Room: Engineering Drawing Studio",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: IFT 211, Lecturer: Dr. Michael Adelabu, Room: Strength of Materials",
+          "",
+          "Course: MTH 201, Lecturer: Dr. Julius Ehigie, Room: Umuahia",
+          "Course: SEN 201, Lecturer: Dr. Akinboro, Room: Engineering Drawing Studio",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "Course: CSC 203, Lecturer: Dr. Akudo Ijezie, Room: Engineering Drawing Studio",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer Lab 02",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Computer Science - Year  2/Stream 2",
+        "id": "CSC 200 - 2"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: IFT 211, Lecturer: Dr. Michael Adelabu, Room: Classroom 2",
+          "",
+          "",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer lab 01",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: IFT 211, Lecturer: Dr. Michael Adelabu, Room: Classroom 2",
+          "",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Classroom 3",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: PAU-CSC 292, Lecturer: Prof. Juan Elegido, Room: Uyo",
+          "",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Classroom 3",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: PAU-CSC 292, Lecturer: Prof. Juan Elegido, Room: Uyo",
+          "",
+          "Course: PAU-CSC 211, Lecturer: Mr. Solomon Alile, Room: Classroom 3",
+          "Course: CSC 203, Lecturer: Dr. Akudo Ijezie, Room: Classroom 4",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: ENT 211 - CSC, Lecturer: Mr Uche Gbuna, Room: Classroom 4",
+          "BREAK",
+          "Course: CSC 203, Lecturer: Dr. Akudo Ijezie, Room: Classroom 4",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: MTH 201, Lecturer: Dr. Julius Ehigie, Room: Ibadan",
+          "",
+          "",
+          "Course: SEN 201, Lecturer: Dr. Akinboro, Room: Classroom 1"
+        ],
+        [
+          "15:00",
+          "",
+          "Course: MTH 201, Lecturer: Dr. Julius Ehigie, Room: Ibadan",
+          "",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer lab 01",
+          "Course: SEN 201, Lecturer: Dr. Akinboro, Room: Classroom 1"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: ENT 211 - CSC, Lecturer: Mr Uche Gbuna, Room: Classroom 4",
+          "",
+          "Course: COS 201, Lecturer: Dr. Dada Ibidapo, Room: Computer lab 01",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Computer Science - Year  3",
+        "id": "CSC 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: CSC 308, Lecturer: george.uwagbale@pau.edu.ng, Room: Classroom 3",
+          "Course: CSC 301, Lecturer: Dr. Stephen Adubi, Room: Computer lab 01",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "Course: CSC 308, Lecturer: george.uwagbale@pau.edu.ng, Room: Classroom 3",
+          "Course: CSC 301, Lecturer: Dr. Stephen Adubi, Room: Computer lab 01",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: CSC 308, Lecturer: george.uwagbale@pau.edu.ng, Room: Classroom 3",
+          "Course: CSC 301, Lecturer: Dr. Stephen Adubi, Room: Computer lab 01",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: PAU-CSC 312, Lecturer: Mr. Taiwo Amoo, Room: Abeokuta",
+          "Course: CYB 201, Lecturer: Mr. Samuel Egunjobi, Room: Electronics, Control and Telecomms Lab",
+          "Course: PAU-CSC 317, Lecturer: Prof. Kingesely Muka, Room: Classroom 4",
+          "",
+          "Course: GST 312 - CSC, Lecturer: Prof. Juan Elegido, Room: Engineering Drawing Studio"
+        ],
+        [
+          "15:00",
+          "Course: PAU-CSC 312, Lecturer: Mr. Taiwo Amoo, Room: Abeokuta",
+          "Course: CYB 201, Lecturer: Mr. Samuel Egunjobi, Room: Electronics, Control and Telecomms Lab",
+          "Course: PAU-CSC 317, Lecturer: Prof. Kingesely Muka, Room: Classroom 4",
+          "Course: CSC 322 - CSC, Lecturer: snwokoye@pau.edu.ng, Room: Jos",
+          "Course: GST 312 - CSC, Lecturer: Prof. Juan Elegido, Room: Engineering Drawing Studio"
+        ],
+        [
+          "16:00",
+          "Course: PAU-CSC 312, Lecturer: Mr. Taiwo Amoo, Room: Abeokuta",
+          "",
+          "",
+          "Course: CSC 322 - CSC, Lecturer: snwokoye@pau.edu.ng, Room: Jos",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Computer Science - Year  4/Stream 1",
+        "id": "CSC 400 - 1"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: CSC 497, Lecturer: Jennifer Iloekwe, Room: Classroom 5",
+          "",
+          "Course: CSC 413, Lecturer: Dr. Festus Oliha, Room: Bauchi",
+          "Course: INS 401, Lecturer: tbd, Room: Engineering Drawing Studio",
+          "Course: CSC 419, Lecturer: Mr. Somachukwu Nwokoye, Room: Classroom 5"
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: CSC 413, Lecturer: Dr. Festus Oliha, Room: Bauchi",
+          "Course: INS 401, Lecturer: tbd, Room: Engineering Drawing Studio",
+          "Course: CSC 419, Lecturer: Mr. Somachukwu Nwokoye, Room: Classroom 5"
+        ],
+        [
+          "11:00",
+          "",
+          "Course: CSC 421, Lecturer: Dr. Stephen Adubi, Room: Umuahia",
+          "Course: CSC 413, Lecturer: Dr. Festus Oliha, Room: Bauchi",
+          "Course: CSC 409 -COM, Lecturer: Dr. Olamma Iheanetu, Room: Classroom 1",
+          "Course: CSC 419, Lecturer: Mr. Somachukwu Nwokoye, Room: Classroom 5"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: CSC 421, Lecturer: Dr. Stephen Adubi, Room: Umuahia",
+          "Course: CSC 402, Lecturer: Dr. Omowunmi Ogunyemi, Room: Engineering Drawing Studio",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "Course: CSC 409 -COM, Lecturer: Dr. Olamma Iheanetu, Room: Classroom 1",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: CSC 497, Lecturer: Jennifer Iloekwe, Room: Classroom 5",
+          "Course: CSC 409 - ELE, Lecturer: Dr. Dada Ibidapo, Room: Classroom 2",
+          "",
+          "Course: CSC 409 -COM, Lecturer: Dr. Olamma Iheanetu, Room: Classroom 1",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: CSC 497, Lecturer: Jennifer Iloekwe, Room: Classroom 5",
+          "Course: CSC 409 - ELE, Lecturer: Dr. Dada Ibidapo, Room: Classroom 2",
+          "Course: CSC 402, Lecturer: Dr. Omowunmi Ogunyemi, Room: Engineering Drawing Studio",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Computer Science - Year  4/Stream 2",
+        "id": "CSC 400 - 2"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: CSC 409 -COM, Lecturer: Dr. Olamma Iheanetu, Room: Classroom 4",
+          "Course: CSC 413, Lecturer: Dr. Festus Oliha, Room: Art and Graphics Studio",
+          "Course: CSC 419, Lecturer: Mr. Somachukwu Nwokoye, Room: SST New Classroom (Year 4)",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: CSC 409 -COM, Lecturer: Dr. Olamma Iheanetu, Room: Classroom 4",
+          "Course: CSC 413, Lecturer: Dr. Festus Oliha, Room: Art and Graphics Studio",
+          "Course: CSC 419, Lecturer: Mr. Somachukwu Nwokoye, Room: SST New Classroom (Year 4)",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: CSC 409 -COM, Lecturer: Dr. Olamma Iheanetu, Room: Classroom 4",
+          "Course: CSC 413, Lecturer: Dr. Festus Oliha, Room: Art and Graphics Studio",
+          "Course: CSC 419, Lecturer: Mr. Somachukwu Nwokoye, Room: SST New Classroom (Year 4)",
+          "Course: INS 401, Lecturer: tbd, Room: Strength of Materials",
+          "Course: CSC 421, Lecturer: Dr. Stephen Adubi, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "Course: INS 401, Lecturer: tbd, Room: Strength of Materials",
+          "Course: CSC 421, Lecturer: Dr. Stephen Adubi, Room: Electrical Power and Machines Lab"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: CSC 497, Lecturer: Jennifer Iloekwe, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "Course: CSC 402, Lecturer: Dr. Omowunmi Ogunyemi, Room: Ado-Ekiti",
+          "Course: CSC 497, Lecturer: Jennifer Iloekwe, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "Course: CSC 409 - ELE, Lecturer: Dr. Dada Ibidapo, Room: Classroom 1",
+          "Course: CSC 402, Lecturer: Dr. Omowunmi Ogunyemi, Room: Ado-Ekiti",
+          "Course: CSC 497, Lecturer: Jennifer Iloekwe, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "Course: CSC 409 - ELE, Lecturer: Dr. Dada Ibidapo, Room: Classroom 1",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Economics - Year 1",
+        "id": "ECO 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: ECO 103, Lecturer: Dr. Nwani, Room: Abeokuta",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "Course: ECO 103, Lecturer: Dr. Nwani, Room: Abeokuta",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: PAU-ECO 109, Lecturer: Dr. Fredrick Ikpesu, Room: Umuahia",
+          "",
+          "",
+          "Course: PAU-ECO 105, Lecturer: Prof. Oloyombo, Room: TYD New classroom",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: PAU-ECO 109, Lecturer: Dr. Fredrick Ikpesu, Room: Umuahia",
+          "",
+          "",
+          "Course: PAU-ECO 105, Lecturer: Prof. Oloyombo, Room: TYD New classroom",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: PAU-ECO 105, Lecturer: Prof. Oloyombo, Room: TYD New classroom",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: Uyo",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: Uyo",
+          "Course: ECO 101, Lecturer: Dr. Agbonrofo Hope, Room: Jalingo",
+          "Course: PAU-ECO 107, Lecturer: rokolo@pau.edu.ng, Room: Asaba",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "Course: ECO 101, Lecturer: Dr. Agbonrofo Hope, Room: Jalingo",
+          "Course: PAU-ECO 107, Lecturer: rokolo@pau.edu.ng, Room: Asaba",
+          "",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Bauchi"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Bauchi"
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Economics - Year 2",
+        "id": "ECO 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "Course: ECO 205, Lecturer: Dr. Ozegbe, Room: Jos",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: ECO 205, Lecturer: Dr. Ozegbe, Room: Jos",
+          "",
+          "Course: ECO 203, Lecturer: Dr. Solomon Nathaniel, Room: Jos"
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: ECO 203, Lecturer: Dr. Solomon Nathaniel, Room: Jos"
+        ],
+        [
+          "12:00",
+          "Course: ECO 201, Lecturer: Dr. Agbonrofo Hope, Room: Oshogbo",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-ECO 292, Lecturer: Mr. Isitua Emeka, Room: Abeokuta",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: ENT 211 - ECO, Lecturer: Miss Joy Emeasoba, Room: TYD New classroom",
+          "Course: PAU-ECO 292, Lecturer: Mr. Isitua Emeka, Room: Abeokuta",
+          "",
+          "Course: PAU-ECO 209, Lecturer: Dr. Nwani, Room: Asaba",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: ENT 211 - ECO, Lecturer: Miss Joy Emeasoba, Room: TYD New classroom",
+          "Course: GST 212 - ECO, Lecturer: Mr. Amaobi Osuala, Room: TYD New classroom",
+          "Course: ECO 207, Lecturer: Dr. Anetor, Room: Jalingo",
+          "Course: PAU-ECO 209, Lecturer: Dr. Nwani, Room: Asaba",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: ECO 201, Lecturer: Dr. Agbonrofo Hope, Room: Uyo",
+          "Course: GST 212 - ECO, Lecturer: Mr. Amaobi Osuala, Room: TYD New classroom",
+          "Course: ECO 207, Lecturer: Dr. Anetor, Room: Jalingo",
+          "Course: PAU-ECO 209, Lecturer: Dr. Nwani, Room: Asaba",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Economics - Year 3",
+        "id": "ECO 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: ECO 301, Lecturer: Dr. Nwani, Room: Oshogbo",
+          "Course: ENT 312 - ECO, Lecturer: Miss Halima Rabiu, Room: Bauchi",
+          "Course: PAU-ECO 315, Lecturer: Mr. Philip Okposo, Room: TYD New classroom",
+          "Course: GST 312 - ECO, Lecturer: ckezie@pau.edu.ng, Room: Abakaliki",
+          "Course: PAU-ECO 311, Lecturer: Dr. Anetor, Room: Abeokuta"
+        ],
+        [
+          "10:00",
+          "Course: ECO 303, Lecturer: Dr. Evans, Room: Ibadan",
+          "Course: ENT 312 - ECO, Lecturer: Miss Halima Rabiu, Room: Bauchi",
+          "Course: PAU-ECO 315, Lecturer: Mr. Philip Okposo, Room: TYD New classroom",
+          "Course: GST 312 - ECO, Lecturer: ckezie@pau.edu.ng, Room: Abakaliki",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: ECO 303, Lecturer: Dr. Evans, Room: Ibadan",
+          "",
+          "",
+          "Course: ECO 307, Lecturer: Dr. Ozegbe, Room: Enugu",
+          "Course: ECO 306, Lecturer: Dr. David Oke, Room: Jalingo"
+        ],
+        [
+          "12:00",
+          "Course: PAU-ECO 312, Lecturer: Mr. Philip Okposo, Room: Engineering Drawing Studio",
+          "",
+          "Course: ECO 306, Lecturer: Dr. David Oke, Room: Ibadan",
+          "",
+          "Course: ECO 306, Lecturer: Dr. David Oke, Room: Jalingo"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-ECO 312, Lecturer: Mr. Philip Okposo, Room: Zaria",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: SSC 301, Lecturer: Dr. Ozegbe, Room: Asaba",
+          "Course: PAU-ECO 313, Lecturer: Prof. Osuji, Room: Uyo",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "Course: SSC 301, Lecturer: Dr. Ozegbe, Room: Asaba",
+          "",
+          "Course: ECO 307, Lecturer: Dr. Ozegbe, Room: Enugu",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: ECO 301, Lecturer: Dr. Nwani, Room: Oshogbo",
+          "",
+          "Course: PAU-ECO 313, Lecturer: Prof. Osuji, Room: Uyo",
+          "Course: ECO 307, Lecturer: Dr. Ozegbe, Room: Enugu",
+          "Course: PAU-ECO 311, Lecturer: Dr. Anetor, Room: Abeokuta"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Economics - Year 4",
+        "id": "ECO 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "Course: ECO 411, Lecturer: Dr. Mesagan, Room: Ibadan",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "",
+          "Course: ECO 411, Lecturer: Dr. Mesagan, Room: Ibadan",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "Course: ECO 411, Lecturer: Dr. Mesagan, Room: Ibadan",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: ECO 416, Lecturer: Dr. Agbonrofo Hope, Room: Oshogbo",
+          "",
+          "Course: ECO 412, Lecturer: Dr. Evans, Room: Bauchi",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: ECO 416, Lecturer: Dr. Agbonrofo Hope, Room: Oshogbo",
+          "BREAK",
+          "Course: ECO 412, Lecturer: Dr. Evans, Room: Bauchi",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: ECO 413, Lecturer: Prof. Tella, Room: Port-Harcourt",
+          "Course: FIN 401 - ECO, Lecturer: Mrs. Olaniyi Ibironke, Room: Uyo",
+          "Course: ECO 415, Lecturer: Dr. Evans, Room: Port-Harcourt",
+          "Course: ECO 412, Lecturer: Dr. Evans, Room: Bauchi",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: ECO 413, Lecturer: Prof. Tella, Room: Port-Harcourt",
+          "Course: FIN 401 - ECO, Lecturer: Mrs. Olaniyi Ibironke, Room: Uyo",
+          "Course: ECO 415, Lecturer: Dr. Evans, Room: Port-Harcourt",
+          "",
+          "Course: BUS 304, Lecturer: Prof. Osuji, Room: Jos"
+        ],
+        [
+          "16:00",
+          "Course: ECO 413, Lecturer: Prof. Tella, Room: Port-Harcourt",
+          "",
+          "",
+          "",
+          "Course: BUS 304, Lecturer: Prof. Osuji, Room: Jos"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: BUS 304, Lecturer: Prof. Osuji, Room: Jos"
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Business Administration - Year 1",
+        "id": "BUA 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "Course: BUA 101, Lecturer: rokolo@pau.edu.ng, Room: Lokoja",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: BUA 101, Lecturer: rokolo@pau.edu.ng, Room: Lokoja",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: Abakaliki",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: Abakaliki",
+          "Course: AMS 101, Lecturer: Dr. Dakare, Room: Ado-Ekiti",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: AMS 101, Lecturer: Dr. Dakare, Room: Ado-Ekiti",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "Course: AMS 102 - BUA, Lecturer: Dr. Nwani, Room: Art and Graphics Studio",
+          "Course: PAU-BUA 103, Lecturer: Mr. Julius Ujah, Room: Abakaliki",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Asaba"
+        ],
+        [
+          "15:00",
+          "",
+          "Course: PAU-BUA 105, Lecturer: Prof. Oni, Room: Oshogbo",
+          "Course: AMS 102 - BUA, Lecturer: Dr. Nwani, Room: Art and Graphics Studio",
+          "Course: PAU-BUA 103, Lecturer: Mr. Julius Ujah, Room: Abakaliki",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Asaba"
+        ],
+        [
+          "16:00",
+          "Course: AMS 104 - BUA, Lecturer: Dr. Ebegbetale, Room: Electronics, Control and Telecomms Lab",
+          "Course: PAU-BUA 105, Lecturer: Prof. Oni, Room: Oshogbo",
+          "",
+          "",
+          "Course: AMS 104 - BUA, Lecturer: Dr. Ebegbetale, Room: TYD New classroom"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Business Administration - Year 2",
+        "id": "BUA 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-BUA 215, Lecturer: Dr. Enyinnaya, Room: Uyo",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: PAU-BUA 215, Lecturer: Dr. Enyinnaya, Room: Uyo",
+          "Course: BUA 201, Lecturer: Dr. Bankole, Room: Jos",
+          "",
+          "",
+          "Course: PAU-BUA 207, Lecturer: Dr. Bankole, Room: Ibadan"
+        ],
+        [
+          "11:00",
+          "Course: ENT 211 - BUA, Lecturer: Miss Joy Emeasoba, Room: Jalingo",
+          "Course: BUA 201, Lecturer: Dr. Bankole, Room: Jos",
+          "Course: PAU-BUA 292, Lecturer: Mr. Isitua Emeka, Room: TYD New classroom",
+          "Course: BUA 204, Lecturer: Dr. Lawal, Room: Ado-Ekiti",
+          "Course: PAU-BUA 207, Lecturer: Dr. Bankole, Room: Ibadan"
+        ],
+        [
+          "12:00",
+          "Course: ENT 211 - BUA, Lecturer: Miss Joy Emeasoba, Room: Jalingo",
+          "Course: BUA 201, Lecturer: Dr. Bankole, Room: Jos",
+          "Course: PAU-BUA 292, Lecturer: Mr. Isitua Emeka, Room: TYD New classroom",
+          "Course: BUA 204, Lecturer: Dr. Lawal, Room: Ado-Ekiti",
+          "Course: PAU-BUA 207, Lecturer: Dr. Bankole, Room: Ibadan"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: BUA 204, Lecturer: Dr. Lawal, Room: Ado-Ekiti",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "Course: GST 212 - BUA, Lecturer: ialamezie@pau.edu.ng, Room: Jalingo",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "Course: GST 212 - BUA, Lecturer: ialamezie@pau.edu.ng, Room: Maiduguri",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Business Administration - Year 3",
+        "id": "BUA 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: BUA 310, Lecturer: Dr. Okon, Room: Abakaliki",
+          "Course: BUA 302, Lecturer: Prof. Epie, Room: Jalingo",
+          "",
+          "Course: BUA 305, Lecturer: Prof. Oni, Room: Lokoja"
+        ],
+        [
+          "10:00",
+          "",
+          "Course: BUA 310, Lecturer: Dr. Okon, Room: Abakaliki",
+          "Course: BUA 302, Lecturer: Prof. Epie, Room: Jalingo",
+          "",
+          "Course: BUA 305, Lecturer: Prof. Oni, Room: Lokoja"
+        ],
+        [
+          "11:00",
+          "Course: GST 312 - BUA, Lecturer: aonwudinjo@pau.edu.ng, Room: TYD New classroom",
+          "Course: BUA 310, Lecturer: Dr. Okon, Room: Abakaliki",
+          "Course: BUA 302, Lecturer: Prof. Epie, Room: Jalingo",
+          "Course: BUA 313, Lecturer: Dr. Enyinnaya, Room: Lokoja",
+          "Course: BUA 305, Lecturer: Prof. Oni, Room: Lokoja"
+        ],
+        [
+          "12:00",
+          "Course: GST 312 - BUA, Lecturer: aonwudinjo@pau.edu.ng, Room: TYD New classroom",
+          "",
+          "",
+          "Course: BUA 313, Lecturer: Dr. Enyinnaya, Room: Lokoja",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: BUA 319, Lecturer: Dr. Enyinnaya, Room: Ado-Ekiti",
+          "Course: BUA 312, Lecturer: Dr. Dakare, Room: Jalingo",
+          "",
+          "Course: ENT 312 - BUA, Lecturer: Miss Halima Rabiu, Room: Lokoja",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "Course: ENT 312 - BUA, Lecturer: Miss Halima Rabiu, Room: Lokoja",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: BUA 319, Lecturer: Dr. Enyinnaya, Room: Zaria",
+          "Course: BUA 312, Lecturer: Dr. Dakare, Room: Uyo",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Business Administration - Year 4",
+        "id": "BUA 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: ECO 401, Lecturer: Prof. Osuji, Room: Zaria",
+          "Course: BUS 402 - BUA, Lecturer: Dr. Dakare, Room: Lokoja",
+          "Course: BUS 403 - BUA, Lecturer: Dr. Lawal, Room: Ado-Ekiti",
+          "",
+          "Course: BUS 402 - BUA, Lecturer: Dr. Dakare, Room: Ibadan"
+        ],
+        [
+          "10:00",
+          "Course: ECO 401, Lecturer: Prof. Osuji, Room: Zaria",
+          "Course: BUS 402 - BUA, Lecturer: Dr. Dakare, Room: Lokoja",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "Course: BUS 405, Lecturer: Dr. Okon, Room: Abeokuta",
+          "",
+          "Course: BUS 403 - BUA, Lecturer: Dr. Lawal, Room: Enugu"
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "Course: BUS 405, Lecturer: Dr. Okon, Room: Abeokuta",
+          "",
+          "Course: BUS 403 - BUA, Lecturer: Dr. Lawal, Room: Enugu"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: ECO 401, Lecturer: Prof. Osuji, Room: Jalingo",
+          "",
+          "Course: BUS 405, Lecturer: Dr. Okon, Room: Abeokuta",
+          "Course: BUS 401 - BUA, Lecturer: Dr. Okon, Room: Maiduguri",
+          "Course: MIS 401 - BUA, Lecturer: Prof. Oni, Room: Port-Harcourt"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "Course: BUS 401 - BUA, Lecturer: Dr. Okon, Room: Maiduguri",
+          "Course: MIS 401 - BUA, Lecturer: Prof. Oni, Room: Port-Harcourt"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "Course: BUS 401 - BUA, Lecturer: Dr. Okon, Room: Maiduguri",
+          "Course: MIS 401 - BUA, Lecturer: Prof. Oni, Room: Port-Harcourt"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Accounting - Year 1",
+        "id": "ACC 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: TYD New classroom",
+          "Course: AMS 102 -ACC, Lecturer: Dr. Evans, Room: Enugu"
+        ],
+        [
+          "10:00",
+          "",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Enugu",
+          "",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: TYD New classroom",
+          "Course: AMS 102 -ACC, Lecturer: Dr. Evans, Room: Enugu"
+        ],
+        [
+          "11:00",
+          "",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Enugu",
+          "",
+          "Course: PAU-ACC 106, Lecturer: Dr. Fredrick Ikpesu, Room: Jos",
+          "Course: PAU-ACC-103, Lecturer: Dr. Agbonrofo Hope, Room: Maiduguri"
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PAU-ACC-103, Lecturer: Dr. Agbonrofo Hope, Room: SST New Classroom (Year 4)"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: ACC 101, Lecturer: Dr. Japhet Imhanzenobe, Room: Bauchi",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: ACC 101, Lecturer: Dr. Japhet Imhanzenobe, Room: Bauchi",
+          "",
+          "Course: AMS 104 - ACC, Lecturer: Dr. Ebegbetale, Room: Bauchi",
+          "Course: PAU-ACC 106, Lecturer: Dr. Fredrick Ikpesu, Room: Uyo",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: ACC 101, Lecturer: Dr. Japhet Imhanzenobe, Room: Bauchi",
+          "",
+          "Course: AMS 104 - ACC, Lecturer: Dr. Ebegbetale, Room: Bauchi",
+          "Course: PAU-ACC 106, Lecturer: Dr. Fredrick Ikpesu, Room: Uyo",
+          "Course: PAU-ACC-103, Lecturer: Dr. Agbonrofo Hope, Room: Enugu"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Accounting - Year 2",
+        "id": "ACC 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: PAU-ACC-209, Lecturer: Dr. Ajibo Kenneth, Room: Abeokuta",
+          "",
+          "Course: GST 212 - ACC, Lecturer: ialamezie@pau.edu.ng, Room: Ado-Ekiti",
+          "Course: PAU-ACC-292, Lecturer: Mr. Isitua Emeka, Room: Zaria",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: PAU-ACC-209, Lecturer: Dr. Ajibo Kenneth, Room: Abeokuta",
+          "",
+          "Course: GST 212 - ACC, Lecturer: ialamezie@pau.edu.ng, Room: Ado-Ekiti",
+          "Course: PAU-ACC-292, Lecturer: Mr. Isitua Emeka, Room: Zaria",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: PAU-ACC-209, Lecturer: Dr. Ajibo Kenneth, Room: Abeokuta",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: ENT 211 - ACC, Lecturer: Mr Uche Gbuna, Room: Maiduguri",
+          "",
+          "Course: ACC 204, Lecturer: Mr. Raheed Lateef, Room: TYD New classroom",
+          "Course: ACC 201, Lecturer: Dr. Ini Udofia, Room: Jalingo"
+        ],
+        [
+          "15:00",
+          "",
+          "Course: ENT 211 - ACC, Lecturer: Mr Uche Gbuna, Room: Maiduguri",
+          "",
+          "Course: ACC 204, Lecturer: Mr. Raheed Lateef, Room: TYD New classroom",
+          "Course: ACC 201, Lecturer: Dr. Ini Udofia, Room: Jalingo"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "Course: ACC 204, Lecturer: Mr. Raheed Lateef, Room: TYD New classroom",
+          "Course: ACC 201, Lecturer: Dr. Ini Udofia, Room: Jalingo"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Accounting - Year 3",
+        "id": "ACC 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "Course: ACC 305, Lecturer: Mr. Raheed Lateef, Room: Port-Harcourt",
+          "",
+          "Course: ACC 301, Lecturer: Dr. Japhet Imhanzenobe, Room: Art and Graphics Studio"
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: ACC 305, Lecturer: Mr. Raheed Lateef, Room: Port-Harcourt",
+          "",
+          "Course: ACC 301, Lecturer: Dr. Japhet Imhanzenobe, Room: Art and Graphics Studio"
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "Course: ACC 305, Lecturer: Mr. Raheed Lateef, Room: Port-Harcourt",
+          "",
+          "Course: ACC 301, Lecturer: Dr. Japhet Imhanzenobe, Room: Art and Graphics Studio"
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: ACC 308, Lecturer: okwy@pau.edu.ng, Room: Umuahia",
+          "",
+          "",
+          "Course: GST 312 - ACC, Lecturer: aonwudinjo@pau.edu.ng, Room: Port-Harcourt",
+          "Course: ACC 307, Lecturer: Prof. Vincent, Room: Oshogbo"
+        ],
+        [
+          "15:00",
+          "Course: ACC 308, Lecturer: okwy@pau.edu.ng, Room: Umuahia",
+          "Course: ENT 312 - ACC, Lecturer: Miss Halima Rabiu, Room: Art and Graphics Studio",
+          "",
+          "Course: GST 312 - ACC, Lecturer: aonwudinjo@pau.edu.ng, Room: Port-Harcourt",
+          "Course: ACC 307, Lecturer: Prof. Vincent, Room: Oshogbo"
+        ],
+        [
+          "16:00",
+          "Course: ACC 308, Lecturer: okwy@pau.edu.ng, Room: Umuahia",
+          "Course: ENT 312 - ACC, Lecturer: Miss Halima Rabiu, Room: Art and Graphics Studio",
+          "",
+          "",
+          "Course: ACC 307, Lecturer: Prof. Vincent, Room: Oshogbo"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Accounting - Year 4",
+        "id": "ACC 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: FIN 401 - ACC, Lecturer: Dr. Unah, Room: Ado-Ekiti",
+          "Course: ACC 402, Lecturer: Dr. Okpala, Room: Uyo",
+          "Course: BUS 403 - ACC, Lecturer: Dr. Lawal, Room: Umuahia",
+          "Course: BUS 403 - ACC, Lecturer: Dr. Lawal, Room: Jos"
+        ],
+        [
+          "10:00",
+          "",
+          "Course: FIN 401 - ACC, Lecturer: Dr. Unah, Room: Ado-Ekiti",
+          "Course: ACC 402, Lecturer: Dr. Okpala, Room: Uyo",
+          "Course: BUS 403 - ACC, Lecturer: Dr. Lawal, Room: Umuahia",
+          "Course: ACC 407, Lecturer: Prof. Vincent, Room: Abeokuta"
+        ],
+        [
+          "11:00",
+          "Course: MIS 401  - ACC, Lecturer: Prof. Oni, Room: Port-Harcourt",
+          "Course: FIN 401 - ACC, Lecturer: Dr. Unah, Room: Ado-Ekiti",
+          "Course: ACC 402, Lecturer: Dr. Okpala, Room: Uyo",
+          "Course: ACC 401, Lecturer: Dr. Okwuosa, Room: Maiduguri",
+          "Course: ACC 407, Lecturer: Prof. Vincent, Room: Abeokuta"
+        ],
+        [
+          "12:00",
+          "Course: MIS 401  - ACC, Lecturer: Prof. Oni, Room: Port-Harcourt",
+          "Course: ACC 404, Lecturer: Mr. Raheed Lateef, Room: Abakaliki",
+          "",
+          "Course: ACC 401, Lecturer: Dr. Okwuosa, Room: Maiduguri",
+          "Course: ACC 407, Lecturer: Prof. Vincent, Room: Abeokuta"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: ACC 401, Lecturer: Dr. Okwuosa, Room: Maiduguri",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: MIS 401  - ACC, Lecturer: Prof. Oni, Room: Maiduguri",
+          "",
+          "",
+          "Course: BUS 402 - ACC, Lecturer: Dr. Dakare, Room: Ado-Ekiti",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "Course: ACC 404, Lecturer: Mr. Raheed Lateef, Room: Abakaliki",
+          "",
+          "Course: BUS 402 - ACC, Lecturer: Dr. Dakare, Room: Bauchi",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "Course: ACC 404, Lecturer: Mr. Raheed Lateef, Room: Abakaliki",
+          "",
+          "Course: BUS 402 - ACC, Lecturer: Dr. Dakare, Room: Bauchi",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "ISMS - Year 1",
+        "id": "ISM 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: CMS 101 - ISM, Lecturer: Dr. Aifuwa Edosomwan, Room: Abakaliki",
+          "Course: PAU-ISM 110, Lecturer: Mr. Lawrence Akande, Room: Uyo",
+          "Course: GST 112 - SMC, Lecturer: Dr. Albert Onobhayedo, Room: Abakaliki",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Maiduguri",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: CMS 101 - ISM, Lecturer: Dr. Aifuwa Edosomwan, Room: Abakaliki",
+          "",
+          "Course: GST 112 - SMC, Lecturer: Dr. Albert Onobhayedo, Room: Abakaliki",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Maiduguri",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: PAU-ISM 110, Lecturer: Mr. Lawrence Akande, Room: Uyo",
+          "",
+          "",
+          "Course: PAU-ISM 109, Lecturer: Mr. Julius Ujah, Room: TYD New classroom"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-ISM 110, Lecturer: Mr. Lawrence Akande, Room: Uyo",
+          "BREAK",
+          "Course: ISM 112, Lecturer: Mr. Afam Okonkwo, Room: Oshogbo",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "Course: ISM 112, Lecturer: Mr. Afam Okonkwo, Room: Oshogbo",
+          "Course: PAU-ISM 109, Lecturer: Mr. Julius Ujah, Room: TYD New classroom"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "Course: ISM 112, Lecturer: Mr. Afam Okonkwo, Room: Oshogbo",
+          "Course: PAU-ISM 109, Lecturer: Mr. Julius Ujah, Room: TYD New classroom"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "ISMS - Year 2",
+        "id": "ISM 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-ISM 292, Lecturer: Dr. Omowunmi Ogunyemi, Room: Jalingo",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: PAU-ISM 292, Lecturer: Dr. Omowunmi Ogunyemi, Room: Jalingo",
+          "Course: ISM 214, Lecturer: Mr. Uchenna Ogbonna, Room: TYD New classroom",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: ISM 214, Lecturer: Mr. Uchenna Ogbonna, Room: TYD New classroom",
+          "",
+          "",
+          "Course: CMS 211, Lecturer: Dr. Aifuwa Edosomwan, Room: Port-Harcourt"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: ISM 221, Lecturer: Mr. Ehis Ojesebholo, Room: Maiduguri",
+          "Course: PAU-ISM 211, Lecturer: Dr. Joshua Osah, Room: Maiduguri",
+          "Course: ENT 211 -ISM, Lecturer: Miss Halima Rabiu, Room: Jos",
+          "Course: CMS 211, Lecturer: Dr. Aifuwa Edosomwan, Room: Port-Harcourt"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: ISM 221, Lecturer: Mr. Ehis Ojesebholo, Room: Maiduguri",
+          "BREAK",
+          "Course: ENT 211 -ISM, Lecturer: Miss Halima Rabiu, Room: Jos",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: GST 212 - ISM, Lecturer: Mr. Obinna Ikejimba, Room: Abeokuta"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "Course: PAU-ISM 211, Lecturer: Dr. Joshua Osah, Room: Abeokuta",
+          "",
+          "Course: GST 212 - ISM, Lecturer: Mr. Obinna Ikejimba, Room: Abeokuta"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "Course: PAU-ISM 211, Lecturer: Dr. Joshua Osah, Room: Abeokuta",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "ISMS - Year 3",
+        "id": "ISM 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: PAU-ISM 311, Lecturer: Dr. Joshua Osah, Room: Enugu",
+          "",
+          "",
+          "Course: PAU-ISM 303, Lecturer: Ms. Nkem Agam, Room: Enugu",
+          "Course: ISM 302, Lecturer: Mr. Philip Okposo, Room: Bauchi"
+        ],
+        [
+          "10:00",
+          "Course: PAU-ISM 311, Lecturer: Dr. Joshua Osah, Room: Enugu",
+          "",
+          "",
+          "Course: PAU-ISM 303, Lecturer: Ms. Nkem Agam, Room: Enugu",
+          "Course: ISM 302, Lecturer: Mr. Philip Okposo, Room: Bauchi"
+        ],
+        [
+          "11:00",
+          "",
+          "Course: ISM 311, Lecturer: Mr. Kayode Makinde, Room: Asaba",
+          "Course: ENT 312 - ISM, Lecturer: Miss Halima Rabiu, Room: Asaba",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: ISM 311, Lecturer: Mr. Kayode Makinde, Room: Asaba",
+          "Course: ENT 312 - ISM, Lecturer: Miss Halima Rabiu, Room: Asaba",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: ISM 311, Lecturer: Mr. Kayode Makinde, Room: Asaba",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: PAU-ISM 311, Lecturer: Dr. Joshua Osah, Room: Enugu",
+          "Course: ISM 312, Lecturer: Mr. Adebayo Ajibade, Room: Lokoja",
+          "",
+          "",
+          "Course: ISM 313, Lecturer: Dr. Anne Odoh, Room: Bauchi"
+        ],
+        [
+          "15:00",
+          "",
+          "Course: ISM 312, Lecturer: Mr. Adebayo Ajibade, Room: Lokoja",
+          "Course: ISM 322, Lecturer: Dr. Nwachukwu Egbunike, Room: Jos",
+          "Course: PAU-ISM 392, Lecturer: Ms. Flora Gabtony, Room: Abeokuta",
+          "Course: ISM 313, Lecturer: Dr. Anne Odoh, Room: Bauchi"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: ISM 312, Lecturer: Mr. Adebayo Ajibade, Room: Lokoja",
+          "Course: ISM 322, Lecturer: Dr. Nwachukwu Egbunike, Room: Jos",
+          "Course: PAU-ISM 392, Lecturer: Ms. Flora Gabtony, Room: Abeokuta",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "ISMS - Year 4",
+        "id": "ISM 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: ISM 410, Lecturer: Ms. Dooshima Anger, Room: Jos",
+          "",
+          "Course: ISM 415, Lecturer: Mr. Christian Sada, Room: Asaba",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: ISM 410, Lecturer: Ms. Dooshima Anger, Room: Jos",
+          "",
+          "Course: ISM 415, Lecturer: Mr. Christian Sada, Room: Asaba",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: ISM 407, Lecturer: Dr. Anne Odoh, Room: Lokoja",
+          "",
+          "Course: ISM 405, Lecturer: Barr. Tomi Vincent, Room: Port-Harcourt",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: ISM 407, Lecturer: Dr. Anne Odoh, Room: Lokoja",
+          "Course: ISM 403, Lecturer: Dr. Margaret Agada-Mba, Room: Port-Harcourt",
+          "Course: ISM 405, Lecturer: Barr. Tomi Vincent, Room: Port-Harcourt",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: ISM 407, Lecturer: Dr. Anne Odoh, Room: Lokoja",
+          "BREAK",
+          "Course: ISM 405, Lecturer: Barr. Tomi Vincent, Room: Port-Harcourt",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: ISM 412, Lecturer: Mr. Afam Okonkwo, Room: Jos",
+          "",
+          "",
+          "",
+          "Course: ISM 401, Lecturer: Mr Peter Ogidi, Room: Ado-Ekiti"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: ISM 401, Lecturer: Mr Peter Ogidi, Room: Ado-Ekiti"
+        ],
+        [
+          "16:00",
+          "Course: ISM 412, Lecturer: Mr. Afam Okonkwo, Room: Art and Graphics Studio",
+          "",
+          "Course: ISM 403, Lecturer: Dr. Margaret Agada-Mba, Room: Port-Harcourt",
+          "",
+          "Course: ISM 401, Lecturer: Mr Peter Ogidi, Room: Ado-Ekiti"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mass Communication - Year 1",
+        "id": "MCM 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: MCM 103, Lecturer: Mrs. Sarah Unekwu, Room: Port-Harcourt",
+          "",
+          "Course: CMS 101 - ISM, Lecturer: Dr. Aifuwa Edosomwan, Room: Uyo",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: MCM 101, Lecturer: Dr. Margaret Agada-Mba, Room: Maiduguri",
+          "Course: MCM 103, Lecturer: Mrs. Sarah Unekwu, Room: Port-Harcourt",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Zaria",
+          "Course: CMS 101 - ISM, Lecturer: Dr. Aifuwa Edosomwan, Room: Uyo",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: MCM 101, Lecturer: Dr. Margaret Agada-Mba, Room: Maiduguri",
+          "",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Zaria",
+          "",
+          "Course: PAU-MCM 191 -MCM, Lecturer: Fr. Ifeanyi Ogboh, Room: Bauchi"
+        ],
+        [
+          "12:00",
+          "Course: MCM 101, Lecturer: Dr. Margaret Agada-Mba, Room: Maiduguri",
+          "Course: MCM 107, Lecturer: Mr. Valentine Ohu, Room: TYD New classroom",
+          "",
+          "",
+          "Course: PAU-MCM 191 -MCM, Lecturer: Fr. Ifeanyi Ogboh, Room: Bauchi"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: MCM 107, Lecturer: Mr. Valentine Ohu, Room: TYD New classroom",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: MCM 105, Lecturer: tbd, Room: Uyo"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: MCM 105, Lecturer: tbd, Room: Uyo"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mass Communication - Year 2",
+        "id": "MCM 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: MCM 209, Lecturer: Mr. Timi Crown, Room: Port-Harcourt",
+          "Course: MCM 211, Lecturer: Mr. Ehis Ojesebholo, Room: Jalingo",
+          "Course: ENT 211 -MCM, Lecturer: Miss Halima Rabiu, Room: Ibadan",
+          "",
+          "Course: ENT 211 -MCM, Lecturer: Miss Halima Rabiu, Room: Ado-Ekiti"
+        ],
+        [
+          "10:00",
+          "Course: MCM 209, Lecturer: Mr. Timi Crown, Room: Port-Harcourt",
+          "Course: MCM 211, Lecturer: Mr. Ehis Ojesebholo, Room: Jalingo",
+          "Course: MCM 215, Lecturer: Dr. Anthony Okoeguale, Room: Maiduguri",
+          "Course: PAU-MCM 291, Lecturer: Dr. Emmanuel Nzeaka, Room: Asaba",
+          "Course: PAU-MCM 219, Lecturer: Dr. Chioma Njoku, Room: Umuahia"
+        ],
+        [
+          "11:00",
+          "Course: MCM 207, Lecturer: Funmi Unuajefe, Room: Zaria",
+          "Course: MCM 205, Lecturer: Dr. Nwachukwu Egbunike, Room: Bauchi",
+          "Course: MCM 215, Lecturer: Dr. Anthony Okoeguale, Room: Maiduguri",
+          "Course: PAU-MCM 291, Lecturer: Dr. Emmanuel Nzeaka, Room: Asaba",
+          "Course: PAU-MCM 219, Lecturer: Dr. Chioma Njoku, Room: Umuahia"
+        ],
+        [
+          "12:00",
+          "Course: MCM 207, Lecturer: Funmi Unuajefe, Room: Zaria",
+          "",
+          "",
+          "Course: MCM 203, Lecturer: Dr. Sunday John, Room: Ibadan",
+          "Course: PAU-MCM 219, Lecturer: Dr. Chioma Njoku, Room: Umuahia"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: CMS 201 - MCM, Lecturer: Dr. Aifuwa Edosomwan, Room: Uyo",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: MCM 213, Lecturer: Mr. Jerry Sawyer, Room: Umuahia",
+          "",
+          "Course: CMS 201 - MCM, Lecturer: Dr. Aifuwa Edosomwan, Room: Uyo",
+          "Course: PAU-MCM 217, Lecturer: Dr. Nwachukwu Egbunike, Room: Lokoja"
+        ],
+        [
+          "15:00",
+          "",
+          "Course: MCM 213, Lecturer: Mr. Jerry Sawyer, Room: Umuahia",
+          "",
+          "Course: MCM 203, Lecturer: Dr. Sunday John, Room: Ibadan",
+          "Course: PAU-MCM 217, Lecturer: Dr. Nwachukwu Egbunike, Room: Lokoja"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: MCM 205, Lecturer: Dr. Nwachukwu Egbunike, Room: Maiduguri",
+          "",
+          "Course: MCM 203, Lecturer: Dr. Sunday John, Room: Ibadan",
+          "Course: PAU-MCM 217, Lecturer: Dr. Nwachukwu Egbunike, Room: Lokoja"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mass Communication - Year 3",
+        "id": "MCM 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "Course: MCM 301, Lecturer: Dr. Akin Olaniyan, Room: Abeokuta",
+          "Course: PAU-MCM 305, Lecturer: Mr. Akeem Lasisi, Room: Bauchi",
+          "Course: PAU-MCM 391, Lecturer: Dr. Emmanuel Nzeaka, Room: Asaba"
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: MCM 301, Lecturer: Dr. Akin Olaniyan, Room: Abeokuta",
+          "Course: PAU-MCM 305, Lecturer: Mr. Akeem Lasisi, Room: Bauchi",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "Course: PAU-MCM 305, Lecturer: Mr. Akeem Lasisi, Room: Bauchi",
+          "Course: CMS 301 - MCM, Lecturer: Dr. Kizito Alakwe, Room: Uyo"
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: CMS 301 - MCM, Lecturer: Dr. Kizito Alakwe, Room: Uyo"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: PAU-MCM 317, Lecturer: Dr. Mgbeadichie, Room: Bauchi",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: CMS 302, Lecturer: Prof. Okorie, Room: Maiduguri",
+          "Course: PAU-MCM 317, Lecturer: Dr. Mgbeadichie, Room: Bauchi",
+          "Course: MCM 303, Lecturer: Dr. Anuli Agina, Room: Enugu",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: CMS 302, Lecturer: Prof. Okorie, Room: Maiduguri",
+          "Course: PAU-MCM 317, Lecturer: Dr. Mgbeadichie, Room: Bauchi",
+          "Course: MCM 303, Lecturer: Dr. Anuli Agina, Room: Enugu",
+          "",
+          "Course: PAU-MCM 391, Lecturer: Dr. Emmanuel Nzeaka, Room: Asaba"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Mass Communication - Year 4",
+        "id": "MCM 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: COM 409, Lecturer: tbd, Room: Enugu",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: COM 403, Lecturer: Dr. Akin Olaniyan, Room: Enugu",
+          "",
+          "Course: COM 409, Lecturer: tbd, Room: Enugu",
+          "Course: COM 415, Lecturer: Dr. Anthony Okoeguale, Room: Jalingo",
+          "Course: COM 413, Lecturer: Dr. Sunday John, Room: Oshogbo"
+        ],
+        [
+          "12:00",
+          "Course: COM 403, Lecturer: Dr. Akin Olaniyan, Room: Enugu",
+          "",
+          "Course: COM 409, Lecturer: tbd, Room: Enugu",
+          "Course: COM 415, Lecturer: Dr. Anthony Okoeguale, Room: Jalingo",
+          "Course: COM 413, Lecturer: Dr. Sunday John, Room: Oshogbo"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: COM 415, Lecturer: Dr. Anthony Okoeguale, Room: Jalingo",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: COM 405, Lecturer: Dr. Lakinbofa Goodluck, Room: Ado-Ekiti",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: COM 401, Lecturer: Barr. Shola Soyele, Room: Enugu",
+          "Course: COM 405, Lecturer: Dr. Lakinbofa Goodluck, Room: Ado-Ekiti",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: COM 401, Lecturer: Barr. Shola Soyele, Room: Enugu",
+          "Course: COM 405, Lecturer: Dr. Lakinbofa Goodluck, Room: Ado-Ekiti",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Film & Media Studies - Year 1",
+        "id": "FMM 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: FMM 101, Lecturer: Dr. Chiemela Ogbonna, Room: Zaria",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Uyo",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: PAU-FMM 108, Lecturer: Mr. Agbo Kelly, Room: Ibadan",
+          "",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Uyo",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-FMM 108, Lecturer: Mr. Agbo Kelly, Room: Ibadan",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: PAU-FMM 104, Lecturer: Ms. Nkem Agam, Room: Oshogbo",
+          "",
+          "",
+          "",
+          "Course: PAU-FMM-103, Lecturer: Ms. Nkem Agam, Room: Umuahia"
+        ],
+        [
+          "15:00",
+          "Course: PAU-FMM 104, Lecturer: Ms. Nkem Agam, Room: Oshogbo",
+          "",
+          "Course: CMS 101 - ISM, Lecturer: Dr. Aifuwa Edosomwan, Room: Abakaliki",
+          "",
+          "Course: PAU-FMM-103, Lecturer: Ms. Nkem Agam, Room: Umuahia"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: FMM 101, Lecturer: Dr. Chiemela Ogbonna, Room: Zaria",
+          "Course: CMS 101 - ISM, Lecturer: Dr. Aifuwa Edosomwan, Room: Abakaliki",
+          "",
+          "Course: PAU-FMM-103, Lecturer: Ms. Nkem Agam, Room: Umuahia"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Film & Media Studies - Year 2",
+        "id": "FMM 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: FMM 205, Lecturer: Dr. Wammanda Usaku, Room: Asaba",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: FMM 205, Lecturer: Dr. Wammanda Usaku, Room: Asaba",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "Course: CMS 201 - FMM, Lecturer: Dr. Aifuwa Edosomwan, Room: Asaba",
+          "Course: ENT 211 - FMM, Lecturer: Miss Halima Rabiu, Room: Abeokuta",
+          "Course: FMM 201, Lecturer: Mr. Lawrence Akande, Room: Abakaliki",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "Course: CMS 201 - FMM, Lecturer: Dr. Aifuwa Edosomwan, Room: Asaba",
+          "Course: ENT 211 - FMM, Lecturer: Miss Halima Rabiu, Room: Abeokuta",
+          "Course: FMM 201, Lecturer: Mr. Lawrence Akande, Room: Abakaliki",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-FMM 292, Lecturer: ialamezie@pau.edu.ng, Room: Umuahia",
+          "BREAK",
+          "Course: PAU-FMM 291, Lecturer: Dr. Emmanuel Nzeaka, Room: Abeokuta",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "Course: PAU-FMM 291, Lecturer: Dr. Emmanuel Nzeaka, Room: Abeokuta",
+          "Course: FMM 203, Lecturer: Dr. Chiemela Ogbonna, Room: Maiduguri"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: FMM 203, Lecturer: Dr. Chiemela Ogbonna, Room: Maiduguri"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: PAU-FMM 292, Lecturer: ialamezie@pau.edu.ng, Room: Umuahia",
+          "",
+          "",
+          "Course: FMM 203, Lecturer: Dr. Chiemela Ogbonna, Room: Maiduguri"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Film & Media Studies - Year 3",
+        "id": "FMM 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "Course: FMM 303, Lecturer: Dr. Wammanda Usaku, Room: Jos",
+          "Course: PAU‐FMM 309, Lecturer: Dr. Chiemela Ogbonna, Room: Abakaliki"
+        ],
+        [
+          "10:00",
+          "",
+          "Course: CMS 301 - FMM, Lecturer: Dr. Kizito Alakwe, Room: Ibadan",
+          "",
+          "Course: FMM 303, Lecturer: Dr. Wammanda Usaku, Room: Jos",
+          "Course: PAU‐FMM 309, Lecturer: Dr. Chiemela Ogbonna, Room: Abakaliki"
+        ],
+        [
+          "11:00",
+          "Course: CMS 303, Lecturer: Dr. Kizito Alakwe, Room: Jos",
+          "Course: CMS 301 - FMM, Lecturer: Dr. Kizito Alakwe, Room: Ibadan",
+          "",
+          "",
+          "Course: PAU‐FMM 309, Lecturer: Dr. Chiemela Ogbonna, Room: Abakaliki"
+        ],
+        [
+          "12:00",
+          "Course: CMS 303, Lecturer: Dr. Kizito Alakwe, Room: Jos",
+          "",
+          "Course: FMM 305, Lecturer: Ms. Nkem Agam, Room: Ado-Ekiti",
+          "Course: FMM 307, Lecturer: Dr. Wammanda Usaku, Room: Enugu",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: ENT 312 - FMM, Lecturer: Miss Halima Rabiu, Room: Abakaliki",
+          "BREAK",
+          "Course: FMM 307, Lecturer: Dr. Wammanda Usaku, Room: Enugu",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: ENT 312 - FMM, Lecturer: Miss Halima Rabiu, Room: Abakaliki",
+          "Course: PAU‐FMM 392, Lecturer: Ms. Flora Gabtony, Room: Maiduguri",
+          "Course: FMM 307, Lecturer: Dr. Wammanda Usaku, Room: Enugu",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: FMM 301, Lecturer: Dr. Wammanda Usaku, Room: Jos",
+          "",
+          "Course: PAU‐FMM 392, Lecturer: Ms. Flora Gabtony, Room: Maiduguri",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: FMM 301, Lecturer: Dr. Wammanda Usaku, Room: Jos",
+          "",
+          "Course: FMM 305, Lecturer: Ms. Nkem Agam, Room: Ibadan",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Finance - Year 1",
+        "id": "FIN 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: Lokoja",
+          "Course: PAU-FIN 102, Lecturer: Dr. Agbonrofo Hope, Room: Umuahia",
+          "",
+          "Course: PAU-FIN 102, Lecturer: Dr. Agbonrofo Hope, Room: Zaria",
+          "Course: FIN 101, Lecturer: oikpesu@pau.edu.ng, Room: TYD New classroom"
+        ],
+        [
+          "10:00",
+          "Course: GST 112 -SMSS, Lecturer: Mr. Joseph Eneji, Room: Lokoja",
+          "Course: PAU-FIN 102, Lecturer: Dr. Agbonrofo Hope, Room: Umuahia",
+          "",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Art and Graphics Studio",
+          "Course: FIN 101, Lecturer: oikpesu@pau.edu.ng, Room: TYD New classroom"
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "Course: AMS 102 -FIN, Lecturer: Dr. Mesagan, Room: Lokoja",
+          "Course: GST 111 - SMSS, Lecturer: roji@pau.edu.ng, Room: Art and Graphics Studio",
+          "Course: FIN 101, Lecturer: oikpesu@pau.edu.ng, Room: TYD New classroom"
+        ],
+        [
+          "12:00",
+          "Course: PAU-FIN 103, Lecturer: Prof. Oloyombo, Room: Ado-Ekiti",
+          "",
+          "Course: AMS 102 -FIN, Lecturer: Dr. Mesagan, Room: Lokoja",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: AMS 104 - FIN, Lecturer: Dr. Ebegbetale, Room: Zaria",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: PAU-FIN 103, Lecturer: Prof. Oloyombo, Room: Ado-Ekiti",
+          "Course: AMS 104 - FIN, Lecturer: Dr. Ebegbetale, Room: Zaria",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16:00",
+          "Course: PAU-FIN 103, Lecturer: Prof. Oloyombo, Room: Ado-Ekiti",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Finance - Year 2",
+        "id": "FIN 200"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: FIN 204, Lecturer: Dr. Anetor, Room: Umuahia",
+          "Course: ENT 211 - FIN, Lecturer: Mr Uche Gbuna, Room: Oshogbo",
+          "Course: PAU-FIN 201, Lecturer: Dr. Ini Udofia, Room: Zaria",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "Course: FIN 204, Lecturer: Dr. Anetor, Room: Umuahia",
+          "Course: ENT 211 - FIN, Lecturer: Mr Uche Gbuna, Room: Oshogbo",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: FIN 209, Lecturer: oikpesu@pau.edu.ng, Room: Oshogbo",
+          "",
+          "Course: PAU-FIN-209, Lecturer: ialamezie@pau.edu.ng, Room: Abeokuta",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "",
+          "",
+          "Course: PAU-FIN-209, Lecturer: ialamezie@pau.edu.ng, Room: Abeokuta",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: FIN 209, Lecturer: oikpesu@pau.edu.ng, Room: Jos",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "Course: FIN 202, Lecturer: Mrs. Olaniyi Ibironke, Room: Zaria",
+          "Course: GST 212 - FIN, Lecturer: Mr. Amaobi Osuala, Room: Enugu"
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "Course: PAU-FIN 201, Lecturer: Dr. Ini Udofia, Room: Zaria",
+          "Course: FIN 202, Lecturer: Mrs. Olaniyi Ibironke, Room: Zaria",
+          "Course: GST 212 - FIN, Lecturer: Mr. Amaobi Osuala, Room: Enugu"
+        ],
+        [
+          "16:00",
+          "",
+          "Course: FIN 209, Lecturer: oikpesu@pau.edu.ng, Room: Jos",
+          "Course: PAU-FIN 201, Lecturer: Dr. Ini Udofia, Room: Zaria",
+          "",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Finance - Year 3",
+        "id": "FIN 300"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "Course: FIN 303, Lecturer: oikpesu@pau.edu.ng, Room: Ibadan",
+          "Course: FIN 315, Lecturer: Prof. Oloyombo, Room: Enugu",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "Course: FIN 313, Lecturer: Dr. Unah, Room: Umuahia",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "Course: FIN 313, Lecturer: Dr. Unah, Room: Umuahia",
+          "",
+          "Course: ENT 312 - FIN, Lecturer: Miss Halima Rabiu, Room: Zaria"
+        ],
+        [
+          "12:00",
+          "",
+          "Course: FIN 315, Lecturer: Prof. Oloyombo, Room: Enugu",
+          "",
+          "",
+          "Course: ENT 312 - FIN, Lecturer: Miss Halima Rabiu, Room: Zaria"
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: FIN 315, Lecturer: Prof. Oloyombo, Room: Enugu",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "Course: FIN 305, Lecturer: tbd, Room: Port-Harcourt",
+          "Course: FIN 304, Lecturer: Mrs. Olaniyi Ibironke, Room: Ibadan",
+          "Course: FIN 308, Lecturer: tbd, Room: Umuahia",
+          "Course: GST 312 - FIN, Lecturer: aonwudinjo@pau.edu.ng, Room: Art and Graphics Studio"
+        ],
+        [
+          "15:00",
+          "Course: FIN 303, Lecturer: oikpesu@pau.edu.ng, Room: Ibadan",
+          "Course: FIN 305, Lecturer: tbd, Room: Port-Harcourt",
+          "Course: FIN 304, Lecturer: Mrs. Olaniyi Ibironke, Room: Ibadan",
+          "Course: FIN 308, Lecturer: tbd, Room: Umuahia",
+          "Course: GST 312 - FIN, Lecturer: aonwudinjo@pau.edu.ng, Room: Art and Graphics Studio"
+        ],
+        [
+          "16:00",
+          "Course: FIN 303, Lecturer: oikpesu@pau.edu.ng, Room: Ibadan",
+          "",
+          "",
+          "Course: FIN 308, Lecturer: tbd, Room: Umuahia",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Finance - Year 4",
+        "id": "FIN 400"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "",
+          "",
+          "Course: FIN 402, Lecturer: Prof. Vincent, Room: Jalingo",
+          ""
+        ],
+        [
+          "10:00",
+          "",
+          "Course: BUS 403 - FIN, Lecturer: Dr. Lawal, Room: Zaria",
+          "",
+          "",
+          ""
+        ],
+        [
+          "11:00",
+          "",
+          "Course: BUS 403 - FIN, Lecturer: Dr. Lawal, Room: Zaria",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: BUS 403 - FIN, Lecturer: Dr. Lawal, Room: Zaria",
+          "",
+          "Course: FIN 404, Lecturer: Dr. Fredrick Ikpesu, Room: Art and Graphics Studio",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "",
+          "BREAK",
+          "Course: FIN 404, Lecturer: Dr. Fredrick Ikpesu, Room: Art and Graphics Studio",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: BUS 401 - FIN, Lecturer: Dr. Dakare, Room: Abakaliki",
+          "Course: FIN 401 - FIN, Lecturer: Dr. Unah, Room: Enugu",
+          "Course: FIN 403, Lecturer: Prof. Oloyombo, Room: Ado-Ekiti",
+          "Course: FIN 404, Lecturer: Dr. Fredrick Ikpesu, Room: Art and Graphics Studio",
+          "Course: FIN 411, Lecturer: Dr. Unah, Room: Zaria"
+        ],
+        [
+          "15:00",
+          "Course: BUS 401 - FIN, Lecturer: Dr. Dakare, Room: Abakaliki",
+          "Course: FIN 401 - FIN, Lecturer: Dr. Unah, Room: Enugu",
+          "Course: FIN 403, Lecturer: Prof. Oloyombo, Room: Ado-Ekiti",
+          "Course: FIN 402, Lecturer: Prof. Vincent, Room: Jalingo",
+          "Course: FIN 411, Lecturer: Dr. Unah, Room: Zaria"
+        ],
+        [
+          "16:00",
+          "Course: BUS 401 - FIN, Lecturer: Dr. Dakare, Room: Abakaliki",
+          "Course: FIN 401 - FIN, Lecturer: Dr. Unah, Room: Enugu",
+          "Course: FIN 403, Lecturer: Prof. Oloyombo, Room: Ado-Ekiti",
+          "Course: FIN 402, Lecturer: Prof. Vincent, Room: Jalingo",
+          "Course: FIN 411, Lecturer: Dr. Unah, Room: Zaria"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Strategic Communication - Year 1",
+        "id": "STC 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: CMS 101 - STC, Lecturer: Dr. Chioma Njoku, Room: Jos",
+          "",
+          "",
+          "Course: PAU-MCM 191 - STC, Lecturer: Fr. Basil Isiekwe, Room: Jalingo"
+        ],
+        [
+          "10:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PAU-MCM 191 - STC, Lecturer: Fr. Basil Isiekwe, Room: Jalingo"
+        ],
+        [
+          "11:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12:00",
+          "",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Bauchi",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: GST-111, Lecturer: Prof. Akinola Odebunmi, Room: Bauchi",
+          "BREAK",
+          "Course: STC 101, Lecturer: Dr. Kizito Alakwe, Room: Ibadan",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "Course: STC 109, Lecturer: nokpara@pau.edu.ng, Room: Zaria",
+          "",
+          "Course: PAU-STC 118, Lecturer: roji@pau.edu.ng, Room: Lokoja",
+          "Course: STC 101, Lecturer: Dr. Kizito Alakwe, Room: Ibadan",
+          ""
+        ],
+        [
+          "15:00",
+          "Course: STC 109, Lecturer: nokpara@pau.edu.ng, Room: Zaria",
+          "",
+          "Course: PAU-STC 118, Lecturer: roji@pau.edu.ng, Room: Lokoja",
+          "Course: CMS 109, Lecturer: Dr. Aifuwa Edosomwan, Room: Art and Graphics Studio",
+          ""
+        ],
+        [
+          "16:00",
+          "",
+          "Course: CMS 101 - STC, Lecturer: Dr. Chioma Njoku, Room: Port-Harcourt",
+          "Course: PAU-STC 118, Lecturer: roji@pau.edu.ng, Room: Lokoja",
+          "Course: CMS 109, Lecturer: Dr. Aifuwa Edosomwan, Room: Art and Graphics Studio",
+          ""
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "student_group": {
+        "name": "Data Science - Year 1",
+        "id": "DTS 100"
+      },
+      "timetable": [
+        [
+          "9:00",
+          "",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: Art and Graphics Studio",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 2",
+          "Course: PAU-CSC 192, Lecturer: Fr. Ifeanyi Ogboh, Room: Uyo"
+        ],
+        [
+          "10:00",
+          "",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: Art and Graphics Studio",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 2",
+          "Course: PAU-CSC 192, Lecturer: Fr. Ifeanyi Ogboh, Room: Uyo"
+        ],
+        [
+          "11:00",
+          "Course: MTH101, Lecturer: Dr. Clinton Ifegwu, Room: Lokoja",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Port-Harcourt",
+          "Course: STA 111, Lecturer: gokoacha@pau.edu.ng, Room: Art and Graphics Studio",
+          "Course: COS 101, Lecturer: dmoru@pau.edu.ng, Room: Computer Lab 2",
+          "Course: PHY 107 - CSC, Lecturer: Dr. Rilwan Balogun, Room: Physics and Applied Electricity lab"
+        ],
+        [
+          "12:00",
+          "Course: MTH101, Lecturer: Dr. Clinton Ifegwu, Room: Lokoja",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Port-Harcourt",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13:00",
+          "BREAK",
+          "Course: PAU-CSC 111, Lecturer: Jennifer Iloekwe, Room: Port-Harcourt",
+          "BREAK",
+          "",
+          "BREAK"
+        ],
+        [
+          "14:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PHY101, Lecturer: Dr. Rilwan Balogun, Room: Abakaliki"
+        ],
+        [
+          "16:00",
+          "",
+          "",
+          "",
+          "",
+          "Course: PHY101, Lecturer: Dr. Rilwan Balogun, Room: Abakaliki"
+        ],
+        [
+          "17:00",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "manual_cells": []
+}

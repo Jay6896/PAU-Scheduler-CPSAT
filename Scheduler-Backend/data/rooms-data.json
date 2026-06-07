@@ -1,0 +1,247 @@
+[
+  {
+    "Id": "Maiduguri",
+    "name": "Maiduguri",
+    "capacity": 64,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Ado-Ekiti",
+    "name": "Ado-Ekiti",
+    "capacity": 64,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Jalingo",
+    "name": "Jalingo",
+    "capacity": 85,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Zaria",
+    "name": "Zaria",
+    "capacity": 85,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Jos",
+    "name": "Jos",
+    "capacity": 60,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Enugu",
+    "name": "Enugu",
+    "capacity": 60,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Uyo",
+    "name": "Uyo",
+    "capacity": 48,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Lokoja",
+    "name": "Lokoja",
+    "capacity": 48,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Bauchi",
+    "name": "Bauchi",
+    "capacity": 84,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Oshogbo",
+    "name": "Oshogbo",
+    "capacity": 48,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Umuahia",
+    "name": "Umuahia",
+    "capacity": 40,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Art_and_Graphics_Studio",
+    "name": "Art and Graphics Studio",
+    "capacity": 42,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Newsroom",
+    "name": "Newsroom",
+    "capacity": 30,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Port-Harcourt",
+    "name": "Port-Harcourt",
+    "capacity": 85,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "TYD_Lenovo",
+    "name": "TYD Lenovo",
+    "capacity": 60,
+    "room_type": "Comp Lab",
+    "building": "TYD"
+  },
+  {
+    "Id": "TYD_Mac",
+    "name": "TYD Mac",
+    "capacity": 60,
+    "room_type": "Comp Lab",
+    "building": "TYD"
+  },
+  {
+    "Id": "Abeokuta",
+    "name": "Abeokuta",
+    "capacity": 32,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Abakaliki",
+    "name": "Abakaliki",
+    "capacity": 84,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Ibadan",
+    "name": "Ibadan",
+    "capacity": 72,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Asaba",
+    "name": "Asaba",
+    "capacity": 72,
+    "room_type": "Classroom",
+    "building": "TYD"
+  },
+  {
+    "Id": "Engineering_Drawing_Studio",
+    "name": "Engineering Drawing Studio",
+    "capacity": 80,
+    "room_type": "Classroom",
+    "building": "SST"
+  },
+  {
+    "Id": "Electronics__Control_and_Telecomms_Lab",
+    "name": "Electronics, Control and Telecomms Lab",
+    "capacity": 50,
+    "room_type": "Mechanics Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Electrical_Power_and_Machines_Lab",
+    "name": "Electrical Power and Machines Lab",
+    "capacity": 50,
+    "room_type": "Mechanics Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "SST_HP_Lab_1",
+    "name": "SST HP Lab 1",
+    "capacity": 48,
+    "room_type": "Comp Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Thermofluid_lab",
+    "name": "Thermofluid lab",
+    "capacity": 50,
+    "room_type": "Fluid Mech Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Mechanics_of_Machines",
+    "name": "Mechanics of Machines",
+    "capacity": 20,
+    "room_type": "Mechanics Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Classroom_1",
+    "name": "Classroom 1",
+    "capacity": 50,
+    "room_type": "Classroom",
+    "building": "SST"
+  },
+  {
+    "Id": "Classroom_2",
+    "name": "Classroom 2",
+    "capacity": 50,
+    "room_type": "Classroom",
+    "building": "SST"
+  },
+  {
+    "Id": "SST_HP_Lab_2",
+    "name": "SST HP Lab 2",
+    "capacity": 48,
+    "room_type": "Comp Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Chemistry_lab",
+    "name": "Chemistry lab",
+    "capacity": 50,
+    "room_type": "Chem Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Physics_and_Applied_Electricity_lab",
+    "name": "Physics and Applied Electricity lab",
+    "capacity": 50,
+    "room_type": "Phy Lab",
+    "building": "SST"
+  },
+  {
+    "Id": "Classroom_3",
+    "name": "Classroom 3",
+    "capacity": 50,
+    "room_type": "Classroom",
+    "building": "SST"
+  },
+  {
+    "Id": "Classroom_4",
+    "name": "Classroom 4",
+    "capacity": 50,
+    "room_type": "Classroom",
+    "building": "SST"
+  },
+  {
+    "Id": "Classroom_5",
+    "name": "Classroom 5",
+    "capacity": 50,
+    "room_type": "Classroom",
+    "building": "SST"
+  },
+  {
+    "Id": "Strength_of_Materials",
+    "name": "Strength of Materials",
+    "capacity": 15,
+    "room_type": "Classroom",
+    "building": "SST"
+  }
+]

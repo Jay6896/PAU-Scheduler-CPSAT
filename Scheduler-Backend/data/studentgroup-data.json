@@ -1,0 +1,1679 @@
+[
+  {
+    "id": "Mass Communication Year 1",
+    "name": "Mass Communication Year 1",
+    "building": "TYD",
+    "no_students": 58,
+    "courseIDs": [
+      "MCM 110",
+      "PAU-MCM-108",
+      "CMS 102",
+      "MCM 102",
+      "MCM 104",
+      "MCM 106",
+      "GST-112"
+    ],
+    "teacherIDS": [
+      "cmgbeadichie@pau.edu.ng",
+      "aagina@pau.edu.ng",
+      "cnjoku@pau.edu.ng",
+      "oduenyi@pau.edu.ng",
+      "aolaniyan@pau.edu.ng",
+      "aedosomwan@pau.edu.ng",
+      "eonukwu-Isitua@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mass Communication Year 2",
+    "name": "Mass Communication Year 2",
+    "building": "TYD",
+    "no_students": 57,
+    "courseIDs": [
+      "MCM 202",
+      "PAU-MCM 218",
+      "MCM 201",
+      "GST 212",
+      "PAU-MCM 292",
+      "MCM 204",
+      "MCM 206",
+      "MCM 208",
+      "MCM 210",
+      "MCM 212",
+      "MCM 214",
+      "MCM 216"
+    ],
+    "teacherIDS": [
+      "esere@pau.edu.ng",
+      "oakiode@pau.edu.ng",
+      "roji@pau.edu.ng",
+      "ialamezie@pau.edu.ng",
+      "oogunyemi@pau.edu.ng",
+      "sjohn@pau.edu.ng",
+      "mkolade@pau.edu.ng",
+      "tcrown@pau.edu.ng",
+      "magada-mba@pau.edu.ng",
+      "aokoeguale@pau.edu.ng",
+      "owodunni@pau.edu.ng",
+      "unwaezeapu@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mass Communication Year 3",
+    "name": "Mass Communication Year 3",
+    "building": "TYD",
+    "no_students": 57,
+    "courseIDs": [
+      "PAU-MCM 316",
+      "PAU-MCM 318",
+      "CMS 303",
+      "MCM 302",
+      "MCM",
+      "GST 312",
+      "ENT 312",
+      "MCM 308",
+      "MCM 310",
+      "MCM 312",
+      "MCM 314"
+    ],
+    "teacherIDS": [
+      "jsawyer@pau.edu.ng",
+      "Mr.",
+      "kalakwe@pau.edu.ng",
+      "sjohn-ofoleta@pau.edu.ng",
+      "jelegido@pau.edu.ng",
+      "oowodunni@pau.edu.ng",
+      "Miss",
+      "magada-mba@pau.edu.ng",
+      "Amarachi",
+      "Dr.",
+      "unwaezeapu@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mass Communication Year 4",
+    "name": "Mass Communication Year 4",
+    "building": "TYD",
+    "no_students": 57,
+    "courseIDs": [
+      "COM 406",
+      "COM 414",
+      "COM 404",
+      "COM 412"
+    ],
+    "teacherIDS": [
+      "aolaniyan@pau.edu.ng",
+      "kesere@pau.edu.ng",
+      "aagina@pau.edu.ng",
+      "cnjoku@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "Strategic Communications Year 1",
+    "name": "Strategic Communications Year 1",
+    "building": "TYD",
+    "no_students": 45,
+    "courseIDs": [
+      "PAU-MCM-108",
+      "CMS 102",
+      "STC 104",
+      "STC 102",
+      "PAU-STC 111",
+      "GST-112",
+      "STC 106"
+    ],
+    "teacherIDS": [
+      "aagina@pau.edu.ng",
+      "cnjoku@pau.edu.ng",
+      "aokoeguale@pau.edu.ng",
+      "kalakwe@pau.edu.ng",
+      "cmgbeadichie@pau.edu.ng",
+      "jeneji@pau.edu.ng",
+      "negbunike@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Information Science and Media Studies Year 1",
+    "name": "Information Science and Media Studies Year 1",
+    "building": "TYD",
+    "no_students": 58,
+    "courseIDs": [
+      "CMS 112",
+      "ISM 111",
+      "ISM 113",
+      "ISM 121",
+      "PAU-ISM 115",
+      "PAU-ISM 191"
+    ],
+    "teacherIDS": [
+      "aolaniyan@pau.edu.ng",
+      "josah@pau.edu.ng",
+      "kesere@pau.edu.ng",
+      "aokonkwo@pau.edu.ng",
+      "kmakinde@pau.edu.ng",
+      "iogboh@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Information Science and Media Studies Year 2",
+    "name": "Information Science and Media Studies Year 2",
+    "building": "TYD",
+    "no_students": 63,
+    "courseIDs": [
+      "ISM 211",
+      "ISM 212",
+      "ISM 213",
+      "ISM 223",
+      "ISM 224",
+      "PAU-ISM 210",
+      "PAU-ISM 291 (GST 203)"
+    ],
+    "teacherIDS": [
+      "csada@pau.edu.ng",
+      "aodoh@pau.edu.ng",
+      "wusaku@pau.edu.ng",
+      "kmakinde@pau.edu.ng",
+      "sjohn@pau.edu.ng",
+      "aokonkwo@pau.edu.ng",
+      "uokoro@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ]
+  },
+  {
+    "id": "Information Science and Media Studies Year 3",
+    "name": "Information Science and Media Studies Year 3",
+    "building": "TYD",
+    "no_students": 52,
+    "courseIDs": [
+      "ISM 323",
+      "CMS 311",
+      "CMS 312",
+      "CMS 313",
+      "PAU-ISM 308",
+      "PAU-ISM 310",
+      "ISM 314",
+      "PAU-ISM 316",
+      "GST 312"
+    ],
+    "teacherIDS": [
+      "eojesebholo@pau.edu.ng",
+      "alakwe@pau.edu.ng",
+      "nokorie@pau.edu.ng",
+      "josah@pau.edu.ng",
+      "danger@pau.edu.ng",
+      "aodoh@pau.edu.ng",
+      "uogbonna@pau.edu.ng",
+      "aolaniyan@pau.edu.ng",
+      "oogunyemi@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Information Science and Media Studies Year 4",
+    "name": "Information Science and Media Studies Year 4",
+    "building": "TYD",
+    "no_students": 57,
+    "courseIDs": [
+      "ISM 402",
+      "ISM 404",
+      "ISM 406",
+      "ISM 413",
+      "ISM 414",
+      "ISM 416"
+    ],
+    "teacherIDS": [
+      "magada-mba@pau.edu.ng",
+      "jelegido@pau.edu.ng",
+      "pogidi@pau.edu.ng",
+      "fogungbe@pau.edu.ng",
+      "pokposo@pau.edu.ng",
+      "scsada@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Film and Multimedia Studies Year 1",
+    "name": "Film and Multimedia Studies Year 1",
+    "building": "TYD",
+    "no_students": 50,
+    "courseIDs": [
+      "GST 112",
+      "CMS 102",
+      "FMM 102",
+      "PAU-FMM 105",
+      "PAU-FMM 106",
+      "PAU-FMM 191"
+    ],
+    "teacherIDS": [
+      "jeneji@pau.edu.ng",
+      "sjohn-ofoleta@pau.edu.ng",
+      "cogbonna@pau.edu.ngc",
+      "cmgbeadichie@pau.edu.ng",
+      "eajala@pau.edu.ng",
+      "bisiekwe@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ]
+  },
+  {
+    "id": "Film and Multimedia Studies Year 2",
+    "name": "Film and Multimedia Studies Year 2",
+    "building": "TYD",
+    "no_students": 36,
+    "courseIDs": [
+      "GST 212",
+      "FMM 202",
+      "FMM 204",
+      "FMM 206",
+      "PAU-FMM 208",
+      "PAU-FMM 210",
+      "PAU-FMM 212"
+    ],
+    "teacherIDS": [
+      "ialamezie@pau.edu.ng",
+      "eajala@pau.edu.ng",
+      "mailto:cogbonna@pau.edu.ngc",
+      "uwammanda@pau.edu.ng",
+      "lakande@pau.edu.ng",
+      "fogungbe@pau.edu.ng",
+      "aadeyeye@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Film and Multimedia Studies Year 3",
+    "name": "Film and Multimedia Studies Year 3",
+    "building": "TYD",
+    "no_students": 16,
+    "courseIDs": [
+      "GST 312",
+      "CMS 302",
+      "FMM 302",
+      "FMM 304",
+      "FMM 306",
+      "PAU‐FMM 312",
+      "PAU‐FMM 314"
+    ],
+    "teacherIDS": [
+      "oogunyemi@pau.edu.ng",
+      "(Prof.",
+      "mailto:eajala@pau.edu.ng",
+      "uwammanda@pau.edu.ng",
+      "nikeh@pau.edu.ng",
+      "lakande@pau.edu.ng",
+      "busola.olugbemileke@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ]
+  },
+  {
+    "id": "Accounting Year 1",
+    "name": "Accounting Year 1",
+    "building": "TYD",
+    "no_students": 59,
+    "courseIDs": [
+      "PAU-ACC 191",
+      "ACC 102",
+      "PAU-ACC-104",
+      "AMS 103",
+      "PAU ACC 105",
+      "PAU-ACC 107",
+      "AMS 101"
+    ],
+    "teacherIDS": [
+      "iogboh@pau.edu.ng",
+      "oowolabi@pau.edu.ng",
+      "nsolomon@pau.edu.ng",
+      "ooni@pau.edu.ng",
+      "fanetor@pau.edu.ng",
+      "oikpesu@pau.edu.ng",
+      "odakare@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      3,
+      3,
+      2,
+      3,
+      3,
+      2
+    ]
+  },
+  {
+    "id": "Accounting Year 2",
+    "name": "Accounting Year 2",
+    "building": "TYD",
+    "no_students": 38,
+    "courseIDs": [
+      "ACC 202",
+      "ACC 203",
+      "ACC 206",
+      "PAU-ACC-208",
+      "PAU-ACC-291",
+      "PAU-ACC-207"
+    ],
+    "teacherIDS": [
+      "lraheed@pau.edu.ng",
+      "iolaniyi@pau.edu.ng",
+      "jimhanzenobe@pau.edu.ng",
+      "iunah@pau.edu.ng",
+      "roji@pau.edu.ng",
+      "pokposo@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      3,
+      3,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "Accounting Year 3",
+    "name": "Accounting Year 3",
+    "building": "TYD",
+    "no_students": 33,
+    "courseIDs": [
+      "PAU-ACC 312",
+      "PAU-ACC 392",
+      "ACC 306",
+      "ACC 302",
+      "ACC 303",
+      "ACC 311",
+      "PAU-ACC 310"
+    ],
+    "teacherIDS": [
+      "oikejimba@pau.edu.ng",
+      "aogbuchi@pau.edu.ng",
+      "ovincent@pau.edu.ng",
+      "iudofia@pau.edu.ng",
+      "lraheed@pau.edu.ng",
+      "iudofia@pau.edu.ng",
+      "sokon@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Accounting Year 4",
+    "name": "Accounting Year 4",
+    "building": "TYD",
+    "no_students": 39,
+    "courseIDs": [
+      "ACC 406",
+      "ACC 405",
+      "ACC 408",
+      "ACC 409",
+      "ACC 403"
+    ],
+    "teacherIDS": [
+      "ovincent@pau.edu.ng",
+      "iokwuosa@pau.edu.ng",
+      "okpala@pau.edu.ng",
+      "lraheed@pau.edu.ng",
+      "fikpesu@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Business Administration Year 1",
+    "name": "Business Administration 1",
+    "building": "TYD",
+    "no_students": 60,
+    "courseIDs": [
+      "BUA 102",
+      "AMS 103",
+      "PAU-BUA 107",
+      "PAU-BUA 108",
+      "PAU-BUA 109",
+      "PAU-BUA 110",
+      "PAU-BUA 191"
+    ],
+    "teacherIDS": [
+      "rokolo@pau.edu.ng",
+      "ooni@pau.edu.ng",
+      "fiyoha@pau.edu.ng",
+      "oowolabi@pau.edu.ng",
+      "jbankole@pau.edu.ng",
+      "uattoh@pau.edu.ng",
+      "easogwa@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Business Administration Year  2",
+    "name": "Business Administration 2",
+    "building": "TYD",
+    "no_students": 47,
+    "courseIDs": [
+      "BUA 202",
+      "BUA 203",
+      "BUA 205",
+      "BUA 216",
+      "BUA 218",
+      "PAU-BUA 206",
+      "PAU-BUA 291"
+    ],
+    "teacherIDS": [
+      "alawal@pau.edu.ng",
+      "cebegbetale@pau.edu.ng",
+      "rokolo@pau.edu.ng",
+      "fikpesu@pau.edu.ng",
+      "gogbo@pau.edu.ng",
+      "hagbonrofo@pau.edu.ng",
+      "enzeaka@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      3,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Business Administration Year 3",
+    "name": "Business Administration 3",
+    "building": "TYD",
+    "no_students": 53,
+    "courseIDs": [
+      "BUA 304",
+      "BUA 303",
+      "BUA 321",
+      "BUA 323",
+      "PAU-BUA 315",
+      "PAU-BUA 316",
+      "PAU-BUA 317",
+      "PAU-BUA 392"
+    ],
+    "teacherIDS": [
+      "alawal@pau.edu.ng",
+      "cebegbetale@pau.edu.ng",
+      "rokolo@pau.edu.ng",
+      "fikpesu@pau.edu.ng",
+      "gogbo@pau.edu.ng",
+      "hagbonrofo@pau.edu.ng",
+      "enzeaka@pau.edu.ng",
+      "aogbuchi@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      2,
+      3,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Business Administration Year 4",
+    "name": "Business Administration 4",
+    "building": "TYD",
+    "no_students": 36,
+    "courseIDs": [
+      "BUS 404",
+      "BUS 406",
+      "BUS 407"
+    ],
+    "teacherIDS": [
+      "odakare@pau.edu.ng",
+      "genyinnaya@pau.edu.ng",
+      "alawal@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Finance Year 1",
+    "name": "Finance Year 1",
+    "building": "TYD",
+    "no_students": 58,
+    "courseIDs": [
+      "PAU-FIN-191",
+      "AMS 101",
+      "AMS 103",
+      "PAU-FIN-111",
+      "PAU-FIN-112",
+      "PAU-FIN-104",
+      "PAU-FIN- 113"
+    ],
+    "teacherIDS": [
+      "easogwa@pau.edu.ng",
+      "odakare@pau.edu.ng",
+      "ooni@pau.edu.ng",
+      "ooluyombo@pau.edu.ng",
+      "oikpesu@pau.edu.ng",
+      "fanetor@pau.edu.ng",
+      "kibekwe@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Finance Year 2",
+    "name": "Finance Year 2",
+    "building": "TYD",
+    "no_students": 44,
+    "courseIDs": [
+      "PAU-FIN 211",
+      "FIN 210",
+      "FIN 215",
+      "FIN 217",
+      "FIN 216",
+      "PAU-FIN- 209"
+    ],
+    "teacherIDS": [
+      "iudofia@pau.edu.ng",
+      "pfine@pau.edu.ng",
+      "pokposo@pau.edu.ng",
+      "tvincent@pau.edu.ng",
+      "pfine@pau.edu.ng",
+      "oekechi@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Finance Year 3",
+    "name": "Finance Year 3",
+    "building": "TYD",
+    "no_students": 19,
+    "courseIDs": [
+      "FIN 316",
+      "FIN 317",
+      "PAU-FIN 309",
+      "PAU-FIN 314",
+      "PAU-FIN 319",
+      "PAU-FIN 320",
+      "PAU-FIN 321"
+    ],
+    "teacherIDS": [
+      "pfine@pau.edu.ng",
+      "oowolabi@pau.edu.ng",
+      "iunah@pau.edu.ng",
+      "sokon@pau.edu.ng",
+      "oikejimba@pau.edu.ng",
+      "iolaniyi@pau.edu.ng",
+      "aonwudinjo@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      3,
+      2,
+      3,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Finance Year 4",
+    "name": "Finance Year 4",
+    "building": "TYD",
+    "no_students": 8,
+    "courseIDs": [
+      "BUS 402",
+      "FIN 406",
+      "FIN 407",
+      "FIN 408",
+      "FIN 409",
+      "FIN 410"
+    ],
+    "teacherIDS": [
+      "odakare@pau.edu.ng",
+      "iunah@pau.edu.ng",
+      "fikpesu@pau.edu.ng",
+      "oowolabi@pau.edu.ng",
+      "ooluyombo@pau.edu.ng",
+      "pose1@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Economics Year 1",
+    "name": "Economics Year 1",
+    "building": "TYD",
+    "no_students": 58,
+    "courseIDs": [
+      "PAU-ECO 191",
+      "ECO 102",
+      "ECO 104",
+      "PAU-ECO 106",
+      "PAU-ECO 108",
+      "PAU-ECO 110",
+      "PAU-ECO 112"
+    ],
+    "teacherIDS": [
+      "bisiekwe@pau.edu.ng",
+      "hagbonrofo@pau.edu.ng",
+      "snwani@pau.edu.ng",
+      "jujah@pau.edu.ng",
+      "ooluyombo@pau.edu.ng",
+      "rokolo@pau.edu.ng",
+      "fikpesu@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Economics Year 2",
+    "name": "Economics Year 2",
+    "building": "TYD",
+    "no_students": 59,
+    "courseIDs": [
+      "SSC 202",
+      "ECO 202",
+      "ECO 204",
+      "ECO 206",
+      "PAU-ECO 208",
+      "PAU-ECO 291"
+    ],
+    "teacherIDS": [
+      "okposo@pau.edu.ng",
+      "hagbonrofo@pau.edu.ng",
+      "pose1@pau.edu.ng",
+      "snwani@pau.edu.ng",
+      "eozegbe@pau.edu.ng",
+      "enzeaka@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Economics Year 3",
+    "name": "Economics Year 3",
+    "building": "TYD",
+    "no_students": 63,
+    "courseIDs": [
+      "ECO 305",
+      "ECO 302",
+      "ECO 304",
+      "ECO 310",
+      "SSC 302",
+      "PAU-ECO 314",
+      "PAU-ECO 316",
+      "PAU-ECO 317",
+      "PAU-ECO 318",
+      "PAU-ECO 320",
+      "PAU-ECO 392"
+    ],
+    "teacherIDS": [
+      "eozegbe@pau.edu.ng",
+      "snwani@pau.edu.ng",
+      "doke@pau.edu.ng",
+      "eozegbe@pau.edu.ng",
+      "eolaniyi@pau.edu.ng",
+      "oikejimba@pau.edu.ng",
+      "okposo@pau.edu.ng",
+      "tomolokun@pau.ng.ng",
+      "eosuji@pau.edu.ng",
+      "aarije@pau.edu.ng",
+      "aonaga@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Economics Year 4",
+    "name": "Economics Year 4",
+    "building": "TYD",
+    "no_students": 62,
+    "courseIDs": [
+      "ECO 421",
+      "ECO 422",
+      "ECO 423",
+      "ECO 426",
+      "ECO 427",
+      "ECO 428",
+      "BUS 301"
+    ],
+    "teacherIDS": [
+      "eolaniyi@pau.edu.ng",
+      "emesagan@pau.edu.ng",
+      "hagbonrofo@pau.edu.ng",
+      "nsolomon@pau.edu.ng",
+      "nsolomon@pau.edu.ng",
+      "eozegbe@pau.edu.ng",
+      "jnmhamzenobe@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "Mechatronics Year 1",
+    "name": "Mechatronics Year 1",
+    "building": "SST",
+    "no_students": 52,
+    "courseIDs": [
+      "GET 102",
+      "PAU-MCT 112",
+      "PAU-MCT 103",
+      "PAU-MCT 104",
+      "PHY 108",
+      "CHM 102",
+      "CHM 108",
+      "MTH 102",
+      "MTH 103",
+      "GST 112"
+    ],
+    "teacherIDS": [
+      "patrick.onwordi@pau.edu.ng",
+      "aoyelami@pau.edu.ng",
+      "agreen@pau.edu.ng",
+      "gdosunmu@pau.edu.ng",
+      "oakintunde@pau.edu.ng",
+      "eofor@pau.edu.ng",
+      "eofor@pau.edu.ng",
+      "aijezie@pau.edu.ng",
+      "jaroloye@pau.edu.ng",
+      "aonobhayedo@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mechatronics Year 2",
+    "name": "Mechatronics Year 2",
+    "building": "SST",
+    "no_students": 47,
+    "courseIDs": [
+      "GET 202",
+      "GET 204",
+      "GET 208",
+      "GET 210",
+      "GET 206",
+      "PAU-MCE 204",
+      "PAU-MEE 202",
+      "GST 212"
+    ],
+    "teacherIDS": [
+      "cabima@pau.edu.ng",
+      "jajiboye@pau.edu.ng",
+      "rloto@pau.edu.ng",
+      "aoyelami@pau.edu.ng",
+      "aonokwai@pau.edu.ng",
+      "ponu@pau.edu.ng",
+      "nedomah@pau.edu.ng",
+      "ckezie@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      3,
+      3,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mechanical Engineering Year 1",
+    "name": "Mechanical Engineering Year 1",
+    "building": "SST",
+    "no_students": 52,
+    "courseIDs": [
+      "GET 102",
+      "PAU-MEE 112",
+      "PAU-MEE 103",
+      "PAU-MEE 104",
+      "PHY 108",
+      "CHM 102",
+      "CHM 108",
+      "MTH 102",
+      "MTH 103",
+      "GST 112"
+    ],
+    "teacherIDS": [
+      "patrick.onwordi@pau.edu.ng",
+      "aoyelami@pau.edu.ng",
+      "agreen@pau.edu.ng",
+      "gdosunmu@pau.edu.ng",
+      "oakintunde@pau.edu.ng",
+      "eofor@pau.edu.ng",
+      "eofor@pau.edu.ng",
+      "aijezie@pau.edu.ng",
+      "jaroloye@pau.edu.ng",
+      "jeneji@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mechanical Engineering Year 2",
+    "name": "Mechanical Engineering Year 2",
+    "building": "SST",
+    "no_students": 22,
+    "courseIDs": [
+      "GET 202",
+      "GET 204",
+      "GET 206",
+      "GET 208",
+      "GET 210",
+      "GST212",
+      "PAU-MEE 202"
+    ],
+    "teacherIDS": [
+      "cabima@pau.edu.ng",
+      "jajiboye@pau.edu.ng",
+      "aonokwai@pau.edu.ng",
+      "rloto@pau.edu.ng",
+      "aoyelami@pau.edu.ng",
+      "ckezie@pau.edu.ng",
+      "nedomah@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mechanical Engineering Year 3",
+    "name": "Mechanical Engineering Year 3",
+    "building": "SST",
+    "no_students": 31,
+    "courseIDs": [
+      "MEE 306",
+      "PAU-MEE 306",
+      "GET 302",
+      "GET 304",
+      "GET 307",
+      "PAU-MEE 310",
+      "PAU-MEE 312",
+      "PAU-MEE 322"
+    ],
+    "teacherIDS": [
+      "sigwe@pau.edu.ng",
+      "aonokwai@pau.edu.ng",
+      "oavbenake@pau.edu.ng",
+      "banyaegbuna@pau.edu.ng",
+      "amakinde@pau.edu.ng",
+      "gihenacho@pau.edu.ng",
+      "cabima@pau.edu.ng",
+      "jajiboye@pau.edu.ng"
+    ],
+    "hours_required": [
+      1,
+      2,
+      3,
+      3,
+      3,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Mechanical Engineering Year 4",
+    "name": "Mechanical Engineering Year 4",
+    "building": "SST",
+    "no_students": 22,
+    "courseIDs": [
+      "MEE 402",
+      "MEE 404",
+      "GET 402",
+      "GET 404",
+      "PAU-MCE 423",
+      "PAU-MEE 404",
+      "PAU-MEE 402"
+    ],
+    "teacherIDS": [
+      "gihenacho@pau.edu.ng",
+      "p.ose@pau.edu.ng",
+      "banyaegbuna@pau.edu.ng",
+      "aowolabi@lbs.edu.ng",
+      "banyaegbuna@pau.edu.ng",
+      "cosueke@pau.edu.ng",
+      "dagholor@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "Mechanical Engineering Year 5",
+    "name": "Mechanical Engineering Year 5",
+    "building": "SST",
+    "no_students": 17,
+    "courseIDs": [
+      "PAU-MEE 510",
+      "PAU-MEE 518",
+      "GET 502"
+    ],
+    "teacherIDS": [
+      "uegbuchulam@pau.edu.ng",
+      "ponu@pau.edu.ng",
+      "tvincent@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Electrical & Electronics Engineering Year 1",
+    "name": "Electrical & Electronics Engineering Year 1",
+    "building": "SST",
+    "no_students": 50,
+    "courseIDs": [
+      "PHY 108",
+      "MTH 102",
+      "PAU-EEE-112",
+      "PAU-EEE-103",
+      "PAU-EEE-104",
+      "CHM 102",
+      "CHM 108",
+      "GET 102",
+      "GST 112",
+      "MTH 103"
+    ],
+    "teacherIDS": [
+      "oakintunde@pau.edu.ng",
+      "aijezie@pau.edu.ng",
+      "oavbenake@pau.edu.ng",
+      "gdosunmu@pau.edu.ng",
+      "oakintunde@pau.edu.ng",
+      "eofor@pau.edu.ng",
+      "cifegwu@pau.edu.ng",
+      "ponwordi@pau.edu.ng",
+      "jeneji@pau.edu.ng",
+      "gokoacha@pau.edu.ng"
+    ],
+    "hours_required": [
+      1,
+      2,
+      3,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Electrical & Electronics Engineering Year 2",
+    "name": "Electrical & Electronics Engineering Year 2",
+    "building": "SST",
+    "no_students": 35,
+    "courseIDs": [
+      "EEE 204",
+      "GET 206",
+      "GET 210",
+      "GST 212",
+      "GET 299",
+      "GET 204",
+      "EEE 202",
+      "PAU-EEE 208"
+    ],
+    "teacherIDS": [
+      "dokojie@pau.edu.ng",
+      "aonokwai@pau.edu.ng",
+      "aoyelami@pau.edu.ng",
+      "ckezie@pau.edu.ng",
+      "careers@pau.edu.ng",
+      "jajiboye@pau.edu.ng",
+      "nedomah@pau.edu.ng",
+      "rloto@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      3,
+      2,
+      3,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "id": "Electrical & Electronics Engineering Year 3",
+    "name": "Electrical & Electronics Engineering Year 3",
+    "building": "SST",
+    "no_students": 33,
+    "courseIDs": [
+      "GET 307",
+      "GET 304",
+      "GET 302",
+      "EEE 322",
+      "PAU-EEE 312",
+      "EEE 326",
+      "EEE 324",
+      "GET 399",
+      "PAU-EEE 310",
+      "PAU-EEE 308"
+    ],
+    "teacherIDS": [
+      "amakinde@pau.edu.ng",
+      "banyaegbuna@pau.edu.ng",
+      "oavbenake@pau.edu.ng",
+      "dokojie@pau.edu.ng",
+      "jbandele@pau.edu.ng",
+      "oomeje@pau.edu.ng",
+      "oomeje@pau.edu.ng",
+      "careers@pau.edu.ng",
+      "nedomah@pau.edu.ng",
+      "jbandele@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      4,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Electrical & Electronics Engineering Year 4",
+    "name": "Electrical & Electronics Engineering Year 4",
+    "building": "SST",
+    "no_students": 30,
+    "courseIDs": [
+      "PAU-EEE 402",
+      "PAU-EEE 413",
+      "GET 402",
+      "GET 404"
+    ],
+    "teacherIDS": [
+      "nedomah@pau.edu.ng",
+      "dagholor@pau.edu.ng",
+      "nedomah@pau.edu.ng",
+      "aowolabi@lbs.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Electrical & Electronics Engineering Year 5",
+    "name": "Electrical & Electronics Engineering Year 5",
+    "building": "SST",
+    "no_students": 16,
+    "courseIDs": [
+      "PAU-EEE 510",
+      "GET 502",
+      "PAU-EEE 506",
+      "PAU-EEE 512",
+      "PAU-EEE 514"
+    ],
+    "teacherIDS": [
+      "banyaegbuna@pau.edu.ng",
+      "p.ose@pau.edu.ng",
+      "p.ose@pau.edu.ng",
+      "eusen@pau.edu.ng",
+      "madelabu@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Computers Science Year 1",
+    "name": "Computers Science Year 1",
+    "building": "SST",
+    "no_students": 54,
+    "courseIDs": [
+      "COS 102",
+      "PAU-CSC 112",
+      "PAU-CSC 114",
+      "PHY 108",
+      "PHY 102",
+      "MTH 102",
+      "GST 112",
+      "GST 111"
+    ],
+    "teacherIDS": [
+      "dmoru@pau.edu.ng",
+      "jiloekwe@pau.edu.ng",
+      "kmuka@pau.edu.ng",
+      "rbalogun@pau.edu.ng",
+      "rbalogun@pau.edu.ng",
+      "cifegwu@pau.edu.ng",
+      "aonobhayedo@pau.edu.ng",
+      "uokoro@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Computers Science Year 2 Stream I",
+    "name": "Computers Science Year 2 Stream I",
+    "building": "SST",
+    "no_students": 52,
+    "courseIDs": [
+      "COS 202",
+      "IFT 212",
+      "INS204",
+      "PAU-CSC 214",
+      "MTH 202",
+      "PAU-CSC 212",
+      "GST 212",
+      "PAU-CSC 293"
+    ],
+    "teacherIDS": [
+      "fenemou@pau.edu.ng",
+      "sakinboro@pau.edu.ng",
+      "foliha@pau.edu.ng",
+      "segunjobi@pau.edu.ng",
+      "jehigie@pau.edu.ng",
+      "kkolade@pau.edu.ng",
+      "ose1@pau.edu.ng",
+      "oekechi@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Computers Science Year 2 Stream II",
+    "name": "Computers Science Year 2 Stream II",
+    "building": "SST",
+    "no_students": 47,
+    "courseIDs": [
+      "COS 202",
+      "IFT 212",
+      "INS204",
+      "PAU-CSC 214",
+      "MTH 202",
+      "PAU-CSC 212",
+      "GST 212",
+      "PAU-CSC 293"
+    ],
+    "teacherIDS": [
+      "fenemou@pau.edu.ng",
+      "sakinboro@pau.edu.ng",
+      "foliha@pau.edu.ng",
+      "segunjobi@pau.edu.ng",
+      "jehigie@pau.edu.ng",
+      "kkolade@pau.edu.ng",
+      "ose@pau.edu.ng",
+      "roji@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Computers Science Year 3",
+    "name": "Computers Science Year 3",
+    "building": "SST",
+    "no_students": 59,
+    "courseIDs": [
+      "ICT 305",
+      "DTS 304",
+      "CSC 313",
+      "CSC 309",
+      "PAU-CSC 310",
+      "GST 302",
+      "ENT 312"
+    ],
+    "teacherIDS": [
+      "salile@pau.edu.ng",
+      "sadubi@pau.edu.ng",
+      "tamaoo@pau.edu.ng",
+      "dibidapo@pau.edu.ng",
+      "chukwudi.ofoma@pau.edu.ng",
+      "aonwudinjo@pau.edu.ng",
+      "joy@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Computers Science Year 4 Stream I",
+    "name": "Computers Science Year 4 Stream I",
+    "building": "SST",
+    "no_students": 41,
+    "courseIDs": [
+      "PAU-CSC 411",
+      "CSC 401",
+      "PAU-CSC 416",
+      "PAU-CSC 413",
+      "PAU-CSC 417"
+    ],
+    "teacherIDS": [
+      "tamaoo@pau.edu.ng",
+      "aogbuchi@pau.edu.ng",
+      "dmoru@pau.edu.ng",
+      "oIheanetu@pau.edu.ng",
+      "jiloekwe@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      3,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "Computers Science Year 4 Stream II",
+    "name": "Computers Science Year 4 Stream II",
+    "building": "SST",
+    "no_students": 50,
+    "courseIDs": [
+      "PAU-CSC 411",
+      "CSC 401",
+      "CSC 498",
+      "PAU-CSC 416",
+      "PAU-CSC 413",
+      "PAU-CSC 417"
+    ],
+    "teacherIDS": [
+      "tamaoo@pau.edu.ng",
+      "ose1@pau.edu.ng",
+      "jiloekwe@pau.edu.ng",
+      "dmoru@pau.edu.ng",
+      "oIheanetu@pau.edu.ng",
+      "jiloekwe@pau.edu.ng"
+    ],
+    "hours_required": [
+      2,
+      2,
+      3,
+      3,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "Software Engineering Year 1",
+    "name": "Software Engineering Year 1",
+    "building": "SST",
+    "no_students": 57,
+    "courseIDs": [
+      "COS 102",
+      "PAU-CSC 112",
+      "PAU-CSC 114",
+      "PHY 108",
+      "PHY 102",
+      "MTH 102",
+      "GST 112",
+      "GST 111"
+    ],
+    "teacherIDS": [
+      "dmoru@pau.edu.ng",
+      "jiloekwe@pau.edu.ng",
+      "kmuka@pau.edu.ng",
+      "rbalogun@pau.edu.ng",
+      "rbalogun@pau.edu.ng",
+      "cifegwu@pau.edu.ng",
+      "aonobhayedo@pau.edu.ng",
+      "roji@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Software Engineering Year 2",
+    "name": "Software Engineering Year 2",
+    "building": "SST",
+    "no_students": 49,
+    "courseIDs": [
+      "COS 202",
+      "IFT 212",
+      "INS204",
+      "PAU-CSC 214",
+      "MTH 202",
+      "PAU-CSC 212",
+      "GST 212",
+      "PAU-CSC 293"
+    ],
+    "teacherIDS": [
+      "fenemou@pau.edu.ng",
+      "sakinboro@pau.edu.ng",
+      "foliha@pau.edu.ng",
+      "segunjobi@pau.edu.ng",
+      "jehigie@pau.edu.ng",
+      "kkolade@pau.edu.ng",
+      "ckezie@pau.edu.ng",
+      "enzeaka@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      2,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Software Engineering Year 3",
+    "name": "Software Engineering Year 3",
+    "building": "SST",
+    "no_students": 45,
+    "courseIDs": [
+      "ICT 305",
+      "DTS 304",
+      "CSC 313",
+      "CSC 309",
+      "PAU-CSC 310",
+      "GST 302",
+      "ENT 312"
+    ],
+    "teacherIDS": [
+      "salile@pau.edu.ng",
+      "sadubi@pau.edu.ng",
+      "tamaoo@pau.edu.ng",
+      "dibidapo@pau.edu.ng",
+      "chukwudi.ofoma@pau.edu.ng",
+      "ose@pau.edu.ng",
+      "ose1@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "id": "Data Science Year 1",
+    "name": "Data Science Year 1",
+    "building": "SST",
+    "no_students": 0,
+    "courseIDs": [
+      "COS 102",
+      "PAU-CSC 112",
+      "PAU-CSC 114",
+      "PHY 108",
+      "PHY 102",
+      "MTH 102",
+      "GST 112",
+      "GST 111"
+    ],
+    "teacherIDS": [
+      "dmoru@pau.edu.ng",
+      "jiloekwe@pau.edu.ng",
+      "kmuka@pau.edu.ng",
+      "rbalogun@pau.edu.ng",
+      "rbalogun@pau.edu.ng",
+      "cifegwu@pau.edu.ng",
+      "aonobhayedo@pau.edu.ng",
+      "oekechi@pau.edu.ng"
+    ],
+    "hours_required": [
+      3,
+      3,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2
+    ]
+  }
+]

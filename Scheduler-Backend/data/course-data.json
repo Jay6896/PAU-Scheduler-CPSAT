@@ -1,0 +1,4329 @@
+[
+  {
+    "name": "Critical and Creative Thinking",
+    "code": "MCM 110",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "cmgbeadichie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Media Literacy",
+    "code": "PAU-MCM-108",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "aagina@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Writing for the Media",
+    "code": "CMS 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "cnjoku@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Public Relations",
+    "code": "MCM 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "oduenyi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to News Writing",
+    "code": "MCM 104",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "aolaniyan@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "African Communication Systems",
+    "code": "MCM 106",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "aedosomwan@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples and Culture",
+    "code": "GST-112",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 1"
+    ],
+    "facultyId": [
+      "eonukwu-Isitua@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Editing and Graphics of Communication",
+    "code": "MCM 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "esere@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Children’s Media (Tues or Thurs. 11-2pm)",
+    "code": "PAU-MCM 218",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "oakiode@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Critical and Reviewing Writing",
+    "code": "MCM 201",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "roji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "ialamezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "The Nature of Human Beings",
+    "code": "PAU-MCM 292",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "oogunyemi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Advanced and Specialized Reporting",
+    "code": "MCM 204",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "sjohn@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Manuscript Editing, Design and layout in Book Publishing",
+    "code": "MCM 206",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "mkolade@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Radio/Television Programme Writing",
+    "code": "MCM 208",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "tcrown@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Presentation and Performance",
+    "code": "MCM 210",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "magada-mba@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Marketing Foundations for Public Relations and Advertising",
+    "code": "MCM 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "aokoeguale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Advert Copy Writing",
+    "code": "MCM 214",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "owodunni@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Media Relations",
+    "code": "MCM 216",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 2"
+    ],
+    "facultyId": [
+      "unwaezeapu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Brand Management",
+    "code": "PAU-MCM 316",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "jsawyer@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Entertainment Business",
+    "code": "PAU-MCM 318",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "Mr.",
+      "Chukwudi",
+      "Ezugwu"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data analysis in Communication Research",
+    "code": "CMS 303",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "kalakwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Online Journalism",
+    "code": "MCM 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "sjohn-ofoleta@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Media Ethics",
+    "code": "MCM",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "jelegido@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Peace and Conflict Resolution",
+    "code": "GST 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "oowodunni@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Venture Creation",
+    "code": "ENT 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "Miss",
+      "Joy"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Broadcast Programming, Management and Operations",
+    "code": "MCM 308",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "magada-mba@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "International and Foreign Broadcasting",
+    "code": "MCM 310",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "Amarachi",
+      "Ubani"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Organisation and Management of Advertising and PR Agencies",
+    "code": "MCM 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "Dr.",
+      "Chuddy",
+      "Oduneyi"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "International Public Relations and Advertising",
+    "code": "MCM 314",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 3"
+    ],
+    "facultyId": [
+      "unwaezeapu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Evaluating the Media",
+    "code": "COM 406",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 4"
+    ],
+    "facultyId": [
+      "aolaniyan@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Science, Technology and Communication",
+    "code": "COM 414",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 4"
+    ],
+    "facultyId": [
+      "kesere@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Media, Family and Society",
+    "code": "COM 404",
+    "credits": 2,
+    "student_groupsID": [
+      "Mass Communication Year 4"
+    ],
+    "facultyId": [
+      "aagina@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Specialized Reporting",
+    "code": "COM 412",
+    "credits": 3,
+    "student_groupsID": [
+      "Mass Communication Year 4"
+    ],
+    "facultyId": [
+      "cnjoku@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Media Literacy",
+    "code": "PAU-MCM-108",
+    "credits": 2,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "aagina@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Writing for the Media",
+    "code": "CMS 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "cnjoku@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Public Relations",
+    "code": "STC 104",
+    "credits": 2,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "aokoeguale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Critical Web Literacy",
+    "code": "STC 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "kalakwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Creative and Critical Thinking",
+    "code": "PAU-STC 111",
+    "credits": 3,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "cmgbeadichie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples and Culture",
+    "code": "GST-112",
+    "credits": 2,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "jeneji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Digital Media Skills",
+    "code": "STC 106",
+    "credits": 2,
+    "student_groupsID": [
+      "Strategic Communications Year 1"
+    ],
+    "facultyId": [
+      "negbunike@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Writing for the Media",
+    "code": "CMS 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 1"
+    ],
+    "facultyId": [
+      "aolaniyan@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Information science",
+    "code": "ISM 111",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 1"
+    ],
+    "facultyId": [
+      "josah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Aided Design in Media Production",
+    "code": "ISM 113",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 1"
+    ],
+    "facultyId": [
+      "kesere@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Wed-based Technologies and Multimedia",
+    "code": "ISM 121",
+    "credits": 3,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 1"
+    ],
+    "facultyId": [
+      "aokonkwo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Freehand Sketches",
+    "code": "PAU-ISM 115",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 1"
+    ],
+    "facultyId": [
+      "kmakinde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Christian Theology",
+    "code": "PAU-ISM 191",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 1"
+    ],
+    "facultyId": [
+      "iogboh@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Image Processing and Application",
+    "code": "ISM 211",
+    "credits": 3,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "csada@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Applied Computer Graphics",
+    "code": "ISM 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "aodoh@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Film and Cinematography",
+    "code": "ISM 213",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "wusaku@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Multimedia Scripting",
+    "code": "ISM 223",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "kmakinde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to online and investigative Journalism",
+    "code": "ISM 224",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "sjohn@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Mobile-Based Technologies and Multimedia",
+    "code": "PAU-ISM 210",
+    "credits": 3,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "aokonkwo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-ISM 291 (GST 203)",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 2"
+    ],
+    "facultyId": [
+      "uokoro@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Audio and Video System Technology",
+    "code": "ISM 323",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "eojesebholo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Theories of Communication",
+    "code": "CMS 311",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "alakwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Foundation of Communication Research",
+    "code": "CMS 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "nokorie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data analysis in Communication Research",
+    "code": "CMS 313",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "josah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Game Design and Development 1",
+    "code": "PAU-ISM 308",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "danger@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Marketing Communication",
+    "code": "PAU-ISM 310",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "aodoh@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "e-Commerce and Business Communication",
+    "code": "ISM 314",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "uogbonna@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Media Management",
+    "code": "PAU-ISM 316",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "aolaniyan@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Peace and Conflict Resolution",
+    "code": "GST 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 3"
+    ],
+    "facultyId": [
+      "oogunyemi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Production Management (TV)",
+    "code": "ISM 402",
+    "credits": 3,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 4"
+    ],
+    "facultyId": [
+      "magada-mba@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional Ethics",
+    "code": "ISM 404",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 4"
+    ],
+    "facultyId": [
+      "jelegido@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Rendering",
+    "code": "ISM 406",
+    "credits": 3,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 4"
+    ],
+    "facultyId": [
+      "pogidi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Entertainment Media",
+    "code": "ISM 413",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 4"
+    ],
+    "facultyId": [
+      "fogungbe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Security",
+    "code": "ISM 414",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 4"
+    ],
+    "facultyId": [
+      "pokposo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Natural Language Processing",
+    "code": "ISM 416",
+    "credits": 2,
+    "student_groupsID": [
+      "Information Science and Media Studies Year 4"
+    ],
+    "facultyId": [
+      "scsada@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples and Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 1"
+    ],
+    "facultyId": [
+      "jeneji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Writing for the Media",
+    "code": "CMS 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 1"
+    ],
+    "facultyId": [
+      "sjohn-ofoleta@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Film, Multimedia, and Culture I",
+    "code": "FMM 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 1"
+    ],
+    "facultyId": [
+      "cogbonna@pau.edu.ngc"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Critical and Creative Thinking",
+    "code": "PAU-FMM 105",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 1"
+    ],
+    "facultyId": [
+      "cmgbeadichie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Content Creator and Society",
+    "code": "PAU-FMM 106",
+    "credits": 3,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 1"
+    ],
+    "facultyId": [
+      "eajala@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Christian Theology",
+    "code": "PAU-FMM 191",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 1"
+    ],
+    "facultyId": [
+      "bisiekwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "ialamezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Literacy",
+    "code": "FMM 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "eajala@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Film, Multimedia and Culture II",
+    "code": "FMM 204",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "mailto:cogbonna@pau.edu.ngc"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elements of Multimedia Production",
+    "code": "FMM 206",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "uwammanda@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Sound",
+    "code": "PAU-FMM 208",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "lakande@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "World Cinema",
+    "code": "PAU-FMM 210",
+    "credits": 3,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "fogungbe@pau.edu.ng",
+      "aadah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Music Score for Film and Multimedia",
+    "code": "PAU-FMM 212",
+    "credits": 3,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 2"
+    ],
+    "facultyId": [
+      "aadeyeye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Peace and Conflict Resolution",
+    "code": "GST 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "oogunyemi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Foundation of Communication  Research",
+    "code": "CMS 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "(Prof.",
+      "Okorie",
+      "Dr.",
+      "Yusuf)"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Storytelling I",
+    "code": "FMM 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "mailto:eajala@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Cinematography, Motion Picture Sound and Digital Technology II",
+    "code": "FMM 304",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "uwammanda@pau.edu.ng",
+      "lakande@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Film and Multimedia Production Design and Editing II",
+    "code": "FMM 306",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "nikeh@pau.edu.ng",
+      "cngoka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "3D Design and Visual Effects for Films",
+    "code": "PAU‐FMM 312",
+    "credits": 3,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "lakande@pau.edu.ng",
+      "cngoka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Media Distribution",
+    "code": "PAU‐FMM 314",
+    "credits": 2,
+    "student_groupsID": [
+      "Film and Multimedia Studies Year 3"
+    ],
+    "facultyId": [
+      "busola.olugbemileke@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Christian Theology",
+    "code": "PAU-ACC 191",
+    "credits": 2,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "iogboh@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Financial Accounting II (ACC & FIN)",
+    "code": "ACC 102",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "oowolabi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Economics II",
+    "code": "PAU-ACC-104",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "nsolomon@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Computing",
+    "code": "AMS 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "ooni@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Statistics",
+    "code": "PAU ACC 105",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "fanetor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Finance II",
+    "code": "PAU-ACC 107",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "oikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Management",
+    "code": "AMS 101",
+    "credits": 2,
+    "student_groupsID": [
+      "Accounting Year 1"
+    ],
+    "facultyId": [
+      "odakare@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Financial Accounting II",
+    "code": "ACC 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 2"
+    ],
+    "facultyId": [
+      "lraheed@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Corporate Governance & Accounting Ethics",
+    "code": "ACC 203",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 2"
+    ],
+    "facultyId": [
+      "iolaniyi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Accounting Laboratory",
+    "code": "ACC 206",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 2"
+    ],
+    "facultyId": [
+      "jimhanzenobe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Financial Analytics",
+    "code": "PAU-ACC-208",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 2"
+    ],
+    "facultyId": [
+      "iunah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-ACC-291",
+    "credits": 2,
+    "student_groupsID": [
+      "Accounting Year 2"
+    ],
+    "facultyId": [
+      "roji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Transformation in Accounting",
+    "code": "PAU-ACC-207",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 2"
+    ],
+    "facultyId": [
+      "pokposo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Ethics",
+    "code": "PAU-ACC 312",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "oikejimba@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional and Personal Skills",
+    "code": "PAU-ACC 392",
+    "credits": 2,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "aogbuchi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Taxation II",
+    "code": "ACC 306",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "ovincent@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Financial Reporting II",
+    "code": "ACC 302",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "iudofia@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Management Accounting",
+    "code": "ACC 303",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "lraheed@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Entrepreneurship in Accounting",
+    "code": "ACC 311",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "iudofia@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Research Methods",
+    "code": "PAU-ACC 310",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 3"
+    ],
+    "facultyId": [
+      "sokon@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Tax Management & Practice",
+    "code": "ACC 406",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 4"
+    ],
+    "facultyId": [
+      "ovincent@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "International Accounting",
+    "code": "ACC 405",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 4"
+    ],
+    "facultyId": [
+      "iokwuosa@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Public Sector Accounting 11",
+    "code": "ACC 408",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 4"
+    ],
+    "facultyId": [
+      "okpala@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Forensic Accounting and Fraud Examination",
+    "code": "ACC 409",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 4"
+    ],
+    "facultyId": [
+      "lraheed@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Multi-Disciplinary Case Study",
+    "code": "ACC 403",
+    "credits": 3,
+    "student_groupsID": [
+      "Accounting Year 4"
+    ],
+    "facultyId": [
+      "fikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Business II",
+    "code": "BUA 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "rokolo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Computers",
+    "code": "AMS 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "ooni@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Economics II",
+    "code": "PAU-BUA 107",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "fiyoha@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Financial Accounting II",
+    "code": "PAU-BUA 108",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "oowolabi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Marketing",
+    "code": "PAU-BUA 109",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "jbankole@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Industrial Relations & Employee Relations",
+    "code": "PAU-BUA 110",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "uattoh@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Christian Thelogy",
+    "code": "PAU-BUA 191",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 1"
+    ],
+    "facultyId": [
+      "easogwa@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Business Administration II",
+    "code": "BUA 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "alawal@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Statistics",
+    "code": "BUA 203",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "cebegbetale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Leadership and Governance",
+    "code": "BUA 205",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "rokolo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Financial Management",
+    "code": "BUA 216",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "fikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Green Management",
+    "code": "BUA 218",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "gogbo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Managerial Economics",
+    "code": "PAU-BUA 206",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "hagbonrofo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-BUA 291",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year  2"
+    ],
+    "facultyId": [
+      "enzeaka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Human Resource Management",
+    "code": "BUA 304",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "alawal@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Management Theory",
+    "code": "BUA 303",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "cebegbetale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Start-up",
+    "code": "BUA 321",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "rokolo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Supply Chain Management",
+    "code": "BUA 323",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "fikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Research Methods",
+    "code": "PAU-BUA 315",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "gogbo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Ethics",
+    "code": "PAU-BUA 316",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "hagbonrofo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Law",
+    "code": "PAU-BUA 317",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "enzeaka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional and Personal Skills",
+    "code": "PAU-BUA 392",
+    "credits": 2,
+    "student_groupsID": [
+      "Business Administration Year 3"
+    ],
+    "facultyId": [
+      "aogbuchi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Policy & Strategy II",
+    "code": "BUS 404",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 4"
+    ],
+    "facultyId": [
+      "odakare@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Corporate Planning",
+    "code": "BUS 406",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 4"
+    ],
+    "facultyId": [
+      "genyinnaya@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Comparative Management",
+    "code": "BUS 407",
+    "credits": 3,
+    "student_groupsID": [
+      "Business Administration Year 4"
+    ],
+    "facultyId": [
+      "alawal@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Christian Theology",
+    "code": "PAU-FIN-191",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "easogwa@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Management",
+    "code": "AMS 101",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "odakare@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Computers",
+    "code": "AMS 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "ooni@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Financial Accounting II",
+    "code": "PAU-FIN-111",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "ooluyombo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Finance II",
+    "code": "PAU-FIN-112",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "oikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Statistics",
+    "code": "PAU-FIN-104",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "fanetor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Economics II",
+    "code": "PAU-FIN- 113",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 1"
+    ],
+    "facultyId": [
+      "kibekwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Financial Accounting II",
+    "code": "PAU-FIN 211",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 2"
+    ],
+    "facultyId": [
+      "iudofia@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Banking Methods and Process",
+    "code": "FIN 210",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 2"
+    ],
+    "facultyId": [
+      "pfine@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Application of Computer in Finance and Banking",
+    "code": "FIN 215",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 2"
+    ],
+    "facultyId": [
+      "pokposo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Law of Banking",
+    "code": "FIN 217",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 2"
+    ],
+    "facultyId": [
+      "tvincent@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Deposit Insurance",
+    "code": "FIN 216",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 2"
+    ],
+    "facultyId": [
+      "pfine@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purpose",
+    "code": "PAU-FIN- 209",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 2"
+    ],
+    "facultyId": [
+      "oekechi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Practice of Deposit Insurance",
+    "code": "FIN 316",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "pfine@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Entrepreneurship of Finance",
+    "code": "FIN 317",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "oowolabi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Financial Analytics",
+    "code": "PAU-FIN 309",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "iunah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Research Methodology",
+    "code": "PAU-FIN 314",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "sokon@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Ethics",
+    "code": "PAU-FIN 319",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "oikejimba@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Public Finance",
+    "code": "PAU-FIN 320",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "iolaniyi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional and Personal Skills",
+    "code": "PAU-FIN 321",
+    "credits": 2,
+    "student_groupsID": [
+      "Finance Year 3"
+    ],
+    "facultyId": [
+      "aonwudinjo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Policy & Strategy II",
+    "code": "BUS 402",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 4"
+    ],
+    "facultyId": [
+      "odakare@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "FinTech, Blockchain and Cryptocurrencies",
+    "code": "FIN 406",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 4"
+    ],
+    "facultyId": [
+      "iunah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Financial Derivatives and Engineering",
+    "code": "FIN 407",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 4"
+    ],
+    "facultyId": [
+      "fikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Capital Market & Portfolio Theory",
+    "code": "FIN 408",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 4"
+    ],
+    "facultyId": [
+      "oowolabi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Project Evaluation",
+    "code": "FIN 409",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 4"
+    ],
+    "facultyId": [
+      "ooluyombo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Marketing of Financial Services",
+    "code": "FIN 410",
+    "credits": 3,
+    "student_groupsID": [
+      "Finance Year 4"
+    ],
+    "facultyId": [
+      "pose1@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Christian Theology",
+    "code": "PAU-ECO 191",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "bisiekwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Economics II",
+    "code": "ECO 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "hagbonrofo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introductory Mathematics II",
+    "code": "ECO 104",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "snwani@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Money and Banking",
+    "code": "PAU-ECO 106",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "jujah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Principles of Accounting II",
+    "code": "PAU-ECO 108",
+    "credits": 3,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "ooluyombo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Business II",
+    "code": "PAU-ECO 110",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "rokolo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Finance II",
+    "code": "PAU-ECO 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 1"
+    ],
+    "facultyId": [
+      "fikpesu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Computer and its Application",
+    "code": "SSC 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Economics Year 2"
+    ],
+    "facultyId": [
+      "okposo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Microeconomics II",
+    "code": "ECO 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 2"
+    ],
+    "facultyId": [
+      "hagbonrofo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Macroeconomics II",
+    "code": "ECO 204",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 2"
+    ],
+    "facultyId": [
+      "pose1@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Statistics for Economists",
+    "code": "ECO 206",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 2"
+    ],
+    "facultyId": [
+      "snwani@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Labour Economics",
+    "code": "PAU-ECO 208",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 2"
+    ],
+    "facultyId": [
+      "eozegbe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-ECO 291",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 2"
+    ],
+    "facultyId": [
+      "enzeaka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "History of Economic Thought",
+    "code": "ECO 305",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "eozegbe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Intermediate Microeconomics ll",
+    "code": "ECO 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "snwani@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Intermediate Macroeconomics ll",
+    "code": "ECO 304",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "doke@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Public Sector Economics",
+    "code": "ECO 310",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "eozegbe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Research Method I",
+    "code": "SSC 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "eolaniyi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Ethics",
+    "code": "PAU-ECO 314",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "oikejimba@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data Management",
+    "code": "PAU-ECO 316",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "okposo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Public Policy and Analysis",
+    "code": "PAU-ECO 317",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "tomolokun@pau.ng.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "International Finance",
+    "code": "PAU-ECO 318",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "eosuji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Advanced Mathematical Economics",
+    "code": "PAU-ECO 320",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "aarije@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional and Personal Skills",
+    "code": "PAU-ECO 392",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 3"
+    ],
+    "facultyId": [
+      "aonaga@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Advanced Macroeconomics",
+    "code": "ECO 421",
+    "credits": 3,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "eolaniyi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Economics of Production",
+    "code": "ECO 422",
+    "credits": 3,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "emesagan@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fiscal Policy",
+    "code": "ECO 423",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "hagbonrofo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Petroleum and Energy Economics",
+    "code": "ECO 426",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "nsolomon@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Industrial Economics",
+    "code": "ECO 427",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "nsolomon@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Health Economics",
+    "code": "ECO 428",
+    "credits": 2,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "eozegbe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Business Ethics",
+    "code": "BUS 301",
+    "credits": 3,
+    "student_groupsID": [
+      "Economics Year 4"
+    ],
+    "facultyId": [
+      "jnmhamzenobe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Graphics and Solid Modelling I",
+    "code": "GET 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "patrick.onwordi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Probability for Engineers",
+    "code": "PAU-MCT 112",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "aoyelami@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics III (Electricity & Magnetisim)",
+    "code": "PAU-MCT 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "agreen@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics IV (Vibration, Waves, and Optics)",
+    "code": "PAU-MCT 104",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "gdosunmu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Physics II",
+    "code": "PHY 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "oakintunde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Chemistry II",
+    "code": "CHM 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "eofor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Chemistry II",
+    "code": "CHM 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "eofor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics II (Calculus)",
+    "code": "MTH 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "aijezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics III (Vectors, Geometry & Dynamics)",
+    "code": "MTH 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "jaroloye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigeria Peoples and Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 1"
+    ],
+    "facultyId": [
+      "aonobhayedo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Materials",
+    "code": "GET 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "cabima@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Students Workshop Practice",
+    "code": "GET 204",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "jajiboye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Strength of Materials",
+    "code": "GET 208",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "rloto@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Mathematics II",
+    "code": "GET 210",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "aoyelami@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Thermodynamics",
+    "code": "GET 206",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "aonokwai@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "UNIX and Robot Operating System",
+    "code": "PAU-MCE 204",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "ponu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Applied Electricity II",
+    "code": "PAU-MEE 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "nedomah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic, and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechatronics Year 2"
+    ],
+    "facultyId": [
+      "ckezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Graphics and Solid Modelling I",
+    "code": "GET 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "patrick.onwordi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Probability for Engineers",
+    "code": "PAU-MEE 112",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "aoyelami@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics III (Electricity & Magnetisim)",
+    "code": "PAU-MEE 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "agreen@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics IV (Vibration, Waves, and Optics)",
+    "code": "PAU-MEE 104",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "gdosunmu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Physics II",
+    "code": "PHY 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "oakintunde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Chemistry II",
+    "code": "CHM 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "eofor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Chemistry II",
+    "code": "CHM 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "eofor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics II (Calculus)",
+    "code": "MTH 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "aijezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics III (Vectors, Geometry & Dynamics)",
+    "code": "MTH 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "jaroloye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigeria Peoples and Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 1"
+    ],
+    "facultyId": [
+      "jeneji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Materials",
+    "code": "GET 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "cabima@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Students Workshop Practice",
+    "code": "GET 204",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "jajiboye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Thermodynamics",
+    "code": "GET 206",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "aonokwai@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Strength of Materials",
+    "code": "GET 208",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "rloto@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Mathematics II",
+    "code": "GET 210",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "aoyelami@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic, and Human Existence",
+    "code": "GST212",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "ckezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Applied Electricity  II",
+    "code": "PAU-MEE 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 2"
+    ],
+    "facultyId": [
+      "nedomah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer-Aided Design and Manufacture",
+    "code": "MEE 306",
+    "credits": 1,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "sigwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Thermodynamics II",
+    "code": "PAU-MEE 306",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "aonokwai@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Mathematics IV",
+    "code": "GET 302",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "oavbenake@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Technical Writing and Communication (including Seminar Presentation Skills)",
+    "code": "GET 304",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "banyaegbuna@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Artificial Intelligence, Machine Learning and Convergent Technologies",
+    "code": "GET 307",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "amakinde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fluid Mechanics II",
+    "code": "PAU-MEE 310",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "gihenacho@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Metallurgy",
+    "code": "PAU-MEE 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "cabima@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Metrology",
+    "code": "PAU-MEE 322",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 3"
+    ],
+    "facultyId": [
+      "jajiboye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Theory (Mechanics) of Machines I",
+    "code": "MEE 402",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "gihenacho@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Applied Fluid Mechanics",
+    "code": "MEE 404",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "p.ose@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Project I",
+    "code": "GET 402",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "banyaegbuna@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Valuation and Appraisal",
+    "code": "GET 404",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "aowolabi@lbs.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Additive Manufacturing",
+    "code": "PAU-MCE 423",
+    "credits": 1,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "banyaegbuna@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Vision and Image Processing",
+    "code": "PAU-MEE 404",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "cosueke@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Economics",
+    "code": "PAU-MEE 402",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 4"
+    ],
+    "facultyId": [
+      "dagholor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Management (SAP)",
+    "code": "PAU-MEE 510",
+    "credits": 3,
+    "student_groupsID": [
+      "Mechanical Engineering Year 5"
+    ],
+    "facultyId": [
+      "uegbuchulam@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Industrial Automation and Control",
+    "code": "PAU-MEE 518",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 5"
+    ],
+    "facultyId": [
+      "ponu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Law",
+    "code": "GET 502",
+    "credits": 2,
+    "student_groupsID": [
+      "Mechanical Engineering Year 5"
+    ],
+    "facultyId": [
+      "tvincent@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics Practical II",
+    "code": "PHY 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "oakintunde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics II (Calculus)",
+    "code": "MTH 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "aijezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Probability for Engineers",
+    "code": "PAU-EEE-112",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "oavbenake@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics III (Electricity & Magnetism)",
+    "code": "PAU-EEE-103",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "gdosunmu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics IV (Vibration, Waves, and Optics)",
+    "code": "PAU-EEE-104",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "oakintunde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Chemistry II",
+    "code": "CHM 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "eofor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Chemistry II",
+    "code": "CHM 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "cifegwu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Graphics and Solid Modelling I",
+    "code": "GET 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "ponwordi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples and Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "jeneji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics III (Vectors, Geometry and Dynamics)",
+    "code": "MTH 103",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 1"
+    ],
+    "facultyId": [
+      "gokoacha@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Electrical Engineering Materials",
+    "code": "EEE 204",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "dokojie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fundamentals of Thermodynamics",
+    "code": "GET 206",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "aonokwai@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Mathematics II",
+    "code": "GET 210",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "aoyelami@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "ckezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "SIWES I: Student Work Experience Scheme",
+    "code": "GET 299",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "careers@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Student Workshop Practice",
+    "code": "GET 204",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "jajiboye@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Applied Electricity II",
+    "code": "EEE 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "nedomah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Strength of Materials",
+    "code": "PAU-EEE 208",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 2"
+    ],
+    "facultyId": [
+      "rloto@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Artificial Intelligence, Machine Learning & Convergent Technologies",
+    "code": "GET 307",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "amakinde@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Technical Writing & Communication",
+    "code": "GET 304",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "banyaegbuna@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Mathematics IV",
+    "code": "GET 302",
+    "credits": 3,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "oavbenake@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Electronic Circuits",
+    "code": "EEE 322",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "dokojie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Laboratory Practicals II",
+    "code": "PAU-EEE 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "jbandele@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Electric Circuit Theory II",
+    "code": "EEE 326",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "oomeje@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Electromagnetic Fields and Waves I",
+    "code": "EEE 324",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "oomeje@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "SIWES II: Student Experience Work Scheme",
+    "code": "GET 399",
+    "credits": 4,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "careers@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Electric Machines",
+    "code": "PAU-EEE 310",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "nedomah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data communications and networks",
+    "code": "PAU-EEE 308",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 3"
+    ],
+    "facultyId": [
+      "jbandele@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Industrial Automation & Controls  (Electro-pneumatics & Programmable Logic Controls - PLC)",
+    "code": "PAU-EEE 402",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 4"
+    ],
+    "facultyId": [
+      "nedomah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Economics",
+    "code": "PAU-EEE 413",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 4"
+    ],
+    "facultyId": [
+      "dagholor@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Project I",
+    "code": "GET 402",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 4"
+    ],
+    "facultyId": [
+      "nedomah@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Valuation and Costing",
+    "code": "GET 404",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 4"
+    ],
+    "facultyId": [
+      "aowolabi@lbs.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Management",
+    "code": "PAU-EEE 510",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 5"
+    ],
+    "facultyId": [
+      "banyaegbuna@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Engineering Law",
+    "code": "GET 502",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 5"
+    ],
+    "facultyId": [
+      "p.ose@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Signal Processing",
+    "code": "PAU-EEE 506",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 5"
+    ],
+    "facultyId": [
+      "p.ose@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Switchgear and High Voltage Engineering",
+    "code": "PAU-EEE 512",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 5"
+    ],
+    "facultyId": [
+      "eusen@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Digital Communications Systems",
+    "code": "PAU-EEE 514",
+    "credits": 2,
+    "student_groupsID": [
+      "Electrical & Electronics Engineering Year 5"
+    ],
+    "facultyId": [
+      "madelabu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Problem Solving",
+    "code": "COS 102",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "dmoru@pau.edu.ng",
+      "george.uwagbale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "UI/UX Design Essentials",
+    "code": "PAU-CSC 112",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "jiloekwe@pau.edu.ng",
+      "anjolaoluwa.olowokere@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Linear Algebra for Computer Scientists",
+    "code": "PAU-CSC 114",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "kmuka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Physics II",
+    "code": "PHY 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "rbalogun@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics II",
+    "code": "PHY 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "rbalogun@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics II",
+    "code": "MTH 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "cifegwu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples & Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "aonobhayedo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Communication in English",
+    "code": "GST 111",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 1"
+    ],
+    "facultyId": [
+      "uokoro@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Programming II",
+    "code": "COS 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "fenemou@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Architecture and Organisation",
+    "code": "IFT 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "sakinboro@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "System Analysis and Design",
+    "code": "INS204",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "foliha@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Security Fundamentals",
+    "code": "PAU-CSC 214",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "segunjobi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Mathematical Method II",
+    "code": "MTH 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "jehigie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Graphics",
+    "code": "PAU-CSC 212",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "kkolade@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "ose1@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-CSC 293",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream I"
+    ],
+    "facultyId": [
+      "oekechi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data Communication Systems and Network",
+    "code": "ICT 305",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "salile@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data Management I",
+    "code": "DTS 304",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "sadubi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Formal Methods",
+    "code": "CSC 313",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "tamaoo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "code": "CSC 309",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "dibidapo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Object Oriented Programming",
+    "code": "PAU-CSC 310",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "chukwudi.ofoma@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional and Personal Skills",
+    "code": "GST 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "aonwudinjo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Venture Creation",
+    "code": "ENT 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 3"
+    ],
+    "facultyId": [
+      "joy@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Machine Learning",
+    "code": "PAU-CSC 411",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream I"
+    ],
+    "facultyId": [
+      "tamaoo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Algorithm and Complexities",
+    "code": "CSC 401",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream I"
+    ],
+    "facultyId": [
+      "aogbuchi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Vision and Image Processing",
+    "code": "PAU-CSC 416",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream I"
+    ],
+    "facultyId": [
+      "dmoru@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Human Computer Interface",
+    "code": "PAU-CSC 413",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream I"
+    ],
+    "facultyId": [
+      "oIheanetu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Data Science and Engineering",
+    "code": "PAU-CSC 417",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream I"
+    ],
+    "facultyId": [
+      "jiloekwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Programming II",
+    "code": "COS 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "fenemou@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Architecture and Organisation",
+    "code": "IFT 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "sakinboro@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "System Analysis and Design",
+    "code": "INS204",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "foliha@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Security Fundamentals",
+    "code": "PAU-CSC 214",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "segunjobi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Mathematical Method II",
+    "code": "MTH 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "jehigie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Graphics",
+    "code": "PAU-CSC 212",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "kkolade@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "ose@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-CSC 293",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 2 Stream II"
+    ],
+    "facultyId": [
+      "roji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Machine Learning",
+    "code": "PAU-CSC 411",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream II"
+    ],
+    "facultyId": [
+      "tamaoo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Algorithm and Complexities",
+    "code": "CSC 401",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream II"
+    ],
+    "facultyId": [
+      "ose1@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Fnal Year Project II",
+    "code": "CSC 498",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream II"
+    ],
+    "facultyId": [
+      "jiloekwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Vision and Image Processing",
+    "code": "PAU-CSC 416",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream II"
+    ],
+    "facultyId": [
+      "dmoru@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Human Computer Interface",
+    "code": "PAU-CSC 413",
+    "credits": 2,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream II"
+    ],
+    "facultyId": [
+      "oIheanetu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Data Science and Engineering",
+    "code": "PAU-CSC 417",
+    "credits": 3,
+    "student_groupsID": [
+      "Computers Science Year 4 Stream II"
+    ],
+    "facultyId": [
+      "jiloekwe@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Problem Solving",
+    "code": "COS 102",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "dmoru@pau.edu.ng",
+      "george.uwagbale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "UI/UX Design Essentials",
+    "code": "PAU-CSC 112",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "jiloekwe@pau.edu.ng",
+      "anjolaoluwa.olowokere@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Linear Algebra for Computer Scientists",
+    "code": "PAU-CSC 114",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "kmuka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Physics II",
+    "code": "PHY 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "rbalogun@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics II",
+    "code": "PHY 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "rbalogun@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics II",
+    "code": "MTH 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "cifegwu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples & Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "aonobhayedo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Communication in English",
+    "code": "GST 111",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 1"
+    ],
+    "facultyId": [
+      "roji@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Programming II",
+    "code": "COS 202",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "fenemou@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Architecture and Organisation",
+    "code": "IFT 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "sakinboro@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "System Analysis and Design",
+    "code": "INS204",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "foliha@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Security Fundamentals",
+    "code": "PAU-CSC 214",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "segunjobi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Mathematical Method II",
+    "code": "MTH 202",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "jehigie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Computer Graphics",
+    "code": "PAU-CSC 212",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "kkolade@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Philosophy, Logic and Human Existence",
+    "code": "GST 212",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "ckezie@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "English for Business Purposes",
+    "code": "PAU-CSC 293",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 2"
+    ],
+    "facultyId": [
+      "enzeaka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data Communication Systems and Network",
+    "code": "ICT 305",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "salile@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Data Management I",
+    "code": "DTS 304",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "sadubi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Formal Methods",
+    "code": "CSC 313",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "tamaoo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "code": "CSC 309",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "dibidapo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Object Oriented Programming",
+    "code": "PAU-CSC 310",
+    "credits": 3,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "chukwudi.ofoma@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Professional and Personal Skills",
+    "code": "GST 302",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "ose@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Venture Creation",
+    "code": "ENT 312",
+    "credits": 2,
+    "student_groupsID": [
+      "Software Engineering Year 3"
+    ],
+    "facultyId": [
+      "ose1@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Introduction to Problem Solving",
+    "code": "COS 102",
+    "credits": 3,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "dmoru@pau.edu.ng",
+      "george.uwagbale@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "UI/UX Design Essentials",
+    "code": "PAU-CSC 112",
+    "credits": 3,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "jiloekwe@pau.edu.ng",
+      "anjolaoluwa.olowokere@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Linear Algebra for Computer Scientists",
+    "code": "PAU-CSC 114",
+    "credits": 2,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "kmuka@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Practical Physics II",
+    "code": "PHY 108",
+    "credits": 1,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "rbalogun@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "General Physics II",
+    "code": "PHY 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "rbalogun@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Elementary Mathematics II",
+    "code": "MTH 102",
+    "credits": 2,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "cifegwu@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Nigerian Peoples & Culture",
+    "code": "GST 112",
+    "credits": 2,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "aonobhayedo@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  },
+  {
+    "name": "Communication in English",
+    "code": "GST 111",
+    "credits": 2,
+    "student_groupsID": [
+      "Data Science Year 1"
+    ],
+    "facultyId": [
+      "oekechi@pau.edu.ng"
+    ],
+    "required_room_type": "Classroom"
+  }
+]

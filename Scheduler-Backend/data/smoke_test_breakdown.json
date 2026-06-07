@@ -1,0 +1,46 @@
+{
+  "total": 89912.2,
+  "total_occurrences": 1084,
+  "hard_fitness": 463.0,
+  "hard_occurrences": 283,
+  "soft_fitness": 89449.2,
+  "soft_occurrences": 801,
+  "hard_breakdown": {
+    "room_constraints": 138.0,
+    "student_group_constraints": 0.0,
+    "lecturer_availability": 0.0,
+    "lecturer_schedule_constraints": 0.0,
+    "room_time_conflict": 0.0,
+    "course_allocation_completeness": 0.0,
+    "same_course_same_room_per_day": 25.0,
+    "break_time_constraint": 0.0,
+    "consecutive_timeslots": 300.0
+  },
+  "soft_breakdown": {
+    "lecturer_workload_constraints": 614.7999999999997,
+    "building_assignments": 204.0,
+    "no_free_day": 200.0,
+    "three_unit_split_across_days_TYD": 2950.0,
+    "single_event_per_day": 30.400000000000297,
+    "spread_events": 0.0,
+    "extremely_late_classes": 85450.0
+  },
+  "occurrence_counts": {
+    "room_constraints": 276,
+    "student_group_constraints": 0,
+    "lecturer_availability": 0,
+    "room_time_conflict": 0,
+    "building_assignments": 0,
+    "same_course_same_room_per_day": 1,
+    "break_time_constraint": 0,
+    "course_allocation_completeness": 0,
+    "lecturer_schedule_constraints": 0,
+    "lecturer_workload_constraints": 56,
+    "no_free_day": 8,
+    "three_unit_split_across_days_TYD": 59,
+    "single_event_per_day": 608,
+    "consecutive_timeslots": 6,
+    "spread_events": 0,
+    "extremely_late_classes": 70
+  }
+}

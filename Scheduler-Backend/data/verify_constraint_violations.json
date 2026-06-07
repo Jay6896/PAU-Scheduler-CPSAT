@@ -1,0 +1,4796 @@
+{
+  "Same Student Group Overlaps": [],
+  "Different Student Group Overlaps": [],
+  "Lecturer Clashes": [],
+  "Lecturer Schedule Conflicts (Day/Time)": [
+    {
+      "lecturer": "Amarachi Ubani",
+      "day": "Fri",
+      "time": "8:30",
+      "course": "MCM 310",
+      "group": "Mass Communication Year 3",
+      "available_days": [
+        "Fri"
+      ],
+      "available_times": {
+        "Fri": [
+          "10:30-12:30"
+        ]
+      },
+      "location": "Fri at 8:30"
+    },
+    {
+      "lecturer": "Amarachi Ubani",
+      "day": "Wed",
+      "time": "8:30",
+      "course": "MCM 310",
+      "group": "Mass Communication Year 3",
+      "available_days": [
+        "Fri"
+      ],
+      "available_times": {
+        "Fri": [
+          "10:30-12:30"
+        ]
+      },
+      "location": "Wed at 8:30"
+    },
+    {
+      "lecturer": "lraheed@pau.edu.ng",
+      "day": "Tue",
+      "time": "12:30",
+      "course": "ACC 202",
+      "group": "Accounting Year 2",
+      "available_days": [
+        "Fri"
+      ],
+      "available_times": {
+        "Fri": [
+          "ALL"
+        ]
+      },
+      "location": "Tue at 12:30"
+    },
+    {
+      "lecturer": "dmoru@pau.edu.ng",
+      "day": "Wed",
+      "time": "16:30",
+      "course": "COS 102",
+      "group": "Software Engineering Year 1",
+      "available_days": [
+        "Mon",
+        "Wed"
+      ],
+      "available_times": {
+        "Mon": [
+          "8:30-11:30"
+        ],
+        "Wed": [
+          "8:30-16:30"
+        ]
+      },
+      "location": "Wed at 16:30"
+    },
+    {
+      "lecturer": "iokwuosa@pau.edu.ng",
+      "day": "Thu",
+      "time": "8:30",
+      "course": "ACC 302",
+      "group": "Accounting Year 3",
+      "available_days": [
+        "Mon"
+      ],
+      "available_times": {
+        "Mon": [
+          "10:30-16:30"
+        ]
+      },
+      "location": "Thu at 8:30"
+    },
+    {
+      "lecturer": "iokwuosa@pau.edu.ng",
+      "day": "Fri",
+      "time": "14:30",
+      "course": "ACC 405",
+      "group": "Accounting Year 4",
+      "available_days": [
+        "Mon"
+      ],
+      "available_times": {
+        "Mon": [
+          "10:30-16:30"
+        ]
+      },
+      "location": "Fri at 14:30"
+    },
+    {
+      "lecturer": "bisiekwe@pau.edu.ng",
+      "day": "Tue",
+      "time": "11:30",
+      "course": "PAU-FMM 191",
+      "group": "Film and Multimedia Studies Year 1",
+      "available_days": [
+        "Mon"
+      ],
+      "available_times": {
+        "Mon": [
+          "8:30-10:30"
+        ]
+      },
+      "location": "Tue at 11:30"
+    },
+    {
+      "lecturer": "bisiekwe@pau.edu.ng",
+      "day": "Tue",
+      "time": "8:30",
+      "course": "PAU-FMM 191",
+      "group": "Film and Multimedia Studies Year 1",
+      "available_days": [
+        "Mon"
+      ],
+      "available_times": {
+        "Mon": [
+          "8:30-10:30"
+        ]
+      },
+      "location": "Tue at 8:30"
+    },
+    {
+      "lecturer": "eonukwu-Isitua@pau.edu.ng",
+      "day": "Wed",
+      "time": "17:30",
+      "course": "GST-112",
+      "group": "Mass Communication Year 1",
+      "available_days": [
+        "Mon"
+      ],
+      "available_times": {
+        "Mon": [
+          "8:30-12:30"
+        ]
+      },
+      "location": "Wed at 17:30"
+    },
+    {
+      "lecturer": "okpala@pau.edu.ng",
+      "day": "Wed",
+      "time": "11:30",
+      "course": "FIN 317",
+      "group": "Finance Year 3",
+      "available_days": [
+        "Thu"
+      ],
+      "available_times": {
+        "Thu": [
+          "9:30-4:30"
+        ]
+      },
+      "location": "Wed at 11:30"
+    },
+    {
+      "lecturer": "okpala@pau.edu.ng",
+      "day": "Wed",
+      "time": "13:30",
+      "course": "FIN 317",
+      "group": "Finance Year 3",
+      "available_days": [
+        "Thu"
+      ],
+      "available_times": {
+        "Thu": [
+          "9:30-4:30"
+        ]
+      },
+      "location": "Wed at 13:30"
+    },
+    {
+      "lecturer": "foliha@pau.edu.ng",
+      "day": "Fri",
+      "time": "8:30",
+      "course": "INS204",
+      "group": "Computers Science Year 2 Stream I",
+      "available_days": [
+        "Tue",
+        "Wed"
+      ],
+      "available_times": {
+        "Tue": [
+          "13:30-4:30"
+        ],
+        "Wed": [
+          "8:30-16:30"
+        ]
+      },
+      "location": "Fri at 8:30"
+    },
+    {
+      "lecturer": "tomolokun@pau.ng.ng",
+      "day": "Tue",
+      "time": "8:30",
+      "course": "PAU-ECO 317",
+      "group": "Economics Year 3",
+      "available_days": [
+        "Tue"
+      ],
+      "available_times": {
+        "Tue": [
+          "12:30-15:30"
+        ]
+      },
+      "location": "Tue at 8:30"
+    },
+    {
+      "lecturer": "Dr Theophilus",
+      "day": "Mon",
+      "time": "15:30",
+      "course": "FIN 410",
+      "group": "Finance Year 4",
+      "available_days": [
+        "Tue"
+      ],
+      "available_times": {
+        "Tue": [
+          "9:30-15:30"
+        ]
+      },
+      "location": "Mon at 15:30"
+    }
+  ],
+  "Lecturer Workload Violations": [
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "aogbuchi@pau.edu.ng",
+      "day": "Mon",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Algorithm and Complexities, Professional and Personal Skills",
+      "hours_times": [
+        "9:30",
+        "10:30",
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "aogbuchi@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "nedomah@pau.edu.ng",
+      "day": "Thu",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Applied Electricity II, Industrial Automation & Controls  (Electro-pneumatics & Programmable Logic Controls - PLC)",
+      "hours_times": [
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "nedomah@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "dibidapo@pau.edu.ng",
+      "day": "Fri",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Artificial Intelligence",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "dibidapo@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "jimhanzenobe@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Business Ethics, Financial Analytics",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30",
+        "13:30",
+        "14:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "jimhanzenobe@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "alawal@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Comparative Management, Principles of Business Administration II",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "alawal@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "kesere@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Computer Aided Design in Media Production, Science, Technology and Communication",
+      "hours_times": [
+        "10:30",
+        "11:30",
+        "12:30",
+        "13:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "kesere@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "kkolade@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Computer Graphics",
+      "hours_times": [
+        "10:30",
+        "11:30",
+        "12:30",
+        "13:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "kkolade@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "jbandele@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Data communications and networks, Laboratory Practicals II",
+      "hours_times": [
+        "11:30",
+        "12:30",
+        "13:30",
+        "14:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "jbandele@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "cabima@pau.edu.ng",
+      "day": "Fri",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Engineering Materials, Engineering Metallurgy",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "cabima@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "lraheed@pau.edu.ng",
+      "day": "Fri",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Financial Accounting II, Forensic Accounting and Fraud Examination, Taxation II",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "lraheed@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "tamaoo@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Formal Methods, Machine Learning",
+      "hours_times": [
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "tamaoo@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "kmakinde@pau.edu.ng",
+      "day": "Fri",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Freehand Sketches, Introduction to Multimedia Scripting",
+      "hours_times": [
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "kmakinde@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "unwaezeapu@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Fundamentals of Media Relations, International Public Relations and Advertising",
+      "hours_times": [
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "unwaezeapu@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "eofor@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "General Chemistry II, General Practical Chemistry II",
+      "hours_times": [
+        "9:30",
+        "10:30",
+        "11:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "eofor@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "iogboh@pau.edu.ng",
+      "day": "Thu",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Introduction to Christian Theology",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "iogboh@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "dmoru@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Introduction to Problem Solving",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "dmoru@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "ckezie@pau.edu.ng",
+      "day": "Mon",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Logic and Human Existence, Philosophy",
+      "hours_times": [
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "ckezie@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "jeneji@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "Nigerian Peoples and Culture",
+      "hours_times": [
+        "9:30",
+        "10:30",
+        "11:30",
+        "12:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "jeneji@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "careers@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "SIWES II: Student Experience Work Scheme",
+      "hours_times": [
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "careers@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "foliha@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 4,
+      "max_allowed": 3,
+      "courses": "System Analysis and Design",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30",
+        "13:30"
+      ],
+      "violation": "1 extra consecutive hours",
+      "location": "foliha@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "nedomah@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 5,
+      "max_allowed": 3,
+      "courses": "Applied Electricity II, Electric Machines, Engineering Project I",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "2 extra consecutive hours",
+      "location": "nedomah@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "okposo@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 5,
+      "max_allowed": 3,
+      "courses": "Data Management, Introduction to Computer and its Application",
+      "hours_times": [
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "2 extra consecutive hours",
+      "location": "okposo@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "jajiboye@pau.edu.ng",
+      "day": "Mon",
+      "consecutive_hours": 5,
+      "max_allowed": 3,
+      "courses": "Metrology, Students Workshop Practice",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "11:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30"
+      ],
+      "violation": "2 extra consecutive hours",
+      "location": "jajiboye@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "chukwudi.ofoma@pau.edu.ng",
+      "day": "Tue",
+      "consecutive_hours": 5,
+      "max_allowed": 3,
+      "courses": "Object Oriented Programming",
+      "hours_times": [
+        "8:30",
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "2 extra consecutive hours",
+      "location": "chukwudi.ofoma@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "rloto@pau.edu.ng",
+      "day": "Wed",
+      "consecutive_hours": 5,
+      "max_allowed": 3,
+      "courses": "Strength of Materials",
+      "hours_times": [
+        "8:30",
+        "10:30",
+        "11:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30",
+        "17:30"
+      ],
+      "violation": "2 extra consecutive hours",
+      "location": "rloto@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "segunjobi@pau.edu.ng",
+      "day": "Thu",
+      "consecutive_hours": 6,
+      "max_allowed": 3,
+      "courses": "Computer Security Fundamentals",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "10:30",
+        "11:30",
+        "12:30",
+        "13:30"
+      ],
+      "violation": "3 extra consecutive hours",
+      "location": "segunjobi@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "aolaniyan@pau.edu.ng",
+      "day": "Thu",
+      "consecutive_hours": 6,
+      "max_allowed": 3,
+      "courses": "Evaluating the Media, Introduction to Media Management, Introduction to News Writing, Writing for the Media",
+      "hours_times": [
+        "8:30",
+        "9:30",
+        "11:30",
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30",
+        "16:30"
+      ],
+      "violation": "3 extra consecutive hours",
+      "location": "aolaniyan@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "oakintunde@pau.edu.ng",
+      "day": "Thu",
+      "consecutive_hours": 6,
+      "max_allowed": 3,
+      "courses": "General Practical Physics II",
+      "hours_times": [
+        "9:30",
+        "10:30",
+        "11:30",
+        "12:30",
+        "13:30",
+        "14:30"
+      ],
+      "violation": "3 extra consecutive hours",
+      "location": "oakintunde@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Consecutive Hours",
+      "lecturer": "okpala@pau.edu.ng",
+      "day": "Thu",
+      "consecutive_hours": 7,
+      "max_allowed": 3,
+      "courses": "Entrepreneurship in Accounting, Entrepreneurship of Finance, Public Sector Accounting 11",
+      "hours_times": [
+        "9:30",
+        "10:30",
+        "11:30",
+        "12:30",
+        "13:30",
+        "14:30",
+        "15:30"
+      ],
+      "violation": "4 extra consecutive hours",
+      "location": "okpala@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "lakande@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "3D Design and Visual Effects for Films, Introduction to Sound",
+      "violation": "1 extra hours",
+      "location": "lakande@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "aogbuchi@pau.edu.ng",
+      "day": "Mon",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Algorithm and Complexities, Professional and Personal Skills",
+      "violation": "2 extra hours",
+      "location": "aogbuchi@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "pokposo@pau.edu.ng",
+      "day": "Thu",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Application of Computer in Finance and Banking, Digital Transformation in Accounting",
+      "violation": "1 extra hours",
+      "location": "pokposo@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "nedomah@pau.edu.ng",
+      "day": "Tue",
+      "hours_scheduled": 7,
+      "max_allowed": 4,
+      "courses": "Applied Electricity II, Electric Machines, Engineering Project I",
+      "violation": "3 extra hours",
+      "location": "nedomah@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "jimhanzenobe@pau.edu.ng",
+      "day": "Tue",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Business Ethics, Financial Analytics",
+      "violation": "2 extra hours",
+      "location": "jimhanzenobe@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "cebegbetale@pau.edu.ng",
+      "day": "Fri",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Business Statistics, Management Theory",
+      "violation": "2 extra hours",
+      "location": "cebegbetale@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "alawal@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Comparative Management, Principles of Business Administration II",
+      "violation": "2 extra hours",
+      "location": "alawal@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "segunjobi@pau.edu.ng",
+      "day": "Thu",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Computer Security Fundamentals",
+      "violation": "2 extra hours",
+      "location": "segunjobi@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "eajala@pau.edu.ng",
+      "day": "Fri",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Content Creator and Society, Digital Literacy",
+      "violation": "1 extra hours",
+      "location": "eajala@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "iolaniyi@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Corporate Governance & Accounting Ethics, Public Finance",
+      "violation": "1 extra hours",
+      "location": "iolaniyi@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "salile@pau.edu.ng",
+      "day": "Mon",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Data Communication Systems and Network",
+      "violation": "2 extra hours",
+      "location": "salile@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "okposo@pau.edu.ng",
+      "day": "Tue",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Data Management, Introduction to Computer and its Application",
+      "violation": "1 extra hours",
+      "location": "okposo@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "dagholor@pau.edu.ng",
+      "day": "Mon",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Engineering Economics",
+      "violation": "1 extra hours",
+      "location": "dagholor@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "cabima@pau.edu.ng",
+      "day": "Fri",
+      "hours_scheduled": 8,
+      "max_allowed": 4,
+      "courses": "Engineering Materials, Engineering Metallurgy",
+      "violation": "4 extra hours",
+      "location": "cabima@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "aoyelami@pau.edu.ng",
+      "day": "Tue",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Engineering Mathematics II, Probability for Engineers",
+      "violation": "2 extra hours",
+      "location": "aoyelami@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "oavbenake@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Engineering Mathematics IV, Probability for Engineers",
+      "violation": "2 extra hours",
+      "location": "oavbenake@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "fogungbe@pau.edu.ng",
+      "day": "Thu",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Entertainment Media, World Cinema",
+      "violation": "1 extra hours",
+      "location": "fogungbe@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "okpala@pau.edu.ng",
+      "day": "Thu",
+      "hours_scheduled": 7,
+      "max_allowed": 4,
+      "courses": "Entrepreneurship in Accounting, Entrepreneurship of Finance, Public Sector Accounting 11",
+      "violation": "3 extra hours",
+      "location": "okpala@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "aolaniyan@pau.edu.ng",
+      "day": "Thu",
+      "hours_scheduled": 8,
+      "max_allowed": 4,
+      "courses": "Evaluating the Media, Introduction to Media Management, Introduction to News Writing, Writing for the Media",
+      "violation": "4 extra hours",
+      "location": "aolaniyan@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "lraheed@pau.edu.ng",
+      "day": "Fri",
+      "hours_scheduled": 8,
+      "max_allowed": 4,
+      "courses": "Financial Accounting II, Forensic Accounting and Fraud Examination, Taxation II",
+      "violation": "4 extra hours",
+      "location": "lraheed@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "banyaegbuna@pau.edu.ng",
+      "day": "Fri",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Fundamentals of Additive Manufacturing, Technical Writing and Communication (including Seminar Presentation Skills)",
+      "violation": "2 extra hours",
+      "location": "banyaegbuna@pau.edu.ng on Fri"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "eofor@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 7,
+      "max_allowed": 4,
+      "courses": "General Chemistry II, General Practical Chemistry II",
+      "violation": "3 extra hours",
+      "location": "eofor@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "rbalogun@pau.edu.ng",
+      "day": "Mon",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "General Physics II, General Practical Physics II",
+      "violation": "1 extra hours",
+      "location": "rbalogun@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "rbalogun@pau.edu.ng",
+      "day": "Tue",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "General Physics II, General Practical Physics II",
+      "violation": "1 extra hours",
+      "location": "rbalogun@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "oakintunde@pau.edu.ng",
+      "day": "Thu",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "General Practical Physics II",
+      "violation": "2 extra hours",
+      "location": "oakintunde@pau.edu.ng on Thu"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "fikpesu@pau.edu.ng",
+      "day": "Mon",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Introduction to Finance II, Introduction to Financial Management",
+      "violation": "1 extra hours",
+      "location": "fikpesu@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "dmoru@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Introduction to Problem Solving",
+      "violation": "2 extra hours",
+      "location": "dmoru@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "Dr Theophilus",
+      "day": "Tue",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "Management Accounting, Marketing of Financial Services",
+      "violation": "1 extra hours",
+      "location": "Dr Theophilus on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "jajiboye@pau.edu.ng",
+      "day": "Mon",
+      "hours_scheduled": 8,
+      "max_allowed": 4,
+      "courses": "Metrology, Students Workshop Practice",
+      "violation": "4 extra hours",
+      "location": "jajiboye@pau.edu.ng on Mon"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "chukwudi.ofoma@pau.edu.ng",
+      "day": "Tue",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Object Oriented Programming",
+      "violation": "2 extra hours",
+      "location": "chukwudi.ofoma@pau.edu.ng on Tue"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "ovincent@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 6,
+      "max_allowed": 4,
+      "courses": "Research Methodology, Research Methods",
+      "violation": "2 extra hours",
+      "location": "ovincent@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "rloto@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 8,
+      "max_allowed": 4,
+      "courses": "Strength of Materials",
+      "violation": "4 extra hours",
+      "location": "rloto@pau.edu.ng on Wed"
+    },
+    {
+      "type": "Excessive Daily Hours",
+      "lecturer": "foliha@pau.edu.ng",
+      "day": "Wed",
+      "hours_scheduled": 5,
+      "max_allowed": 4,
+      "courses": "System Analysis and Design",
+      "violation": "1 extra hours",
+      "location": "foliha@pau.edu.ng on Wed"
+    }
+  ],
+  "Consecutive Slot Violations": [
+    {
+      "course": "ACC 405",
+      "course_name": "International Accounting",
+      "group": "Accounting Year 4",
+      "times": [
+        "11:30",
+        "13:30",
+        "14:30"
+      ],
+      "day": "Mon, Fri",
+      "credits": 3,
+      "location": "ACC 405 for Accounting Year 4",
+      "reason": "3-hour course has all hours at different times with no 2-hour consecutive block"
+    },
+    {
+      "course": "ACC 409",
+      "course_name": "Forensic Accounting and Fraud Examination",
+      "group": "Accounting Year 4",
+      "times": [
+        "11:30",
+        "13:30",
+        "16:30"
+      ],
+      "day": "Fri",
+      "credits": 3,
+      "location": "ACC 409 for Accounting Year 4",
+      "reason": "3-hour course has all hours at different times with no 2-hour consecutive block"
+    },
+    {
+      "course": "FIN 317",
+      "course_name": "Entrepreneurship of Finance",
+      "group": "Finance Year 3",
+      "times": [
+        "11:30",
+        "13:30",
+        "15:30"
+      ],
+      "day": "Wed, Thu",
+      "credits": 3,
+      "location": "FIN 317 for Finance Year 3",
+      "reason": "3-hour course has all hours at different times with no 2-hour consecutive block"
+    },
+    {
+      "course": "GET 208",
+      "course_name": "Strength of Materials",
+      "group": "Mechatronics Year 2",
+      "times": [
+        "8:30",
+        "13:30",
+        "17:30"
+      ],
+      "day": "Wed",
+      "credits": 3,
+      "location": "GET 208 for Mechatronics Year 2",
+      "reason": "3-hour course has all hours at different times with no 2-hour consecutive block"
+    },
+    {
+      "course": "GST-112",
+      "course_name": "Nigerian Peoples and Culture",
+      "group": "Mass Communication Year 1",
+      "times": [
+        "8:30",
+        "17:30"
+      ],
+      "day": "Mon, Wed",
+      "credits": 2,
+      "location": "GST-112 for Mass Communication Year 1",
+      "reason": "2-hour course not scheduled consecutively"
+    },
+    {
+      "course": "INS204",
+      "course_name": "System Analysis and Design",
+      "group": "Computers Science Year 2 Stream I",
+      "times": [
+        "8:30",
+        "13:30",
+        "8:30"
+      ],
+      "day": "Wed, Fri",
+      "credits": 3,
+      "location": "INS204 for Computers Science Year 2 Stream I",
+      "reason": "3-hour course has all hours at different times with no 2-hour consecutive block"
+    },
+    {
+      "course": "MCM 310",
+      "course_name": "International and Foreign Broadcasting",
+      "group": "Mass Communication Year 3",
+      "times": [
+        "8:30",
+        "8:30"
+      ],
+      "day": "Wed, Fri",
+      "credits": 2,
+      "location": "MCM 310 for Mass Communication Year 3",
+      "reason": "2-hour course not scheduled consecutively"
+    },
+    {
+      "course": "PAU-ECO 317",
+      "course_name": "Public Policy and Analysis",
+      "group": "Economics Year 3",
+      "times": [
+        "8:30",
+        "14:30"
+      ],
+      "day": "Tue",
+      "credits": 2,
+      "location": "PAU-ECO 317 for Economics Year 3",
+      "reason": "2-hour course not scheduled consecutively"
+    },
+    {
+      "course": "PAU-FMM 191",
+      "course_name": "Introduction to Christian Theology",
+      "group": "Film and Multimedia Studies Year 1",
+      "times": [
+        "8:30",
+        "11:30"
+      ],
+      "day": "Tue",
+      "credits": 2,
+      "location": "PAU-FMM 191 for Film and Multimedia Studies Year 1",
+      "reason": "2-hour course not scheduled consecutively"
+    },
+    {
+      "course": "PAU-MEE 322",
+      "course_name": "Metrology",
+      "group": "Mechanical Engineering Year 3",
+      "times": [
+        "11:30",
+        "15:30"
+      ],
+      "day": "Mon",
+      "credits": 2,
+      "location": "PAU-MEE 322 for Mechanical Engineering Year 3",
+      "reason": "2-hour course not scheduled consecutively"
+    }
+  ],
+  "Missing or Extra Classes": [],
+  "missing_classes": {},
+  "Same Course in Multiple Rooms on Same Day": [
+    {
+      "course": "ACC 408",
+      "group": "Accounting Year 4",
+      "day": "Thu",
+      "rooms": [
+        "Engineering Drawing Studio",
+        "Uyo"
+      ],
+      "location": "ACC 408 for Accounting Year 4 on Thu"
+    },
+    {
+      "course": "ACC 409",
+      "group": "Accounting Year 4",
+      "day": "Fri",
+      "rooms": [
+        "Ado-Ekiti",
+        "Art and Graphics Studio"
+      ],
+      "location": "ACC 409 for Accounting Year 4 on Fri"
+    },
+    {
+      "course": "BUA 216",
+      "group": "Business Administration 2",
+      "day": "Mon",
+      "rooms": [
+        "Uyo",
+        "Zaria"
+      ],
+      "location": "BUA 216 for Business Administration 2 on Mon"
+    },
+    {
+      "course": "COS 102",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "rooms": [
+        "SST HP Lab 2",
+        "TYD Mac"
+      ],
+      "location": "COS 102 for Software Engineering Year 1 on Wed"
+    },
+    {
+      "course": "FIN 217",
+      "group": "Finance Year 2",
+      "day": "Mon",
+      "rooms": [
+        "Jos",
+        "Maiduguri"
+      ],
+      "location": "FIN 217 for Finance Year 2 on Mon"
+    },
+    {
+      "course": "FIN 317",
+      "group": "Finance Year 3",
+      "day": "Wed",
+      "rooms": [
+        "Art and Graphics Studio",
+        "Jalingo"
+      ],
+      "location": "FIN 317 for Finance Year 3 on Wed"
+    },
+    {
+      "course": "GET 202",
+      "group": "Mechanical Engineering Year 2",
+      "day": "Fri",
+      "rooms": [
+        "Asaba",
+        "Classroom 5"
+      ],
+      "location": "GET 202 for Mechanical Engineering Year 2 on Fri"
+    },
+    {
+      "course": "GET 208",
+      "group": "Mechatronics Year 2",
+      "day": "Wed",
+      "rooms": [
+        "Classroom 2",
+        "Umuahia"
+      ],
+      "location": "GET 208 for Mechatronics Year 2 on Wed"
+    },
+    {
+      "course": "GET 210",
+      "group": "Mechanical Engineering Year 2",
+      "day": "Tue",
+      "rooms": [
+        "Ibadan",
+        "Maiduguri"
+      ],
+      "location": "GET 210 for Mechanical Engineering Year 2 on Tue"
+    },
+    {
+      "course": "INS204",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Wed",
+      "rooms": [
+        "Classroom 5",
+        "Port-Harcourt"
+      ],
+      "location": "INS204 for Computers Science Year 2 Stream I on Wed"
+    },
+    {
+      "course": "ISM 406",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Tue",
+      "rooms": [
+        "SST HP Lab 1",
+        "TYD Lenovo"
+      ],
+      "location": "ISM 406 for Information Science and Media Studies Year 4 on Tue"
+    },
+    {
+      "course": "PAU-ECO 317",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "rooms": [
+        "Ado-Ekiti",
+        "Art and Graphics Studio"
+      ],
+      "location": "PAU-ECO 317 for Economics Year 3 on Tue"
+    },
+    {
+      "course": "PAU-FIN 314",
+      "group": "Finance Year 3",
+      "day": "Wed",
+      "rooms": [
+        "Abakaliki",
+        "Jos"
+      ],
+      "location": "PAU-FIN 314 for Finance Year 3 on Wed"
+    },
+    {
+      "course": "PAU-FMM 191",
+      "group": "Film and Multimedia Studies Year 1",
+      "day": "Tue",
+      "rooms": [
+        "Lokoja",
+        "Port-Harcourt"
+      ],
+      "location": "PAU-FMM 191 for Film and Multimedia Studies Year 1 on Tue"
+    }
+  ],
+  "Room Capacity/Type Conflicts": [
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "SST HP Lab 1 on Fri at 10:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "SST HP Lab 1 on Fri at 14:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "SST HP Lab 1 on Fri at 15:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "16:30",
+      "location": "SST HP Lab 1 on Fri at 16:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "17:30",
+      "location": "SST HP Lab 1 on Fri at 17:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 4",
+      "building": "SST",
+      "group": "Business Administration 3",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Classroom 4 on Mon at 16:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 4",
+      "building": "SST",
+      "group": "Business Administration 3",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Classroom 4 on Mon at 17:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "SST HP Lab 1 on Mon at 13:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "SST HP Lab 1 on Mon at 14:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Engineering Drawing Studio",
+      "building": "SST",
+      "group": "Mass Communication Year 1",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "Engineering Drawing Studio on Mon at 8:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 2",
+      "building": "SST",
+      "group": "Mass Communication Year 2",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "SST HP Lab 2 on Mon at 14:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 2",
+      "building": "SST",
+      "group": "Mass Communication Year 2",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "SST HP Lab 2 on Mon at 15:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 2",
+      "building": "SST",
+      "group": "Mass Communication Year 2",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "SST HP Lab 2 on Mon at 8:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 3",
+      "building": "SST",
+      "group": "Mass Communication Year 3",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Classroom 3 on Mon at 13:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 3",
+      "building": "SST",
+      "group": "Mass Communication Year 3",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Classroom 3 on Mon at 14:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 2",
+      "building": "SST",
+      "group": "Mass Communication Year 4",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Classroom 2 on Mon at 16:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 2",
+      "building": "SST",
+      "group": "Mass Communication Year 4",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Classroom 2 on Mon at 17:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Engineering Drawing Studio",
+      "building": "SST",
+      "group": "Accounting Year 4",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Engineering Drawing Studio on Thu at 14:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Enugu",
+      "building": "SST",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Enugu on Tue at 10:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Enugu",
+      "building": "SST",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Enugu on Tue at 9:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 2",
+      "building": "SST",
+      "group": "Economics Year 4",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Classroom 2 on Tue at 11:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 2",
+      "building": "SST",
+      "group": "Economics Year 4",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Classroom 2 on Tue at 12:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 3",
+      "building": "SST",
+      "group": "Finance Year 1",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Classroom 3 on Tue at 14:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Classroom 3",
+      "building": "SST",
+      "group": "Finance Year 1",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Classroom 3 on Tue at 15:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 1",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "SST HP Lab 1 on Tue at 10:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Strength of Materials",
+      "building": "SST",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Strength of Materials on Tue at 8:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Strength of Materials",
+      "building": "SST",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Strength of Materials on Tue at 9:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 2",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "SST HP Lab 2 on Wed at 10:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "SST HP Lab 2",
+      "building": "SST",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "SST HP Lab 2 on Wed at 11:30"
+    },
+    {
+      "type": "Wrong Building (TYD in SST)",
+      "room": "Enugu",
+      "building": "SST",
+      "group": "Mass Communication Year 4",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Enugu on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "CHM 108",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Strength of Materials on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "CHM 108",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Strength of Materials on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "CHM 108",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Strength of Materials on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 59,
+      "course": "CSC 313",
+      "group": "Computers Science Year 3",
+      "day": "Wed",
+      "time": "15:30",
+      "location": "Strength of Materials on Wed at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 59,
+      "course": "CSC 313",
+      "group": "Computers Science Year 3",
+      "day": "Wed",
+      "time": "16:30",
+      "location": "Strength of Materials on Wed at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 35,
+      "course": "GET 210",
+      "group": "Electrical & Electronics Engineering Year 2",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Strength of Materials on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 35,
+      "course": "GET 210",
+      "group": "Electrical & Electronics Engineering Year 2",
+      "day": "Thu",
+      "time": "15:30",
+      "location": "Strength of Materials on Thu at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 35,
+      "course": "GET 210",
+      "group": "Electrical & Electronics Engineering Year 2",
+      "day": "Thu",
+      "time": "16:30",
+      "location": "Strength of Materials on Thu at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 22,
+      "course": "GET 402",
+      "group": "Mechanical Engineering Year 4",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "Strength of Materials on Mon at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 22,
+      "course": "GET 402",
+      "group": "Mechanical Engineering Year 4",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Strength of Materials on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "GST 112",
+      "group": "Mechatronics Year 1",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Strength of Materials on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "GST 112",
+      "group": "Mechatronics Year 1",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Strength of Materials on Mon at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 47,
+      "course": "GST 212",
+      "group": "Mechatronics Year 2",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Strength of Materials on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 47,
+      "course": "GST 212",
+      "group": "Mechatronics Year 2",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Strength of Materials on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 57,
+      "course": "MCM 210",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Strength of Materials on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 57,
+      "course": "MCM 210",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Strength of Materials on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "MTH 102",
+      "group": "Mechatronics Year 1",
+      "day": "Thu",
+      "time": "10:30",
+      "location": "Strength of Materials on Thu at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "MTH 102",
+      "group": "Mechatronics Year 1",
+      "day": "Thu",
+      "time": "9:30",
+      "location": "Strength of Materials on Thu at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 57,
+      "course": "MTH 102",
+      "group": "Software Engineering Year 1",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Strength of Materials on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 57,
+      "course": "MTH 102",
+      "group": "Software Engineering Year 1",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Strength of Materials on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 50,
+      "course": "MTH 103",
+      "group": "Electrical & Electronics Engineering Year 1",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Strength of Materials on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 50,
+      "course": "MTH 103",
+      "group": "Electrical & Electronics Engineering Year 1",
+      "day": "Fri",
+      "time": "11:30",
+      "location": "Strength of Materials on Fri at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 47,
+      "course": "MTH 202",
+      "group": "Computers Science Year 2 Stream II",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "Strength of Materials on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 47,
+      "course": "MTH 202",
+      "group": "Computers Science Year 2 Stream II",
+      "day": "Mon",
+      "time": "11:30",
+      "location": "Strength of Materials on Mon at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 50,
+      "course": "PAU-CSC 411",
+      "group": "Computers Science Year 4 Stream II",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "Strength of Materials on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 50,
+      "course": "PAU-CSC 411",
+      "group": "Computers Science Year 4 Stream II",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "Strength of Materials on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 16,
+      "course": "PAU-EEE 512",
+      "group": "Electrical & Electronics Engineering Year 5",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Strength of Materials on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 16,
+      "course": "PAU-EEE 512",
+      "group": "Electrical & Electronics Engineering Year 5",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Strength of Materials on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "PAU-MEE 103",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Strength of Materials on Tue at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "PAU-MEE 103",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Tue",
+      "time": "13:30",
+      "location": "Strength of Materials on Tue at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "PHY 108",
+      "group": "Mechatronics Year 1",
+      "day": "Thu",
+      "time": "12:30",
+      "location": "Strength of Materials on Thu at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "PHY 108",
+      "group": "Mechatronics Year 1",
+      "day": "Thu",
+      "time": "13:30",
+      "location": "Strength of Materials on Thu at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Strength of Materials",
+      "capacity": 15,
+      "students": 52,
+      "course": "PHY 108",
+      "group": "Mechatronics Year 1",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Strength of Materials on Thu at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 59,
+      "course": "AMS 103",
+      "group": "Accounting Year 1",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Newsroom on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 59,
+      "course": "AMS 103",
+      "group": "Accounting Year 1",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Newsroom on Tue at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 52,
+      "course": "CHM 102",
+      "group": "Mechatronics Year 1",
+      "day": "Wed",
+      "time": "15:30",
+      "location": "Newsroom on Wed at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 52,
+      "course": "CHM 102",
+      "group": "Mechatronics Year 1",
+      "day": "Wed",
+      "time": "16:30",
+      "location": "Newsroom on Wed at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 45,
+      "course": "DTS 304",
+      "group": "Software Engineering Year 3",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Newsroom on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 45,
+      "course": "DTS 304",
+      "group": "Software Engineering Year 3",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Newsroom on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 45,
+      "course": "DTS 304",
+      "group": "Software Engineering Year 3",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Newsroom on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 58,
+      "course": "ECO 102",
+      "group": "Economics Year 1",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Newsroom on Thu at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 58,
+      "course": "ECO 102",
+      "group": "Economics Year 1",
+      "day": "Thu",
+      "time": "15:30",
+      "location": "Newsroom on Thu at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 49,
+      "course": "IFT 212",
+      "group": "Software Engineering Year 2",
+      "day": "Thu",
+      "time": "10:30",
+      "location": "Newsroom on Thu at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 49,
+      "course": "IFT 212",
+      "group": "Software Engineering Year 2",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Newsroom on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 57,
+      "course": "ISM 402",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Newsroom on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 57,
+      "course": "ISM 402",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "Newsroom on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 57,
+      "course": "ISM 402",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Newsroom on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 60,
+      "course": "PAU-BUA 108",
+      "group": "Business Administration 1",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Newsroom on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 60,
+      "course": "PAU-BUA 108",
+      "group": "Business Administration 1",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Newsroom on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 58,
+      "course": "PAU-ECO 112",
+      "group": "Economics Year 1",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "Newsroom on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 58,
+      "course": "PAU-ECO 112",
+      "group": "Economics Year 1",
+      "day": "Mon",
+      "time": "11:30",
+      "location": "Newsroom on Mon at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 58,
+      "course": "PAU-ECO 191",
+      "group": "Economics Year 1",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "Newsroom on Mon at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 58,
+      "course": "PAU-ECO 191",
+      "group": "Economics Year 1",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Newsroom on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 52,
+      "course": "PAU-MCT 104",
+      "group": "Mechatronics Year 1",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Newsroom on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 52,
+      "course": "PAU-MCT 104",
+      "group": "Mechatronics Year 1",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Newsroom on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 31,
+      "course": "PAU-MEE 312",
+      "group": "Mechanical Engineering Year 3",
+      "day": "Fri",
+      "time": "8:30",
+      "location": "Newsroom on Fri at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Newsroom",
+      "capacity": 30,
+      "students": 31,
+      "course": "PAU-MEE 312",
+      "group": "Mechanical Engineering Year 3",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Newsroom on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "ECO 204",
+      "group": "Economics Year 2",
+      "day": "Thu",
+      "time": "8:30",
+      "location": "Abeokuta on Thu at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "ECO 204",
+      "group": "Economics Year 2",
+      "day": "Thu",
+      "time": "9:30",
+      "location": "Abeokuta on Thu at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 36,
+      "course": "FMM 202",
+      "group": "Film and Multimedia Studies Year 2",
+      "day": "Fri",
+      "time": "13:30",
+      "location": "Abeokuta on Fri at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 36,
+      "course": "FMM 202",
+      "group": "Film and Multimedia Studies Year 2",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "Abeokuta on Fri at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 52,
+      "course": "PAU-CSC 293",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "Abeokuta on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 52,
+      "course": "PAU-CSC 293",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Wed",
+      "time": "15:30",
+      "location": "Abeokuta on Wed at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 58,
+      "course": "PAU-ECO 108",
+      "group": "Economics Year 1",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Abeokuta on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 58,
+      "course": "PAU-ECO 108",
+      "group": "Economics Year 1",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Abeokuta on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 58,
+      "course": "PAU-ECO 108",
+      "group": "Economics Year 1",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Abeokuta on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "PAU-ECO 208",
+      "group": "Economics Year 2",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "Abeokuta on Fri at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "PAU-ECO 208",
+      "group": "Economics Year 2",
+      "day": "Fri",
+      "time": "16:30",
+      "location": "Abeokuta on Fri at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 58,
+      "course": "PAU-FIN- 113",
+      "group": "Finance Year 1",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Abeokuta on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 58,
+      "course": "PAU-FIN- 113",
+      "group": "Finance Year 1",
+      "day": "Fri",
+      "time": "11:30",
+      "location": "Abeokuta on Fri at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 58,
+      "course": "PAU-FIN- 113",
+      "group": "Finance Year 1",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Abeokuta on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 57,
+      "course": "PHY 102",
+      "group": "Software Engineering Year 1",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "Abeokuta on Mon at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 57,
+      "course": "PHY 102",
+      "group": "Software Engineering Year 1",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Abeokuta on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "SSC 202",
+      "group": "Economics Year 2",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Abeokuta on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "SSC 202",
+      "group": "Economics Year 2",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Abeokuta on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Abeokuta",
+      "capacity": 32,
+      "students": 59,
+      "course": "SSC 202",
+      "group": "Economics Year 2",
+      "day": "Tue",
+      "time": "16:30",
+      "location": "Abeokuta on Tue at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 47,
+      "course": "BUA 202",
+      "group": "Business Administration 2",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Umuahia on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 47,
+      "course": "BUA 202",
+      "group": "Business Administration 2",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Umuahia on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 47,
+      "course": "BUA 202",
+      "group": "Business Administration 2",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Umuahia on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 53,
+      "course": "BUA 323",
+      "group": "Business Administration 3",
+      "day": "Tue",
+      "time": "13:30",
+      "location": "Umuahia on Tue at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 53,
+      "course": "BUA 323",
+      "group": "Business Administration 3",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Umuahia on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 44,
+      "course": "FIN 216",
+      "group": "Finance Year 2",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Umuahia on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 44,
+      "course": "FIN 216",
+      "group": "Finance Year 2",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Umuahia on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 47,
+      "course": "GET 208",
+      "group": "Mechatronics Year 2",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "Umuahia on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 47,
+      "course": "GET 208",
+      "group": "Mechatronics Year 2",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "Umuahia on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 52,
+      "course": "GST 312",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Umuahia on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 52,
+      "course": "GST 312",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Umuahia on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 63,
+      "course": "ISM 213",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Umuahia on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 63,
+      "course": "ISM 213",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Umuahia on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 58,
+      "course": "MCM 110",
+      "group": "Mass Communication Year 1",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "Umuahia on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 58,
+      "course": "MCM 110",
+      "group": "Mass Communication Year 1",
+      "day": "Mon",
+      "time": "11:30",
+      "location": "Umuahia on Mon at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 58,
+      "course": "MCM 110",
+      "group": "Mass Communication Year 1",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Umuahia on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 57,
+      "course": "MCM 308",
+      "group": "Mass Communication Year 3",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Umuahia on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Umuahia",
+      "capacity": 40,
+      "students": 57,
+      "course": "MCM 308",
+      "group": "Mass Communication Year 3",
+      "day": "Tue",
+      "time": "16:30",
+      "location": "Umuahia on Tue at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 50,
+      "course": "CMS 102",
+      "group": "Film and Multimedia Studies Year 1",
+      "day": "Thu",
+      "time": "8:30",
+      "location": "Art and Graphics Studio on Thu at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 50,
+      "course": "CMS 102",
+      "group": "Film and Multimedia Studies Year 1",
+      "day": "Thu",
+      "time": "9:30",
+      "location": "Art and Graphics Studio on Thu at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 59,
+      "course": "DTS 304",
+      "group": "Computers Science Year 3",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Art and Graphics Studio on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 59,
+      "course": "DTS 304",
+      "group": "Computers Science Year 3",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "Art and Graphics Studio on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 59,
+      "course": "DTS 304",
+      "group": "Computers Science Year 3",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Art and Graphics Studio on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 62,
+      "course": "ECO 423",
+      "group": "Economics Year 4",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "Art and Graphics Studio on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 62,
+      "course": "ECO 423",
+      "group": "Economics Year 4",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Art and Graphics Studio on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 58,
+      "course": "GST-112",
+      "group": "Mass Communication Year 1",
+      "day": "Wed",
+      "time": "17:30",
+      "location": "Art and Graphics Studio on Wed at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 52,
+      "course": "ISM 314",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Thu",
+      "time": "10:30",
+      "location": "Art and Graphics Studio on Thu at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 52,
+      "course": "ISM 314",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Art and Graphics Studio on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 63,
+      "course": "PAU-ECO 317",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Art and Graphics Studio on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 63,
+      "course": "PAU-ECO 318",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Art and Graphics Studio on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 63,
+      "course": "PAU-ECO 318",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "16:30",
+      "location": "Art and Graphics Studio on Tue at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 63,
+      "course": "PAU-ECO 392",
+      "group": "Economics Year 3",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Art and Graphics Studio on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 63,
+      "course": "PAU-ECO 392",
+      "group": "Economics Year 3",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Art and Graphics Studio on Mon at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 57,
+      "course": "PAU-MCM 318",
+      "group": "Mass Communication Year 3",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Art and Graphics Studio on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 57,
+      "course": "PAU-MCM 318",
+      "group": "Mass Communication Year 3",
+      "day": "Fri",
+      "time": "11:30",
+      "location": "Art and Graphics Studio on Fri at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 57,
+      "course": "PAU-MCM 318",
+      "group": "Mass Communication Year 3",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Art and Graphics Studio on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 45,
+      "course": "PAU-STC 111",
+      "group": "Strategic Communications Year 1",
+      "day": "Thu",
+      "time": "12:30",
+      "location": "Art and Graphics Studio on Thu at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 45,
+      "course": "PAU-STC 111",
+      "group": "Strategic Communications Year 1",
+      "day": "Thu",
+      "time": "13:30",
+      "location": "Art and Graphics Studio on Thu at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 45,
+      "course": "PAU-STC 111",
+      "group": "Strategic Communications Year 1",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Art and Graphics Studio on Thu at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 56,
+      "course": "PHY 108",
+      "group": "Data Science Year 1",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Art and Graphics Studio on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 56,
+      "course": "PHY 108",
+      "group": "Data Science Year 1",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Art and Graphics Studio on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Art and Graphics Studio",
+      "capacity": 42,
+      "students": 56,
+      "course": "PHY 108",
+      "group": "Data Science Year 1",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Art and Graphics Studio on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 59,
+      "course": "ACC 102",
+      "group": "Accounting Year 1",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Lokoja on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 59,
+      "course": "ACC 102",
+      "group": "Accounting Year 1",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Lokoja on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 59,
+      "course": "ACC 102",
+      "group": "Accounting Year 1",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Lokoja on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 53,
+      "course": "BUA 303",
+      "group": "Business Administration 3",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "Oshogbo on Fri at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 53,
+      "course": "BUA 303",
+      "group": "Business Administration 3",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "Oshogbo on Fri at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 53,
+      "course": "BUA 303",
+      "group": "Business Administration 3",
+      "day": "Fri",
+      "time": "16:30",
+      "location": "Oshogbo on Fri at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 52,
+      "course": "CMS 312",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Oshogbo on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 52,
+      "course": "CMS 312",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Oshogbo on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 52,
+      "course": "CMS 313",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Lokoja on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 52,
+      "course": "CMS 313",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Fri",
+      "time": "11:30",
+      "location": "Lokoja on Fri at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "COM 404",
+      "group": "Mass Communication Year 4",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "Uyo on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "COM 404",
+      "group": "Mass Communication Year 4",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Uyo on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 57,
+      "course": "COM 414",
+      "group": "Mass Communication Year 4",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Lokoja on Tue at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 57,
+      "course": "COM 414",
+      "group": "Mass Communication Year 4",
+      "day": "Tue",
+      "time": "13:30",
+      "location": "Lokoja on Tue at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 54,
+      "course": "COS 102",
+      "group": "Computers Science Year 1",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "SST HP Lab 1 on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 54,
+      "course": "COS 102",
+      "group": "Computers Science Year 1",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "SST HP Lab 1 on Mon at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 54,
+      "course": "COS 102",
+      "group": "Computers Science Year 1",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "SST HP Lab 1 on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 56,
+      "course": "COS 102",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "SST HP Lab 1 on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 56,
+      "course": "COS 102",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "SST HP Lab 1 on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 56,
+      "course": "COS 102",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "15:30",
+      "location": "SST HP Lab 1 on Wed at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 57,
+      "course": "COS 102",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "SST HP Lab 2 on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 57,
+      "course": "COS 102",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "SST HP Lab 2 on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 49,
+      "course": "COS 202",
+      "group": "Software Engineering Year 2",
+      "day": "Fri",
+      "time": "13:30",
+      "location": "SST HP Lab 2 on Fri at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 49,
+      "course": "COS 202",
+      "group": "Software Engineering Year 2",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "SST HP Lab 2 on Fri at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 49,
+      "course": "COS 202",
+      "group": "Software Engineering Year 2",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "SST HP Lab 2 on Fri at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 52,
+      "course": "COS 202",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Tue",
+      "time": "13:30",
+      "location": "SST HP Lab 2 on Tue at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 52,
+      "course": "COS 202",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "SST HP Lab 2 on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 52,
+      "course": "COS 202",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "SST HP Lab 2 on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 50,
+      "course": "CSC 401",
+      "group": "Computers Science Year 4 Stream II",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Oshogbo on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 50,
+      "course": "CSC 401",
+      "group": "Computers Science Year 4 Stream II",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Oshogbo on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 63,
+      "course": "ECO 310",
+      "group": "Economics Year 3",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "Uyo on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 63,
+      "course": "ECO 310",
+      "group": "Economics Year 3",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "Uyo on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 62,
+      "course": "ECO 422",
+      "group": "Economics Year 4",
+      "day": "Thu",
+      "time": "10:30",
+      "location": "Lokoja on Thu at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 62,
+      "course": "ECO 422",
+      "group": "Economics Year 4",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Lokoja on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 62,
+      "course": "ECO 422",
+      "group": "Economics Year 4",
+      "day": "Thu",
+      "time": "9:30",
+      "location": "Lokoja on Thu at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 50,
+      "course": "FMM 102",
+      "group": "Film and Multimedia Studies Year 1",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Lokoja on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 50,
+      "course": "FMM 102",
+      "group": "Film and Multimedia Studies Year 1",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Lokoja on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 49,
+      "course": "GST 212",
+      "group": "Software Engineering Year 2",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Oshogbo on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 49,
+      "course": "GST 212",
+      "group": "Software Engineering Year 2",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Oshogbo on Mon at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 211",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "SST HP Lab 1 on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 211",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "SST HP Lab 1 on Fri at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 211",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "SST HP Lab 1 on Fri at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 212",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "SST HP Lab 2 on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 212",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "SST HP Lab 2 on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 223",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "16:30",
+      "location": "SST HP Lab 1 on Fri at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 63,
+      "course": "ISM 223",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Fri",
+      "time": "17:30",
+      "location": "SST HP Lab 1 on Fri at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 57,
+      "course": "ISM 406",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "SST HP Lab 1 on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 57,
+      "course": "ISM 416",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "SST HP Lab 1 on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 57,
+      "course": "ISM 416",
+      "group": "Information Science and Media Studies Year 4",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "SST HP Lab 1 on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 202",
+      "group": "Mass Communication Year 2",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "SST HP Lab 2 on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 202",
+      "group": "Mass Communication Year 2",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "SST HP Lab 2 on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 2",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 202",
+      "group": "Mass Communication Year 2",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "SST HP Lab 2 on Mon at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 212",
+      "group": "Mass Communication Year 2",
+      "day": "Fri",
+      "time": "8:30",
+      "location": "Oshogbo on Fri at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 212",
+      "group": "Mass Communication Year 2",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Oshogbo on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 214",
+      "group": "Mass Communication Year 2",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Oshogbo on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 57,
+      "course": "MCM 214",
+      "group": "Mass Communication Year 2",
+      "day": "Thu",
+      "time": "12:30",
+      "location": "Oshogbo on Thu at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 52,
+      "course": "MTH 102",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Uyo on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 52,
+      "course": "MTH 102",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Uyo on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-ACC-104",
+      "group": "Accounting Year 1",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Uyo on Thu at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-ACC-104",
+      "group": "Accounting Year 1",
+      "day": "Thu",
+      "time": "15:30",
+      "location": "Uyo on Thu at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-ACC-104",
+      "group": "Accounting Year 1",
+      "day": "Thu",
+      "time": "16:30",
+      "location": "Uyo on Thu at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 60,
+      "course": "PAU-BUA 109",
+      "group": "Business Administration 1",
+      "day": "Thu",
+      "time": "12:30",
+      "location": "Lokoja on Thu at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 60,
+      "course": "PAU-BUA 109",
+      "group": "Business Administration 1",
+      "day": "Thu",
+      "time": "13:30",
+      "location": "Lokoja on Thu at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 60,
+      "course": "PAU-BUA 109",
+      "group": "Business Administration 1",
+      "day": "Thu",
+      "time": "8:30",
+      "location": "Lokoja on Thu at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 60,
+      "course": "PAU-BUA 110",
+      "group": "Business Administration 1",
+      "day": "Fri",
+      "time": "8:30",
+      "location": "Uyo on Fri at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 60,
+      "course": "PAU-BUA 110",
+      "group": "Business Administration 1",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Uyo on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-CSC 310",
+      "group": "Computers Science Year 3",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "SST HP Lab 1 on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-CSC 310",
+      "group": "Computers Science Year 3",
+      "day": "Tue",
+      "time": "16:30",
+      "location": "SST HP Lab 1 on Tue at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "SST HP Lab 1",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-CSC 310",
+      "group": "Computers Science Year 3",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "SST HP Lab 1 on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-ECO 291",
+      "group": "Economics Year 2",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Lokoja on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 59,
+      "course": "PAU-ECO 291",
+      "group": "Economics Year 2",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Lokoja on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 63,
+      "course": "PAU-ECO 316",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Oshogbo on Tue at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 63,
+      "course": "PAU-ECO 316",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "13:30",
+      "location": "Oshogbo on Tue at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Lokoja",
+      "capacity": 48,
+      "students": 50,
+      "course": "PAU-FMM 191",
+      "group": "Film and Multimedia Studies Year 1",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Lokoja on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 58,
+      "course": "PAU-ISM 115",
+      "group": "Information Science and Media Studies Year 1",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "Uyo on Fri at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 58,
+      "course": "PAU-ISM 115",
+      "group": "Information Science and Media Studies Year 1",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "Uyo on Fri at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 63,
+      "course": "PAU-ISM 291 (GST 203)",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "Uyo on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 63,
+      "course": "PAU-ISM 291 (GST 203)",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Uyo on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 52,
+      "course": "PAU-ISM 310",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "Oshogbo on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Oshogbo",
+      "capacity": 48,
+      "students": 52,
+      "course": "PAU-ISM 310",
+      "group": "Information Science and Media Studies Year 3",
+      "day": "Wed",
+      "time": "15:30",
+      "location": "Oshogbo on Wed at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "PAU-MCM 218",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Uyo on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "PAU-MCM 218",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Uyo on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "PAU-MCM 218",
+      "group": "Mass Communication Year 2",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Uyo on Tue at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "PAU-MCM 316",
+      "group": "Mass Communication Year 3",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Uyo on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "PAU-MCM 316",
+      "group": "Mass Communication Year 3",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Uyo on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Uyo",
+      "capacity": 48,
+      "students": 57,
+      "course": "PAU-MCM 316",
+      "group": "Mass Communication Year 3",
+      "day": "Wed",
+      "time": "16:30",
+      "location": "Uyo on Wed at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 58,
+      "course": "AMS 101",
+      "group": "Finance Year 1",
+      "day": "Tue",
+      "time": "14:30",
+      "location": "Classroom 3 on Tue at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 58,
+      "course": "AMS 101",
+      "group": "Finance Year 1",
+      "day": "Tue",
+      "time": "15:30",
+      "location": "Classroom 3 on Tue at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 52,
+      "course": "CHM 102",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Classroom 5 on Thu at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 52,
+      "course": "CHM 102",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Thu",
+      "time": "15:30",
+      "location": "Classroom 5 on Thu at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "COM 412",
+      "group": "Mass Communication Year 4",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Classroom 2 on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "COM 412",
+      "group": "Mass Communication Year 4",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Classroom 2 on Mon at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 62,
+      "course": "ECO 421",
+      "group": "Economics Year 4",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Classroom 2 on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 62,
+      "course": "ECO 421",
+      "group": "Economics Year 4",
+      "day": "Tue",
+      "time": "12:30",
+      "location": "Classroom 2 on Tue at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 59,
+      "course": "ENT 312",
+      "group": "Computers Science Year 3",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Classroom 4 on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 59,
+      "course": "ENT 312",
+      "group": "Computers Science Year 3",
+      "day": "Tue",
+      "time": "11:30",
+      "location": "Classroom 4 on Tue at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 52,
+      "course": "GET 102",
+      "group": "Mechatronics Year 1",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "Classroom 2 on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 52,
+      "course": "GET 102",
+      "group": "Mechatronics Year 1",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Classroom 2 on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 57,
+      "course": "GST 111",
+      "group": "Software Engineering Year 1",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Classroom 5 on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 57,
+      "course": "GST 111",
+      "group": "Software Engineering Year 1",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Classroom 5 on Mon at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 54,
+      "course": "GST 112",
+      "group": "Computers Science Year 1",
+      "day": "Thu",
+      "time": "14:30",
+      "location": "Classroom 4 on Thu at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 54,
+      "course": "GST 112",
+      "group": "Computers Science Year 1",
+      "day": "Thu",
+      "time": "15:30",
+      "location": "Classroom 4 on Thu at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "GST 112",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "Classroom 3 on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "GST 112",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "Classroom 3 on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "GST 112",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Classroom 2 on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "GST 112",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Classroom 2 on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 52,
+      "course": "GST 212",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Thu",
+      "time": "8:30",
+      "location": "Classroom 2 on Thu at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 52,
+      "course": "GST 212",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Thu",
+      "time": "9:30",
+      "location": "Classroom 2 on Thu at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 59,
+      "course": "ICT 305",
+      "group": "Computers Science Year 3",
+      "day": "Mon",
+      "time": "10:30",
+      "location": "Classroom 2 on Mon at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 59,
+      "course": "ICT 305",
+      "group": "Computers Science Year 3",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "Classroom 2 on Mon at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 59,
+      "course": "ICT 305",
+      "group": "Computers Science Year 3",
+      "day": "Mon",
+      "time": "9:30",
+      "location": "Classroom 2 on Mon at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 1",
+      "capacity": 50,
+      "students": 52,
+      "course": "IFT 212",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Fri",
+      "time": "13:30",
+      "location": "Classroom 1 on Fri at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 1",
+      "capacity": 50,
+      "students": 52,
+      "course": "IFT 212",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Fri",
+      "time": "14:30",
+      "location": "Classroom 1 on Fri at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 52,
+      "course": "INS204",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "Classroom 5 on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 57,
+      "course": "MCM 302",
+      "group": "Mass Communication Year 3",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Classroom 3 on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 57,
+      "course": "MCM 302",
+      "group": "Mass Communication Year 3",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Classroom 3 on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 54,
+      "course": "MTH 102",
+      "group": "Computers Science Year 1",
+      "day": "Fri",
+      "time": "15:30",
+      "location": "Classroom 2 on Fri at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 54,
+      "course": "MTH 102",
+      "group": "Computers Science Year 1",
+      "day": "Fri",
+      "time": "16:30",
+      "location": "Classroom 2 on Fri at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 56,
+      "course": "MTH 102",
+      "group": "Data Science Year 1",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Classroom 4 on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 56,
+      "course": "MTH 102",
+      "group": "Data Science Year 1",
+      "day": "Fri",
+      "time": "11:30",
+      "location": "Classroom 4 on Fri at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 52,
+      "course": "MTH 202",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Classroom 4 on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 52,
+      "course": "MTH 202",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Classroom 4 on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 53,
+      "course": "PAU-BUA 392",
+      "group": "Business Administration 3",
+      "day": "Mon",
+      "time": "16:30",
+      "location": "Classroom 4 on Mon at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 53,
+      "course": "PAU-BUA 392",
+      "group": "Business Administration 3",
+      "day": "Mon",
+      "time": "17:30",
+      "location": "Classroom 4 on Mon at 17:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "PAU-CSC 112",
+      "group": "Software Engineering Year 1",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Classroom 2 on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "PAU-CSC 112",
+      "group": "Software Engineering Year 1",
+      "day": "Fri",
+      "time": "11:30",
+      "location": "Classroom 2 on Fri at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "PAU-CSC 112",
+      "group": "Software Engineering Year 1",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Classroom 2 on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 54,
+      "course": "PAU-CSC 112",
+      "group": "Computers Science Year 1",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "Classroom 2 on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 54,
+      "course": "PAU-CSC 112",
+      "group": "Computers Science Year 1",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "Classroom 2 on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 54,
+      "course": "PAU-CSC 112",
+      "group": "Computers Science Year 1",
+      "day": "Mon",
+      "time": "15:30",
+      "location": "Classroom 2 on Mon at 15:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 56,
+      "course": "PAU-CSC 112",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Classroom 5 on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 56,
+      "course": "PAU-CSC 112",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Classroom 5 on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 56,
+      "course": "PAU-CSC 114",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "8:30",
+      "location": "Classroom 5 on Wed at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 5",
+      "capacity": 50,
+      "students": 56,
+      "course": "PAU-CSC 114",
+      "group": "Data Science Year 1",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Classroom 5 on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "PAU-CSC 114",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "time": "13:30",
+      "location": "Classroom 2 on Wed at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 57,
+      "course": "PAU-CSC 114",
+      "group": "Software Engineering Year 1",
+      "day": "Wed",
+      "time": "14:30",
+      "location": "Classroom 2 on Wed at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-CSC 214",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Thu",
+      "time": "10:30",
+      "location": "Classroom 4 on Thu at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 4",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-CSC 214",
+      "group": "Computers Science Year 2 Stream I",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Classroom 4 on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 1",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-MCT 112",
+      "group": "Mechatronics Year 1",
+      "day": "Fri",
+      "time": "10:30",
+      "location": "Classroom 1 on Fri at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 1",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-MCT 112",
+      "group": "Mechatronics Year 1",
+      "day": "Fri",
+      "time": "8:30",
+      "location": "Classroom 1 on Fri at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 1",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-MCT 112",
+      "group": "Mechatronics Year 1",
+      "day": "Fri",
+      "time": "9:30",
+      "location": "Classroom 1 on Fri at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-MEE 112",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Classroom 3 on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-MEE 112",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Tue",
+      "time": "8:30",
+      "location": "Classroom 3 on Tue at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "PAU-MEE 112",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Classroom 3 on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 56,
+      "course": "PHY 102",
+      "group": "Data Science Year 1",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Classroom 2 on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 2",
+      "capacity": 50,
+      "students": 56,
+      "course": "PHY 102",
+      "group": "Data Science Year 1",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Classroom 2 on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "PHY 108",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Thu",
+      "time": "10:30",
+      "location": "Classroom 3 on Thu at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "PHY 108",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Thu",
+      "time": "11:30",
+      "location": "Classroom 3 on Thu at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 52,
+      "course": "PHY 108",
+      "group": "Mechanical Engineering Year 1",
+      "day": "Thu",
+      "time": "9:30",
+      "location": "Classroom 3 on Thu at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 57,
+      "course": "PHY 108",
+      "group": "Software Engineering Year 1",
+      "day": "Thu",
+      "time": "12:30",
+      "location": "Classroom 3 on Thu at 12:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 57,
+      "course": "PHY 108",
+      "group": "Software Engineering Year 1",
+      "day": "Thu",
+      "time": "16:30",
+      "location": "Classroom 3 on Thu at 16:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Classroom 3",
+      "capacity": 50,
+      "students": 57,
+      "course": "PHY 108",
+      "group": "Software Engineering Year 1",
+      "day": "Thu",
+      "time": "8:30",
+      "location": "Classroom 3 on Thu at 8:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Jos",
+      "capacity": 60,
+      "students": 62,
+      "course": "BUS 301",
+      "group": "Economics Year 4",
+      "day": "Wed",
+      "time": "10:30",
+      "location": "Jos on Wed at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Jos",
+      "capacity": 60,
+      "students": 62,
+      "course": "BUS 301",
+      "group": "Economics Year 4",
+      "day": "Wed",
+      "time": "11:30",
+      "location": "Jos on Wed at 11:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Jos",
+      "capacity": 60,
+      "students": 62,
+      "course": "BUS 301",
+      "group": "Economics Year 4",
+      "day": "Wed",
+      "time": "9:30",
+      "location": "Jos on Wed at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Enugu",
+      "capacity": 60,
+      "students": 63,
+      "course": "PAU-ECO 314",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "10:30",
+      "location": "Enugu on Tue at 10:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "Enugu",
+      "capacity": 60,
+      "students": 63,
+      "course": "PAU-ECO 314",
+      "group": "Economics Year 3",
+      "day": "Tue",
+      "time": "9:30",
+      "location": "Enugu on Tue at 9:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "TYD Mac",
+      "capacity": 60,
+      "students": 63,
+      "course": "PAU-ISM 210",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Mon",
+      "time": "13:30",
+      "location": "TYD Mac on Mon at 13:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "TYD Mac",
+      "capacity": 60,
+      "students": 63,
+      "course": "PAU-ISM 210",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Mon",
+      "time": "14:30",
+      "location": "TYD Mac on Mon at 14:30"
+    },
+    {
+      "type": "Room Capacity Exceeded",
+      "room": "TYD Mac",
+      "capacity": 60,
+      "students": 63,
+      "course": "PAU-ISM 210",
+      "group": "Information Science and Media Studies Year 2",
+      "day": "Mon",
+      "time": "8:30",
+      "location": "TYD Mac on Mon at 8:30"
+    }
+  ],
+  "Classes During Break Time": [],
+  "Late Classes": [
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "COM 412",
+      "group": "Mass Communication Year 4",
+      "location": "COM 412 for Mass Communication Year 4 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GET 204",
+      "group": "Mechanical Engineering Year 2",
+      "location": "GET 204 for Mechanical Engineering Year 2 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GET 208",
+      "group": "Mechatronics Year 2",
+      "location": "GET 208 for Mechatronics Year 2 on Wed at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GET 502",
+      "group": "Electrical & Electronics Engineering Year 5",
+      "location": "GET 502 for Electrical & Electronics Engineering Year 5 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GST 111",
+      "group": "Software Engineering Year 1",
+      "location": "GST 111 for Software Engineering Year 1 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GST 112",
+      "group": "Electrical & Electronics Engineering Year 1",
+      "location": "GST 112 for Electrical & Electronics Engineering Year 1 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GST 112",
+      "group": "Mechatronics Year 1",
+      "location": "GST 112 for Mechatronics Year 1 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "GST 212",
+      "group": "Software Engineering Year 2",
+      "location": "GST 212 for Software Engineering Year 2 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "GST-112",
+      "group": "Mass Communication Year 1",
+      "location": "GST-112 for Mass Communication Year 1 on Wed at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "ISM 223",
+      "group": "Information Science and Media Studies Year 2",
+      "location": "ISM 223 for Information Science and Media Studies Year 2 on Fri at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "MCM 102",
+      "group": "Mass Communication Year 1",
+      "location": "MCM 102 for Mass Communication Year 1 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "MCM 204",
+      "group": "Mass Communication Year 2",
+      "location": "MCM 204 for Mass Communication Year 2 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "MCM 216",
+      "group": "Mass Communication Year 2",
+      "location": "MCM 216 for Mass Communication Year 2 on Wed at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "PAU-BUA 392",
+      "group": "Business Administration 3",
+      "location": "PAU-BUA 392 for Business Administration 3 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "PAU-ECO 392",
+      "group": "Economics Year 3",
+      "location": "PAU-ECO 392 for Economics Year 3 on Mon at 17:30"
+    },
+    {
+      "type": "Late Class",
+      "course": "PAU-EEE 506",
+      "group": "Electrical & Electronics Engineering Year 5",
+      "location": "PAU-EEE 506 for Electrical & Electronics Engineering Year 5 on Tue at 17:30"
+    },
+    {
+      "type": "Late Class (TYD Group - High Penalty)",
+      "course": "PAU-FIN 309",
+      "group": "Finance Year 3",
+      "location": "PAU-FIN 309 for Finance Year 3 on Mon at 17:30"
+    }
+  ]
+}

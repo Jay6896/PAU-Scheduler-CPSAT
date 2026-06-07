@@ -1,0 +1,31 @@
+Flask>=3.0,<4
+Flask-CORS>=4,<7
+
+# Data stack (use versions that provide wheels for newer Python on Windows)
+numpy>=2.2
+pandas>=2.2
+openpyxl>=3.1.5
+xlrd>=2.0.1
+werkzeug>=3.0,<4
+
+# Dash UI dependencies (Dash UI is disabled in this repo, but kept for parity/tools)
+dash>=2.16
+dash-table>=5
+plotly>=5.17
+
+# Optional but recommended for production (gunicorn is not available on Windows)
+gunicorn>=21.2; platform_system != "Windows"
+python-dotenv>=1.0
+
+# For image export (optional)
+matplotlib>=3.9
+Pillow>=11.0
+
+# For better error handling
+marshmallow>=3.20
+
+xlsxwriter>=3.2
+reportlab>=4.2
+
+# CP-SAT / constraint programming (Google OR-Tools)
+ortools>=9.10

@@ -1,0 +1,3343 @@
+[
+  {
+    "id": "cmgbeadichie@pau.edu.ng",
+    "name": "cmgbeadichie@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM 110",
+      "PAU-STC 111",
+      "PAU-FMM 105"
+    ]
+  },
+  {
+    "id": "aagina@pau.edu.ng",
+    "name": "aagina@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MCM-108",
+      "COM 404"
+    ]
+  },
+  {
+    "id": "cnjoku@pau.edu.ng",
+    "name": "cnjoku@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "CMS 102",
+      "COM 412"
+    ]
+  },
+  {
+    "id": "oduenyi@pau.edu.ng",
+    "name": "oduenyi@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 102"
+    ]
+  },
+  {
+    "id": "aolaniyan@pau.edu.ng",
+    "name": "aolaniyan@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 104",
+      "COM 406",
+      "CMS 112",
+      "PAU-ISM 316"
+    ]
+  },
+  {
+    "id": "aedosomwan@pau.edu.ng",
+    "name": "aedosomwan@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM 106"
+    ]
+  },
+  {
+    "id": "eonukwu-Isitua@pau.edu.ng",
+    "name": "eonukwu-Isitua@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GST-112"
+    ]
+  },
+  {
+    "id": "esere@pau.edu.ng",
+    "name": "esere@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM 202"
+    ]
+  },
+  {
+    "id": "oakiode@pau.edu.ng",
+    "name": "oakiode@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-MCM 218"
+    ]
+  },
+  {
+    "id": "roji@pau.edu.ng",
+    "name": "roji@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM 201",
+      "PAU-ACC-291",
+      "PAU-CSC 293",
+      "GST 111"
+    ]
+  },
+  {
+    "id": "ialamezie@pau.edu.ng",
+    "name": "ialamezie@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GST 212"
+    ]
+  },
+  {
+    "id": "oogunyemi@pau.edu.ng",
+    "name": "oogunyemi@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MCM 292",
+      "GST 312"
+    ]
+  },
+  {
+    "id": "sjohn@pau.edu.ng",
+    "name": "sjohn@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM 204",
+      "ISM 224"
+    ]
+  },
+  {
+    "id": "mkolade@pau.edu.ng",
+    "name": "mkolade@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 206"
+    ]
+  },
+  {
+    "id": "tcrown@pau.edu.ng",
+    "name": "tcrown@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 208"
+    ]
+  },
+  {
+    "id": "magada-mba@pau.edu.ng",
+    "name": "magada-mba@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM 210",
+      "MCM 308",
+      "ISM 402"
+    ]
+  },
+  {
+    "id": "aokoeguale@pau.edu.ng",
+    "name": "aokoeguale@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 212",
+      "STC 104"
+    ]
+  },
+  {
+    "id": "owodunni@pau.edu.ng",
+    "name": "owodunni@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 214"
+    ]
+  },
+  {
+    "id": "unwaezeapu@pau.edu.ng",
+    "name": "unwaezeapu@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 216",
+      "MCM 314"
+    ]
+  },
+  {
+    "id": "jsawyer@pau.edu.ng",
+    "name": "jsawyer@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-MCM 316"
+    ]
+  },
+  {
+    "id": "Mr. Chukwudi Ezugwu",
+    "name": "Mr. Chukwudi Ezugwu",
+    "department": "",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": []
+  },
+  {
+    "id": "kalakwe@pau.edu.ng",
+    "name": "kalakwe@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "CMS 303",
+      "STC 102"
+    ]
+  },
+  {
+    "id": "sjohn-ofoleta@pau.edu.ng",
+    "name": "sjohn-ofoleta@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MCM 302",
+      "CMS 102"
+    ]
+  },
+  {
+    "id": "jelegido@pau.edu.ng",
+    "name": "jelegido@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MCM",
+      "ISM 404"
+    ]
+  },
+  {
+    "id": "oowodunni@pau.edu.ng",
+    "name": "oowodunni@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GST 312"
+    ]
+  },
+  {
+    "id": "Miss Joy",
+    "name": "Miss Joy",
+    "department": "",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": []
+  },
+  {
+    "id": "Amarachi Ubani",
+    "name": "Amarachi Ubani",
+    "department": "",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": []
+  },
+  {
+    "id": "Dr. Chuddy Oduneyi",
+    "name": "Dr. Chuddy Oduneyi",
+    "department": "",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": []
+  },
+  {
+    "id": "kesere@pau.edu.ng",
+    "name": "kesere@pau.edu.ng",
+    "department": "Mass Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "COM 414",
+      "ISM 113"
+    ]
+  },
+  {
+    "id": "jeneji@pau.edu.ng",
+    "name": "jeneji@pau.edu.ng",
+    "department": "Strategic Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GST-112",
+      "GST 112"
+    ]
+  },
+  {
+    "id": "negbunike@pau.edu.ng",
+    "name": "negbunike@pau.edu.ng",
+    "department": "Strategic Communication",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "STC 106"
+    ]
+  },
+  {
+    "id": "josah@pau.edu.ng",
+    "name": "josah@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ISM 111",
+      "CMS 313"
+    ]
+  },
+  {
+    "id": "aokonkwo@pau.edu.ng",
+    "name": "aokonkwo@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ISM 121",
+      "PAU-ISM 210"
+    ]
+  },
+  {
+    "id": "kmakinde@pau.edu.ng",
+    "name": "kmakinde@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-ISM 115",
+      "ISM 223"
+    ]
+  },
+  {
+    "id": "iogboh@pau.edu.ng",
+    "name": "iogboh@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ISM 191",
+      "PAU-ACC 191"
+    ]
+  },
+  {
+    "id": "csada@pau.edu.ng",
+    "name": "csada@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ISM 211"
+    ]
+  },
+  {
+    "id": "aodoh@pau.edu.ng",
+    "name": "aodoh@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ISM 212",
+      "PAU-ISM 310"
+    ]
+  },
+  {
+    "id": "wusaku@pau.edu.ng",
+    "name": "wusaku@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ISM 213"
+    ]
+  },
+  {
+    "id": "uokoro@pau.edu.ng",
+    "name": "uokoro@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ISM 291 (GST 203)",
+      "GST 111"
+    ]
+  },
+  {
+    "id": "eojesebholo@pau.edu.ng",
+    "name": "eojesebholo@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ISM 323"
+    ]
+  },
+  {
+    "id": "alakwe@pau.edu.ng",
+    "name": "alakwe@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "CMS 311"
+    ]
+  },
+  {
+    "id": "nokorie@pau.edu.ng",
+    "name": "nokorie@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "CMS 312"
+    ]
+  },
+  {
+    "id": "danger@pau.edu.ng",
+    "name": "danger@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-ISM 308"
+    ]
+  },
+  {
+    "id": "uogbonna@pau.edu.ng",
+    "name": "uogbonna@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ISM 314"
+    ]
+  },
+  {
+    "id": "pogidi@pau.edu.ng",
+    "name": "pogidi@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ISM 406"
+    ]
+  },
+  {
+    "id": "fogungbe@pau.edu.ng",
+    "name": "fogungbe@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ISM 413",
+      "PAU-FMM 210"
+    ]
+  },
+  {
+    "id": "pokposo@pau.edu.ng",
+    "name": "pokposo@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ISM 414",
+      "PAU-ACC-207",
+      "FIN 215"
+    ]
+  },
+  {
+    "id": "scsada@pau.edu.ng",
+    "name": "scsada@pau.edu.ng",
+    "department": "Information Science and Media Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ISM 416"
+    ]
+  },
+  {
+    "id": "cogbonna@pau.edu.ngc",
+    "name": "cogbonna@pau.edu.ngc",
+    "department": "Film and Multimedia Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "FMM 102"
+    ]
+  },
+  {
+    "id": "eajala@pau.edu.ng",
+    "name": "eajala@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-FMM 106",
+      "FMM 202"
+    ]
+  },
+  {
+    "id": "bisiekwe@pau.edu.ng",
+    "name": "bisiekwe@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-FMM 191",
+      "PAU-ECO 191"
+    ]
+  },
+  {
+    "id": "uwammanda@pau.edu.ng",
+    "name": "uwammanda@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "FMM 206",
+      "FMM 304"
+    ]
+  },
+  {
+    "id": "lakande@pau.edu.ng",
+    "name": "lakande@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-FMM 208",
+      "FMM 304",
+      "PAU‐FMM 312"
+    ]
+  },
+  {
+    "id": "aadah@pau.edu.ng",
+    "name": "aadah@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-FMM 210"
+    ]
+  },
+  {
+    "id": "aadeyeye@pau.edu.ng",
+    "name": "aadeyeye@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-FMM 212"
+    ]
+  },
+  {
+    "id": "nikeh@pau.edu.ng",
+    "name": "nikeh@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "FMM 306"
+    ]
+  },
+  {
+    "id": "cngoka@pau.edu.ng",
+    "name": "cngoka@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "FMM 306",
+      "PAU‐FMM 312"
+    ]
+  },
+  {
+    "id": "busola.olugbemileke@pau.edu.ng",
+    "name": "busola.olugbemileke@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU‐FMM 314"
+    ]
+  },
+  {
+    "id": "oowolabi@pau.edu.ng",
+    "name": "oowolabi@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ACC 102",
+      "PAU-BUA 108",
+      "FIN 317",
+      "FIN 408"
+    ]
+  },
+  {
+    "id": "nsolomon@pau.edu.ng",
+    "name": "nsolomon@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-ACC-104",
+      "ECO 426",
+      "ECO 427"
+    ]
+  },
+  {
+    "id": "ooni@pau.edu.ng",
+    "name": "ooni@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "AMS 103"
+    ]
+  },
+  {
+    "id": "fanetor@pau.edu.ng",
+    "name": "fanetor@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU ACC 105",
+      "PAU-FIN-104"
+    ]
+  },
+  {
+    "id": "oikpesu@pau.edu.ng",
+    "name": "oikpesu@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ACC 107",
+      "PAU-FIN-112"
+    ]
+  },
+  {
+    "id": "odakare@pau.edu.ng",
+    "name": "odakare@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "AMS 101",
+      "BUS 404",
+      "BUS 402"
+    ]
+  },
+  {
+    "id": "lraheed@pau.edu.ng",
+    "name": "lraheed@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ACC 202",
+      "ACC 303",
+      "ACC 409"
+    ]
+  },
+  {
+    "id": "iolaniyi@pau.edu.ng",
+    "name": "iolaniyi@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ACC 203",
+      "PAU-FIN 320"
+    ]
+  },
+  {
+    "id": "jimhanzenobe@pau.edu.ng",
+    "name": "jimhanzenobe@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ACC 206"
+    ]
+  },
+  {
+    "id": "iunah@pau.edu.ng",
+    "name": "iunah@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ACC-208",
+      "PAU-FIN 309",
+      "FIN 406"
+    ]
+  },
+  {
+    "id": "oikejimba@pau.edu.ng",
+    "name": "oikejimba@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ACC 312",
+      "PAU-FIN 319",
+      "PAU-ECO 314"
+    ]
+  },
+  {
+    "id": "ovincent@pau.edu.ng",
+    "name": "ovincent@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ACC 306",
+      "ACC 406"
+    ]
+  },
+  {
+    "id": "iudofia@pau.edu.ng",
+    "name": "iudofia@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ACC 302",
+      "ACC 311",
+      "PAU-FIN 211"
+    ]
+  },
+  {
+    "id": "sokon@pau.edu.ng",
+    "name": "sokon@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ACC 310",
+      "PAU-FIN 314"
+    ]
+  },
+  {
+    "id": "iokwuosa@pau.edu.ng",
+    "name": "iokwuosa@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ACC 405"
+    ]
+  },
+  {
+    "id": "okpala@pau.edu.ng",
+    "name": "okpala@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ACC 408"
+    ]
+  },
+  {
+    "id": "fikpesu@pau.edu.ng",
+    "name": "fikpesu@pau.edu.ng",
+    "department": "Accounting",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ACC 403",
+      "BUA 216",
+      "BUA 323",
+      "FIN 407",
+      "PAU-ECO 112"
+    ]
+  },
+  {
+    "id": "rokolo@pau.edu.ng",
+    "name": "rokolo@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "BUA 102",
+      "BUA 205",
+      "BUA 321",
+      "PAU-ECO 110"
+    ]
+  },
+  {
+    "id": "fiyoha@pau.edu.ng",
+    "name": "fiyoha@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-BUA 107"
+    ]
+  },
+  {
+    "id": "jbankole@pau.edu.ng",
+    "name": "jbankole@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-BUA 109"
+    ]
+  },
+  {
+    "id": "uattoh@pau.edu.ng",
+    "name": "uattoh@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-BUA 110"
+    ]
+  },
+  {
+    "id": "easogwa@pau.edu.ng",
+    "name": "easogwa@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-BUA 191",
+      "PAU-FIN-191"
+    ]
+  },
+  {
+    "id": "alawal@pau.edu.ng",
+    "name": "alawal@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "BUA 202",
+      "BUA 304",
+      "BUS 407"
+    ]
+  },
+  {
+    "id": "cebegbetale@pau.edu.ng",
+    "name": "cebegbetale@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "BUA 203",
+      "BUA 303"
+    ]
+  },
+  {
+    "id": "gogbo@pau.edu.ng",
+    "name": "gogbo@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "BUA 218",
+      "PAU-BUA 315"
+    ]
+  },
+  {
+    "id": "hagbonrofo@pau.edu.ng",
+    "name": "hagbonrofo@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-BUA 206",
+      "PAU-BUA 316",
+      "ECO 102",
+      "ECO 202",
+      "ECO 423"
+    ]
+  },
+  {
+    "id": "enzeaka@pau.edu.ng",
+    "name": "enzeaka@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-BUA 291",
+      "PAU-BUA 317",
+      "PAU-ECO 291",
+      "PAU-CSC 293"
+    ]
+  },
+  {
+    "id": "genyinnaya@pau.edu.ng",
+    "name": "genyinnaya@pau.edu.ng",
+    "department": "Business Administration",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "BUS 406"
+    ]
+  },
+  {
+    "id": "ooluyombo@pau.edu.ng",
+    "name": "ooluyombo@pau.edu.ng",
+    "department": "Finance",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-FIN-111",
+      "FIN 409",
+      "PAU-ECO 108"
+    ]
+  },
+  {
+    "id": "kibekwe@pau.edu.ng",
+    "name": "kibekwe@pau.edu.ng",
+    "department": "Finance",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-FIN- 113"
+    ]
+  },
+  {
+    "id": "tvincent@pau.edu.ng",
+    "name": "tvincent@pau.edu.ng",
+    "department": "Finance",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "FIN 217",
+      "GET 502"
+    ]
+  },
+  {
+    "id": "oekechi@pau.edu.ng",
+    "name": "oekechi@pau.edu.ng",
+    "department": "Finance",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-FIN- 209",
+      "PAU-CSC 293",
+      "GST 111"
+    ]
+  },
+  {
+    "id": "aonwudinjo@pau.edu.ng",
+    "name": "aonwudinjo@pau.edu.ng",
+    "department": "Finance",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-FIN 321",
+      "GST 302"
+    ]
+  },
+  {
+    "id": "snwani@pau.edu.ng",
+    "name": "snwani@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ECO 104",
+      "ECO 206",
+      "ECO 302"
+    ]
+  },
+  {
+    "id": "jujah@pau.edu.ng",
+    "name": "jujah@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ECO 106"
+    ]
+  },
+  {
+    "id": "okposo@pau.edu.ng",
+    "name": "okposo@pau.edu.ng",
+    "department": "Economics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "SSC 202",
+      "PAU-ECO 316"
+    ]
+  },
+  {
+    "id": "eozegbe@pau.edu.ng",
+    "name": "eozegbe@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ECO 208",
+      "ECO 305",
+      "ECO 310",
+      "ECO 428"
+    ]
+  },
+  {
+    "id": "doke@pau.edu.ng",
+    "name": "doke@pau.edu.ng",
+    "department": "Economics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ECO 304"
+    ]
+  },
+  {
+    "id": "eolaniyi@pau.edu.ng",
+    "name": "eolaniyi@pau.edu.ng",
+    "department": "Economics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "SSC 302",
+      "ECO 421"
+    ]
+  },
+  {
+    "id": "tomolokun@pau.ng.ng",
+    "name": "tomolokun@pau.ng.ng",
+    "department": "Economics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-ECO 317"
+    ]
+  },
+  {
+    "id": "eosuji@pau.edu.ng",
+    "name": "eosuji@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ECO 318"
+    ]
+  },
+  {
+    "id": "aarije@pau.edu.ng",
+    "name": "aarije@pau.edu.ng",
+    "department": "Economics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-ECO 320"
+    ]
+  },
+  {
+    "id": "aonaga@pau.edu.ng",
+    "name": "aonaga@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ECO 392"
+    ]
+  },
+  {
+    "id": "emesagan@pau.edu.ng",
+    "name": "emesagan@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "ECO 422"
+    ]
+  },
+  {
+    "id": "jnmhamzenobe@pau.edu.ng",
+    "name": "jnmhamzenobe@pau.edu.ng",
+    "department": "Economics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "BUS 301"
+    ]
+  },
+  {
+    "id": "patrick.onwordi@pau.edu.ng",
+    "name": "patrick.onwordi@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 102"
+    ]
+  },
+  {
+    "id": "aoyelami@pau.edu.ng",
+    "name": "aoyelami@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MCT 112",
+      "GET 210",
+      "PAU-MEE 112"
+    ]
+  },
+  {
+    "id": "agreen@pau.edu.ng",
+    "name": "agreen@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-MCT 103",
+      "PAU-MEE 103"
+    ]
+  },
+  {
+    "id": "gdosunmu@pau.edu.ng",
+    "name": "gdosunmu@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-MCT 104",
+      "PAU-MEE 104",
+      "PAU-EEE-103"
+    ]
+  },
+  {
+    "id": "oakintunde@pau.edu.ng",
+    "name": "oakintunde@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PHY 108",
+      "PAU-EEE-104"
+    ]
+  },
+  {
+    "id": "eofor@pau.edu.ng",
+    "name": "eofor@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "CHM 102",
+      "CHM 108"
+    ]
+  },
+  {
+    "id": "aijezie@pau.edu.ng",
+    "name": "aijezie@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MTH 102"
+    ]
+  },
+  {
+    "id": "jaroloye@pau.edu.ng",
+    "name": "jaroloye@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MTH 103"
+    ]
+  },
+  {
+    "id": "aonobhayedo@pau.edu.ng",
+    "name": "aonobhayedo@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GST 112"
+    ]
+  },
+  {
+    "id": "cabima@pau.edu.ng",
+    "name": "cabima@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GET 202",
+      "PAU-MEE 312"
+    ]
+  },
+  {
+    "id": "jajiboye@pau.edu.ng",
+    "name": "jajiboye@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 204",
+      "PAU-MEE 322"
+    ]
+  },
+  {
+    "id": "rloto@pau.edu.ng",
+    "name": "rloto@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GET 208",
+      "PAU-EEE 208"
+    ]
+  },
+  {
+    "id": "aonokwai@pau.edu.ng",
+    "name": "aonokwai@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 206",
+      "PAU-MEE 306"
+    ]
+  },
+  {
+    "id": "ponu@pau.edu.ng",
+    "name": "ponu@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MCE 204",
+      "PAU-MEE 518"
+    ]
+  },
+  {
+    "id": "nedomah@pau.edu.ng",
+    "name": "nedomah@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MEE 202",
+      "EEE 202",
+      "PAU-EEE 310",
+      "PAU-EEE 402",
+      "GET 402"
+    ]
+  },
+  {
+    "id": "ckezie@pau.edu.ng",
+    "name": "ckezie@pau.edu.ng",
+    "department": "Mechatronics",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GST 212",
+      "GST212"
+    ]
+  },
+  {
+    "id": "sigwe@pau.edu.ng",
+    "name": "sigwe@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MEE 306"
+    ]
+  },
+  {
+    "id": "oavbenake@pau.edu.ng",
+    "name": "oavbenake@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 302",
+      "PAU-EEE-112"
+    ]
+  },
+  {
+    "id": "banyaegbuna@pau.edu.ng",
+    "name": "banyaegbuna@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 304",
+      "GET 402",
+      "PAU-MCE 423",
+      "PAU-EEE 510"
+    ]
+  },
+  {
+    "id": "amakinde@pau.edu.ng",
+    "name": "amakinde@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 307"
+    ]
+  },
+  {
+    "id": "gihenacho@pau.edu.ng",
+    "name": "gihenacho@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MEE 310",
+      "MEE 402"
+    ]
+  },
+  {
+    "id": "aowolabi@lbs.edu.ng",
+    "name": "aowolabi@lbs.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GET 404"
+    ]
+  },
+  {
+    "id": "cosueke@pau.edu.ng",
+    "name": "cosueke@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-MEE 404"
+    ]
+  },
+  {
+    "id": "dagholor@pau.edu.ng",
+    "name": "dagholor@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-MEE 402",
+      "PAU-EEE 413"
+    ]
+  },
+  {
+    "id": "uegbuchulam@pau.edu.ng",
+    "name": "uegbuchulam@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-MEE 510"
+    ]
+  },
+  {
+    "id": "cifegwu@pau.edu.ng",
+    "name": "cifegwu@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "CHM 108",
+      "MTH 102"
+    ]
+  },
+  {
+    "id": "ponwordi@pau.edu.ng",
+    "name": "ponwordi@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 102"
+    ]
+  },
+  {
+    "id": "gokoacha@pau.edu.ng",
+    "name": "gokoacha@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "MTH 103"
+    ]
+  },
+  {
+    "id": "dokojie@pau.edu.ng",
+    "name": "dokojie@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "EEE 204",
+      "EEE 322"
+    ]
+  },
+  {
+    "id": "careers@pau.edu.ng",
+    "name": "careers@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "GET 299",
+      "GET 399"
+    ]
+  },
+  {
+    "id": "jbandele@pau.edu.ng",
+    "name": "jbandele@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-EEE 312",
+      "PAU-EEE 308"
+    ]
+  },
+  {
+    "id": "oomeje@pau.edu.ng",
+    "name": "oomeje@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "EEE 326",
+      "EEE 324"
+    ]
+  },
+  {
+    "id": "eusen@pau.edu.ng",
+    "name": "eusen@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-EEE 512"
+    ]
+  },
+  {
+    "id": "madelabu@pau.edu.ng",
+    "name": "madelabu@pau.edu.ng",
+    "department": "Electrical & Electronics Engineering",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-EEE 514"
+    ]
+  },
+  {
+    "id": "george.uwagbale@pau.edu.ng",
+    "name": "george.uwagbale@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "COS 102"
+    ]
+  },
+  {
+    "id": "anjolaoluwa.olowokere@pau.edu.ng",
+    "name": "anjolaoluwa.olowokere@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-CSC 112"
+    ]
+  },
+  {
+    "id": "dmoru@pau.edu.ng",
+    "name": "dmoru@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "COS 102",
+      "PAU-CSC 416"
+    ]
+  },
+  {
+    "id": "jiloekwe@pau.edu.ng",
+    "name": "jiloekwe@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-CSC 112",
+      "PAU-CSC 417",
+      "CSC 498"
+    ]
+  },
+  {
+    "id": "kmuka@pau.edu.ng",
+    "name": "kmuka@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-CSC 114"
+    ]
+  },
+  {
+    "id": "rbalogun@pau.edu.ng",
+    "name": "rbalogun@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PHY 108",
+      "PHY 102"
+    ]
+  },
+  {
+    "id": "fenemou@pau.edu.ng",
+    "name": "fenemou@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "COS 202"
+    ]
+  },
+  {
+    "id": "sakinboro@pau.edu.ng",
+    "name": "sakinboro@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "IFT 212"
+    ]
+  },
+  {
+    "id": "foliha@pau.edu.ng",
+    "name": "foliha@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Full-Time",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 3,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "INS204"
+    ]
+  },
+  {
+    "id": "segunjobi@pau.edu.ng",
+    "name": "segunjobi@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-CSC 214"
+    ]
+  },
+  {
+    "id": "jehigie@pau.edu.ng",
+    "name": "jehigie@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "MTH 202"
+    ]
+  },
+  {
+    "id": "kkolade@pau.edu.ng",
+    "name": "kkolade@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-CSC 212"
+    ]
+  },
+  {
+    "id": "salile@pau.edu.ng",
+    "name": "salile@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ICT 305"
+    ]
+  },
+  {
+    "id": "sadubi@pau.edu.ng",
+    "name": "sadubi@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "DTS 304"
+    ]
+  },
+  {
+    "id": "tamaoo@pau.edu.ng",
+    "name": "tamaoo@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "CSC 313",
+      "PAU-CSC 411"
+    ]
+  },
+  {
+    "id": "dibidapo@pau.edu.ng",
+    "name": "dibidapo@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "CSC 309"
+    ]
+  },
+  {
+    "id": "chukwudi.ofoma@pau.edu.ng",
+    "name": "chukwudi.ofoma@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-CSC 310"
+    ]
+  },
+  {
+    "id": "joy@pau.edu.ng",
+    "name": "joy@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "ENT 312"
+    ]
+  },
+  {
+    "id": "oIheanetu@pau.edu.ng",
+    "name": "oIheanetu@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "PAU-CSC 413"
+    ]
+  },
+  {
+    "id": "ose@pau.edu.ng",
+    "name": "ose@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GST 212",
+      "GST 302"
+    ]
+  },
+  {
+    "id": "ose1@pau.edu.ng",
+    "name": "ose1@pau.edu.ng",
+    "department": "Computer Science",
+    "status": "Adjunct",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": {
+      "All": [
+        "ALL"
+      ]
+    },
+    "available_hours": 6,
+    "available_consecutive_hours": 6,
+    "courseID": [
+      "GST 212",
+      "CSC 401",
+      "ENT 312"
+    ]
+  },
+  {
+    "id": "aogbuchi@pau.edu.ng",
+    "name": "aogbuchi@pau.edu.ng",
+    "department": "Accounting",
+    "status": "",
+    "avail_days": [
+      "ALL"
+    ],
+    "avail_times": [
+      "ALL"
+    ],
+    "available_hours": 6,
+    "available_consecutive_hours": 3,
+    "courseID": [
+      "PAU-ACC 392",
+      "PAU-BUA 392",
+      "CSC 401"
+    ]
+  },
+  {
+    "id": "Mr.",
+    "name": "Mr.",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "PAU-MCM 318"
+    ]
+  },
+  {
+    "id": "Chukwudi",
+    "name": "Chukwudi",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "PAU-MCM 318"
+    ]
+  },
+  {
+    "id": "Ezugwu",
+    "name": "Ezugwu",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "PAU-MCM 318"
+    ]
+  },
+  {
+    "id": "Miss",
+    "name": "Miss",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "ENT 312"
+    ]
+  },
+  {
+    "id": "Joy",
+    "name": "Joy",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "ENT 312"
+    ]
+  },
+  {
+    "id": "Amarachi",
+    "name": "Amarachi",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "MCM 310"
+    ]
+  },
+  {
+    "id": "Ubani",
+    "name": "Ubani",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "MCM 310"
+    ]
+  },
+  {
+    "id": "Dr.",
+    "name": "Dr.",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "MCM 312",
+      "CMS 302"
+    ]
+  },
+  {
+    "id": "Chuddy",
+    "name": "Chuddy",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "MCM 312"
+    ]
+  },
+  {
+    "id": "Oduneyi",
+    "name": "Oduneyi",
+    "department": "Mass Communication",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "MCM 312"
+    ]
+  },
+  {
+    "id": "mailto:cogbonna@pau.edu.ngc",
+    "name": "mailto:cogbonna@pau.edu.ngc",
+    "department": "Film and Multimedia Studies",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "FMM 204"
+    ]
+  },
+  {
+    "id": "(Prof.",
+    "name": "(Prof.",
+    "department": "Film and Multimedia Studies",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "CMS 302"
+    ]
+  },
+  {
+    "id": "Okorie",
+    "name": "Okorie",
+    "department": "Film and Multimedia Studies",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "CMS 302"
+    ]
+  },
+  {
+    "id": "Yusuf)",
+    "name": "Yusuf)",
+    "department": "Film and Multimedia Studies",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "CMS 302"
+    ]
+  },
+  {
+    "id": "mailto:eajala@pau.edu.ng",
+    "name": "mailto:eajala@pau.edu.ng",
+    "department": "Film and Multimedia Studies",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "FMM 302"
+    ]
+  },
+  {
+    "id": "pfine@pau.edu.ng",
+    "name": "pfine@pau.edu.ng",
+    "department": "Finance",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "FIN 210",
+      "FIN 216",
+      "FIN 316"
+    ]
+  },
+  {
+    "id": "pose1@pau.edu.ng",
+    "name": "pose1@pau.edu.ng",
+    "department": "Finance",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "FIN 410",
+      "ECO 204"
+    ]
+  },
+  {
+    "id": "p.ose@pau.edu.ng",
+    "name": "p.ose@pau.edu.ng",
+    "department": "Mechanical Engineering",
+    "status": "",
+    "avail_days": [],
+    "avail_times": [],
+    "courseID": [
+      "MEE 404",
+      "GET 502",
+      "PAU-EEE 506"
+    ]
+  }
+]
