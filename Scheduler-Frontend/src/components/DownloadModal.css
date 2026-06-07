@@ -1,0 +1,37 @@
+.download-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  padding: 25px;
+  z-index: 1000;
+  max-width: 800px;
+  width: 95%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.download-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.download-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background-color 0.2s ease;
+}
+
+.download-option:last-child {
+  border-bottom: none;
+}
+
+.download-option:hover {
+  background-color: #f8f9fa;
+}

@@ -1,0 +1,10 @@
+{
+    "code-runner.runInTerminal": true,
+    "python.defaultInterpreterPath": "C:/Users/Jamil/Downloads/PAU-Timetable_Scheduler/.venv313/Scripts/python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "[python]": {
+        "defaultInterpreterPath": "C:/Users/Jamil/Downloads/PAU-Timetable_Scheduler/.venv313/Scripts/python.exe"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
+}

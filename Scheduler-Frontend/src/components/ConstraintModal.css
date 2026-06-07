@@ -1,0 +1,155 @@
+.errors-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  padding: 25px;
+  z-index: 1000;
+  max-width: 700px;
+  width: 95%;
+  max-height: 80vh;
+  overflow-y: auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+.errors-content {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.no-violations {
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #2e7d32;
+}
+
+.constraint-dropdown {
+  margin-bottom: 15px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.constraint-header {
+  background-color: #f8f9fa;
+  padding: 12px 16px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+  font-size: 14px;
+  color: #11214D;
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.2s ease;
+  gap: 15px;
+}
+
+.constraint-header:hover {
+  background-color: #e9ecef;
+}
+
+.constraint-header.active {
+  background-color: #11214D;
+  color: white;
+}
+
+.constraint-count {
+  color: white;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.constraint-count.zero {
+  background-color: #28a745;
+}
+
+.constraint-count.non-zero {
+  background-color: #dc3545;
+}
+
+.constraint-count.non-zero.medium {
+  background-color: #dca235;
+}
+
+.constraint-header.active .constraint-count {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.constraint-arrow {
+  font-weight: bold;
+  transition: transform 0.3s ease;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.constraint-arrow.rotated {
+  transform: rotate(180deg);
+}
+
+.constraint-details {
+  padding: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  background: white;
+}
+
+.constraint-details.expanded {
+  max-height: 300px;
+  overflow-y: auto;
+  border-top: 1px solid #e0e0e0;
+}
+
+.constraint-item {
+  padding: 10px 16px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #666;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.constraint-item:last-child {
+  border-bottom: none;
+}
+
+.constraint-item.clickable {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.constraint-item.clickable:hover {
+  background-color: #e3f2fd;
+  color: #11214D;
+}
+
+/* Scrollbar styling */
+.errors-content::-webkit-scrollbar,
+.constraint-details::-webkit-scrollbar {
+  width: 6px;
+}
+
+.errors-content::-webkit-scrollbar-track,
+.constraint-details::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.errors-content::-webkit-scrollbar-thumb,
+.constraint-details::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 3px;
+}
+
+.errors-content::-webkit-scrollbar-thumb:hover,
+.constraint-details::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
