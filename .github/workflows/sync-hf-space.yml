@@ -1,0 +1,46 @@
+name: Sync Backend to Hugging Face Space
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Scheduler-Backend/**"
+      - ".github/workflows/sync-hf-space.yml"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install rsync
+        run: sudo apt-get update && sudo apt-get install -y rsync
+
+      - name: Clone Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN is missing. Add it in GitHub repository secrets."
+            exit 1
+          fi
+          git clone https://oauth2:${HF_TOKEN}@huggingface.co/spaces/PAU-001/CP-SAT_Timetable_Scheduler .hf-space
+
+      - name: Sync backend files to Space root
+        run: |
+          rsync -av --delete --exclude ".git/" Scheduler-Backend/ .hf-space/
+
+      - name: Commit and push changes
+        run: |
+          cd .hf-space
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to sync"
+            exit 0
+          fi
+          git commit -m "chore(sync): mirror Scheduler-Backend from GitHub ${GITHUB_SHA}"
+          git push origin main

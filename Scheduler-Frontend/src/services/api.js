@@ -13,9 +13,9 @@ const getApiBaseUrl = () => {
   if (process.env.REACT_APP_API_BASE_URL) return process.env.REACT_APP_API_BASE_URL;
   
   // Fallback to the known Hugging Face Space URL for production
-  // Note: https://huggingface.co/spaces/PAU-001/PAU-Timetable-Scheduler is the REPO view.
+  // Note: https://huggingface.co/spaces/PAU-001/CP-SAT_Timetable_Scheduler is the REPO view.
   // The API runs at the .hf.space subdomain:
-  return 'https://pau-001-pau-timetable-scheduler.hf.space';
+  return 'https://pau-001-cp-sat-timetable-scheduler.hf.space';
 };
 
 const API_BASE_URL = getApiBaseUrl();

@@ -5,7 +5,7 @@ import './DownloadModal.css';
 const getApiBaseUrl = () => {
     if (process.env.NODE_ENV === 'development') return '';
     if (process.env.REACT_APP_API_BASE_URL) return process.env.REACT_APP_API_BASE_URL;
-    return 'https://pau-001-pau-timetable-scheduler.hf.space';
+  return 'https://pau-001-cp-sat-timetable-scheduler.hf.space';
 };
 
 const DownloadModal = ({ isOpen, onClose, timetables, uploadId }) => {
