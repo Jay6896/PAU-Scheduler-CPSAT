@@ -1,3 +1,13 @@
+---
+title: CP SAT Timetable Scheduler
+emoji: 🗓️
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # PAU Scheduler CPSAT Documentation
 
 This document explains the most important files, the folder structure, and the end to end processing flow used to generate timetables.
