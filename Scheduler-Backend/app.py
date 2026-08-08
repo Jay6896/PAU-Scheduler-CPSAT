@@ -108,8 +108,16 @@ CORS(
 )
 
 app.config['MAX_CONTENT_LENGTH'] = 50 * 1024 * 1024
-app.config['UPLOAD_FOLDER'] = tempfile.mkdtemp()
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'change-this-in-prod')
+
+# Persistent storage for uploads/jobs (survives Gunicorn worker boundaries on HF Spaces)
+_BASE_DIR = os.path.dirname(__file__)
+DATA_DIR = os.path.join(_BASE_DIR, 'data')
+JOBS_DIR = os.path.join(DATA_DIR, 'jobs')
+UPLOADS_DIR = os.path.join(DATA_DIR, 'uploads')
+os.makedirs(JOBS_DIR, exist_ok=True)
+os.makedirs(UPLOADS_DIR, exist_ok=True)
+app.config['UPLOAD_FOLDER'] = UPLOADS_DIR
 
 # CORS headers for API responses
 @app.after_request
@@ -147,6 +155,102 @@ def get_job_lock(upload_id):
     if upload_id not in job_locks:
         job_locks[upload_id] = threading.Lock()
     return job_locks[upload_id]
+
+
+def _job_path(upload_id):
+    return os.path.join(JOBS_DIR, f'{upload_id}.json')
+
+
+def _upload_meta_path(upload_id):
+    return os.path.join(UPLOADS_DIR, f'{upload_id}.json')
+
+
+def save_job_to_disk(upload_id, job_data):
+    """Persist job state so status polls work across Gunicorn workers."""
+    try:
+        with open(_job_path(upload_id), 'w', encoding='utf-8') as f:
+            json.dump(make_json_serializable(job_data), f)
+    except Exception as exc:
+        print(f"[PERSIST] Failed to save job {upload_id}: {exc}")
+
+
+def load_job_from_disk(upload_id):
+    path = _job_path(upload_id)
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as exc:
+        print(f"[PERSIST] Failed to load job {upload_id}: {exc}")
+        return None
+
+
+def get_job(upload_id):
+    """Return a copy of the job from memory, falling back to disk."""
+    if upload_id in processing_jobs:
+        return processing_jobs[upload_id].copy()
+    job = load_job_from_disk(upload_id)
+    if job:
+        processing_jobs[upload_id] = job
+        return job.copy()
+    return None
+
+
+def set_job(upload_id, job_data):
+    """Store job in memory and on disk."""
+    lock = get_job_lock(upload_id)
+    with lock:
+        processing_jobs[upload_id] = job_data
+        save_job_to_disk(upload_id, job_data)
+
+
+def save_upload_metadata(upload_id, metadata):
+    """Persist upload metadata (json_data is re-used to rebuild input_data)."""
+    try:
+        disk_meta = {
+            'file_path': metadata.get('file_path'),
+            'filename': metadata.get('filename'),
+            'upload_time': metadata.get('upload_time'),
+            'json_data': make_json_serializable(metadata.get('json_data')),
+        }
+        with open(_upload_meta_path(upload_id), 'w', encoding='utf-8') as f:
+            json.dump(disk_meta, f)
+    except Exception as exc:
+        print(f"[PERSIST] Failed to save upload {upload_id}: {exc}")
+
+
+def upload_exists(upload_id):
+    return upload_id in generated_timetables or os.path.exists(_upload_meta_path(upload_id))
+
+
+def get_upload_record(upload_id):
+    """Return upload record with input_data, hydrating from disk if needed."""
+    if upload_id in generated_timetables:
+        return generated_timetables[upload_id]
+    meta = None
+    try:
+        with open(_upload_meta_path(upload_id), 'r', encoding='utf-8') as f:
+            meta = json.load(f)
+    except FileNotFoundError:
+        return None
+    except Exception as exc:
+        print(f"[PERSIST] Failed to read upload {upload_id}: {exc}")
+        return None
+    try:
+        json_data = meta.get('json_data')
+        record = {
+            'input_data': initialize_input_data_from_json(json_data),
+            'file_path': meta.get('file_path'),
+            'filename': meta.get('filename'),
+            'upload_time': meta.get('upload_time'),
+            'json_data': json_data,
+        }
+        generated_timetables[upload_id] = record
+        return record
+    except Exception as exc:
+        print(f"[PERSIST] Failed to hydrate upload {upload_id}: {exc}")
+        return None
 
 
 def make_json_serializable(obj):
@@ -213,7 +317,11 @@ def update_job_status(upload_id, status=None, progress=None, error=None, result=
     lock = get_job_lock(upload_id)
     with lock:
         if upload_id not in processing_jobs:
-            return
+            disk_job = load_job_from_disk(upload_id)
+            if disk_job:
+                processing_jobs[upload_id] = disk_job
+            else:
+                return
         job = processing_jobs[upload_id]
         if status is not None:
             job['status'] = str(status)
@@ -224,6 +332,8 @@ def update_job_status(upload_id, status=None, progress=None, error=None, result=
         if result is not None:
             # Ensure result is JSON serializable before storing
             job['result'] = make_json_serializable(result)
+
+        save_job_to_disk(upload_id, job)
         
         # simple stdout log for debugging
         print(f"[{upload_id}] status={job.get('status')} progress={job.get('progress')} error={job.get('error')}")
@@ -1874,13 +1984,15 @@ def upload_excel():
             return jsonify({'error': f'Failed to initialize input data: {str(exc)}'}), 400
 
         # Store input_data and metadata for later processing
-        generated_timetables[upload_id] = {
+        upload_record = {
             'input_data': input_data,
             'file_path': file_path,
             'filename': filename,
             'upload_time': datetime.now().isoformat(),
             'json_data': json_data
         }
+        generated_timetables[upload_id] = upload_record
+        save_upload_metadata(upload_id, upload_record)
 
         # Generate preview safely
         try:
@@ -1924,17 +2036,20 @@ def generate_timetable():
 
     if not upload_id:
         return jsonify({'error': 'upload_id is required'}), 400
-    if upload_id not in generated_timetables:
+    if not upload_exists(upload_id):
         return jsonify({'error': 'Invalid upload ID. Please upload an Excel file first.'}), 400
     
     # Thread-safe check for existing processing job
     lock = get_job_lock(upload_id)
     with lock:
-        if upload_id in processing_jobs and processing_jobs[upload_id]['status'] == 'processing':
+        existing_job = get_job(upload_id)
+        if existing_job and existing_job.get('status') == 'processing':
             return jsonify({'error': 'Timetable generation already in progress for this upload'}), 409
 
     try:
-        stored = generated_timetables[upload_id]
+        stored = get_upload_record(upload_id)
+        if not stored:
+            return jsonify({'error': 'Invalid upload ID. Please upload an Excel file first.'}), 400
         input_data = stored['input_data']
 
         # --- Input consistency checks (fail fast with a user-friendly 400) ---
@@ -1967,8 +2082,7 @@ def generate_timetable():
             'result': None
         }
         
-        with lock:
-            processing_jobs[upload_id] = job_data
+        set_job(upload_id, job_data)
 
         # Remove stale fresh timetable so UI won't show previous results while new run is in progress
         try:
@@ -2015,21 +2129,18 @@ def generate_timetable():
             if upload_id in processing_jobs:
                 processing_jobs[upload_id]['status'] = 'error'
                 processing_jobs[upload_id]['error'] = str(exc)
+                save_job_to_disk(upload_id, processing_jobs[upload_id])
         
         return jsonify({'error': f'Failed to start timetable generation: {str(exc)}'}), 500
 
 
 @app.route('/get-timetable-status/<upload_id>', methods=['GET'])
 def get_timetable_status(upload_id):
-    if upload_id not in processing_jobs:
+    job = get_job(upload_id)
+    if not job:
         return jsonify({'error': 'No processing job found for this upload ID'}), 404
 
     try:
-        # Thread-safe read of job status
-        lock = get_job_lock(upload_id)
-        with lock:
-            job = processing_jobs[upload_id].copy()  # Create a copy to avoid race conditions
-        
         # Make sure all job data is JSON serializable
         serialized_job = make_json_serializable(job)
         
@@ -2089,6 +2200,20 @@ def list_timetable_jobs():
                 'progress': int(job.get('progress', 0)),
                 'has_result': bool(job.get('result') is not None)
             }
+        if os.path.isdir(JOBS_DIR):
+            for fname in os.listdir(JOBS_DIR):
+                if not fname.endswith('.json'):
+                    continue
+                uid = fname[:-5]
+                if uid in summary:
+                    continue
+                job = load_job_from_disk(uid)
+                if job:
+                    summary[uid] = {
+                        'status': str(job.get('status')),
+                        'progress': int(job.get('progress', 0)),
+                        'has_result': bool(job.get('result') is not None)
+                    }
         return jsonify({
             'count': len(summary),
             'jobs': summary
@@ -2108,13 +2233,9 @@ def export_timetable():
 
     if not upload_id:
         return jsonify({'error': 'upload_id is required'}), 400
-    if upload_id not in processing_jobs:
+    job = get_job(upload_id)
+    if not job:
         return jsonify({'error': 'Invalid upload ID or no results available'}), 404
-
-    # Thread-safe read of job
-    lock = get_job_lock(upload_id)
-    with lock:
-        job = processing_jobs[upload_id].copy()
     
     if job.get('status') != 'completed':
         return jsonify({'error': f'Timetable not ready for export. Status: {job.get("status")}' }), 400
@@ -2627,6 +2748,11 @@ def get_saved_timetable(upload_id):
 def index():
     return jsonify({'status': 'ok', 'message': 'Timetable Generator API is running.'}), 200
 
+
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok'}), 200
+
 # ============================================================================
 # DASH UI ROUTING - DISABLED (Frontend now handles all UI)
 # ============================================================================
@@ -2773,7 +2899,7 @@ def _get_export_timetables(upload_id: str):
     if saved is not None:
         return saved
 
-    job = processing_jobs.get(upload_id, {})
+    job = get_job(upload_id) or {}
     result = job.get('result', {}) if isinstance(job, dict) else {}
     # Prefer timetables_raw if present, else timetables.
     timetables_raw = result.get('timetables_raw')
@@ -2787,10 +2913,9 @@ def _get_export_timetables(upload_id: str):
 @app.route('/api/export/sst/<upload_id>', methods=['GET'])
 def export_sst_timetables(upload_id):
     """Export SST timetables for a specific upload ID."""
-    if upload_id not in processing_jobs:
+    job = get_job(upload_id)
+    if not job:
         return jsonify({'error': 'Invalid upload ID'}), 404
-        
-    job = processing_jobs[upload_id]
     if job.get('status') != 'completed':
         return jsonify({'error': 'Timetable processing not complete'}), 400
         
@@ -2824,10 +2949,9 @@ def export_sst_timetables(upload_id):
 @app.route('/api/export/tyd/<upload_id>', methods=['GET'])
 def export_tyd_timetables(upload_id):
     """Export TYD timetables for a specific upload ID."""
-    if upload_id not in processing_jobs:
+    job = get_job(upload_id)
+    if not job:
         return jsonify({'error': 'Invalid upload ID'}), 404
-        
-    job = processing_jobs[upload_id]
     if job.get('status') != 'completed':
         return jsonify({'error': 'Timetable processing not complete'}), 400
         
@@ -2861,10 +2985,9 @@ def export_tyd_timetables(upload_id):
 @app.route('/api/export/lecturer/<upload_id>', methods=['GET'])
 def export_lecturer_timetables(upload_id):
     """Export Lecturer timetables for a specific upload ID."""
-    if upload_id not in processing_jobs:
+    job = get_job(upload_id)
+    if not job:
         return jsonify({'error': 'Invalid upload ID'}), 404
-        
-    job = processing_jobs[upload_id]
     if job.get('status') != 'completed':
         return jsonify({'error': 'Timetable processing not complete'}), 400
         
@@ -2898,10 +3021,9 @@ def export_lecturer_timetables(upload_id):
 @app.route('/api/export/classrooms/<upload_id>', methods=['GET'])
 def export_classrooms_scheduled(upload_id):
     """Export an Excel report of classrooms scheduled (two sheets: TYD + SST)."""
-    if upload_id not in processing_jobs:
+    job = get_job(upload_id)
+    if not job:
         return jsonify({'error': 'Invalid upload ID'}), 404
-
-    job = processing_jobs[upload_id]
     if job.get('status') != 'completed':
         return jsonify({'error': 'Timetable processing not complete'}), 400
 
@@ -2910,7 +3032,7 @@ def export_classrooms_scheduled(upload_id):
         if not export_data:
             return jsonify({'error': 'No timetable data found'}), 500
 
-        stored = generated_timetables.get(upload_id, {})
+        stored = get_upload_record(upload_id) or {}
         json_data = stored.get('json_data') if isinstance(stored, dict) else None
         rooms = []
         if isinstance(json_data, dict) and isinstance(json_data.get('rooms'), list):

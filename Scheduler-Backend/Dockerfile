@@ -36,4 +36,5 @@ HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
     CMD curl -f http://localhost:7860/health || exit 1
 
 # Run the application with gunicorn for production
-CMD ["gunicorn", "--bind", "0.0.0.0:7860", "app:app"]
+# Single worker + threads keeps in-memory state shared; disk persistence covers cross-worker polls.
+CMD ["gunicorn", "--bind", "0.0.0.0:7860", "--workers", "1", "--threads", "8", "--timeout", "0", "app:app"]
