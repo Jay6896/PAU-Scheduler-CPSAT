@@ -168,6 +168,7 @@ def _upload_meta_path(upload_id):
 def save_job_to_disk(upload_id, job_data):
     """Persist job state so status polls work across Gunicorn workers."""
     try:
+        os.makedirs(JOBS_DIR, exist_ok=True)
         with open(_job_path(upload_id), 'w', encoding='utf-8') as f:
             json.dump(make_json_serializable(job_data), f)
     except Exception as exc:
@@ -208,6 +209,7 @@ def set_job(upload_id, job_data):
 def save_upload_metadata(upload_id, metadata):
     """Persist upload metadata (json_data is re-used to rebuild input_data)."""
     try:
+        os.makedirs(UPLOADS_DIR, exist_ok=True)
         disk_meta = {
             'file_path': metadata.get('file_path'),
             'filename': metadata.get('filename'),
@@ -320,6 +322,14 @@ def update_job_status(upload_id, status=None, progress=None, error=None, result=
             disk_job = load_job_from_disk(upload_id)
             if disk_job:
                 processing_jobs[upload_id] = disk_job
+            elif upload_exists(upload_id):
+                processing_jobs[upload_id] = {
+                    'status': str(status) if status is not None else 'processing',
+                    'progress': int(progress) if progress is not None else 0,
+                    'start_time': datetime.now().isoformat(),
+                    'error': str(error) if error is not None else None,
+                    'result': make_json_serializable(result) if result is not None else None
+                }
             else:
                 return
         job = processing_jobs[upload_id]
@@ -2138,6 +2148,14 @@ def generate_timetable():
 def get_timetable_status(upload_id):
     job = get_job(upload_id)
     if not job:
+        if upload_exists(upload_id):
+            return jsonify({
+                'upload_id': str(upload_id),
+                'status': 'error',
+                'progress': 0,
+                'error': 'No processing job found for this upload ID. The server process may have restarted or timed out. Please click Generate Timetable again.',
+                'message': 'No processing job found for this upload ID. Please click Generate Timetable again.'
+            }), 200
         return jsonify({'error': 'No processing job found for this upload ID'}), 404
 
     try:

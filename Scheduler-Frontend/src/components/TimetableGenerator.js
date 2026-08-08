@@ -159,6 +159,7 @@ const TimetableGenerator = () => {
         setIsProcessing(false);
         setProgress(0);
         setProgressText('');
+        setUploadId(null);
         return;
       }
     }
@@ -180,6 +181,7 @@ const TimetableGenerator = () => {
       setIsProcessing(false);
       setProgress(0);
       setProgressText('');
+      setUploadId(null);
     }
   };
 
