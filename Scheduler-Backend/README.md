@@ -126,21 +126,17 @@ This document explains the most important files, the folder structure, and the e
 
 5. Open `TimetableGenerator.js` and `api.js` in the frontend to follow user actions to backend calls.
 
-## Hugging Face Space deployment and sync
+---
 
-1. Space repository URL
-   `https://huggingface.co/spaces/PAU-001/CP-SAT_Timetable_Scheduler`
+title: Timetable Scheduler
+emoji: 🗓️
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_file: app.py
+pinned: false
+sdk_version: 5.44.1
 
-2. Space runtime URL
-   `https://pau-001-cp-sat-timetable-scheduler.hf.space`
+---
 
-3. Automatic sync strategy
-   The workflow file `.github/workflows/sync-hf-space.yml` mirrors `Scheduler-Backend` into the Space root on each push to `main`.
-
-4. Required GitHub secrets
-   Add `HF_TOKEN` in repository secrets with write access to the Space.
-   Optional `HF_SPACE_ID` can be set to the exact Space path such as `PAU-001/CP-SAT Timetable Scheduler` if your Space uses spaces or a different slug.
-
-5. What gets synced
-   Only backend files are copied, so the Space receives `app.py`, `Dockerfile`, dependencies, APIs, and data files from `Scheduler-Backend`.
-   Generated export files in `output_data/Hybrid-Timetables/*.xlsx` are excluded from Space sync to satisfy Hugging Face binary push restrictions.
+The workflow file `.github/workflows/sync-hf-space.yml` mirrors `Scheduler-Backend` into the Space root on each push to `main`.

@@ -970,12 +970,12 @@ class Constraints:
             target_days = min(days_total, total)
             missing = max(0, target_days - len(event_days))
             if missing:
-                penalty += 50.0 * missing  # Extremely strong penalty to spread across days
+                penalty += 80.0 * missing  # Stronger penalty to spread across days
 
             # Soft target: at least 3 active days (when possible)
             min_days_target = min(3, total, days_total)
             if len(event_days) < min_days_target:
-                penalty += 25.0 * (min_days_target - len(event_days))
+                penalty += 40.0 * (min_days_target - len(event_days))
 
             # Require at least 2 free hours every day (soft penalty)
             if hours_per_day > 0:
@@ -983,7 +983,7 @@ class Constraints:
                     scheduled = events_per_day[group_id][day_idx]
                     free_hours = max(0, hours_per_day - scheduled)
                     if free_hours < 2:
-                        penalty += 100.0 * (2 - free_hours)
+                        penalty += 140.0 * (2 - free_hours)
 
         return penalty
 
@@ -1107,8 +1107,8 @@ class Constraints:
         # Soft constraints (keep relatively small so they don't dominate feasibility)
         cost += 5.0 * self.check_single_event_per_day(chromosome)
         cost += 5.0 * self.check_three_unit_split_across_days(chromosome)
-        cost += 300.0 * self.check_spread_events(chromosome)
-        cost += 5500.0 * self.extremely_late_classes(chromosome, debug=False)
+        cost += 500.0 * self.check_spread_events(chromosome)
+        cost += 7000.0 * self.extremely_late_classes(chromosome, debug=False)
 
         # Fitness is a combination of penalties and costs
         return penalty + cost
@@ -2101,16 +2101,16 @@ class Constraints:
         total_late = 0
         
         # Weights (EXTREME - intended to behave like hard constraints)
-        base_penalty = 60000.0
-        tyd_penalty_weight = 380000.0
-        light_load_penalty = 1500000.0
+        base_penalty = 80000.0
+        tyd_penalty_weight = 480000.0
+        light_load_penalty = 1800000.0
 
         max_total_occurrences = 10
         max_groups_with_late = 10
 
-        cap_penalty_weight = 1500000.0
-        group_cap_penalty_weight = 1500000.0
-        repeat_weight = 1500000.0
+        cap_penalty_weight = 1800000.0
+        group_cap_penalty_weight = 1800000.0
+        repeat_weight = 1800000.0
 
         late_by_group = {}
         last_hour_index = self.input_data.hours - 1

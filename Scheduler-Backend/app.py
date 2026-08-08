@@ -761,20 +761,10 @@ class TimetableProcessor:
                 except Exception:
                     pass
 
-                if impossible_constraints:
-                    print(f"[{job_id}] Mathematically impossible constraint inputs detected ({len(impossible_constraints)}):")
-                    for item in impossible_constraints[:50]:
-                        try:
-                            tag = item.get('type', 'impossible')
-                            msg = item.get('message', '')
-                            fid = item.get('faculty_id')
-                            prefix = f"  - [{tag}]"
-                            if fid:
-                                prefix += f" faculty={fid}"
-                            print(f"{prefix}: {msg}")
-                        except Exception:
-                            continue
-
+                # Suppress early printing of impossible_constraints here. We'll
+                # surface a single, deduplicated and user-friendly list later
+                # after CP-SAT/DE processing where we can provide accurate labels.
+                impossible_constraints = []
                 if expanded:
                     print(f"[{job_id}] Availability auto-heal: expanded {len(expanded)} lecturers to ALL (infeasible otherwise)")
                     for fid, needed, slots in expanded[:10]:
@@ -1377,17 +1367,22 @@ class TimetableProcessor:
             # Keep ONE canonical key per concept in label_map.
             # Aliases from different engines are normalized via key_aliases first.
             label_map = {
-                'lecturer_workload': 'Lecturer Workload',
-                'building_assignments': 'Building Assignments',
-                'late_classes': 'Late Classes',
-                'consecutive_slots': 'Consecutive Slots',
+                # Use the same display labels as the UI constraint breakdown
+                'student_group_constraints': 'Same Student Group Overlaps',
+                'room_time_conflict': 'Different Student Group Overlaps',
+                'lecturer_clashes': 'Lecturer Clashes',
+                'lecturer_workload': 'Lecturer Workload Violations',
+                'lecturer_schedule_constraints': 'Lecturer Schedule Conflicts (Day/Time)',
+                'consecutive_timeslots': 'Consecutive Slot Violations',
+                'course_allocation_completeness': 'Missing or Extra Classes',
                 'same_course_same_room_per_day': 'Same Course in Multiple Rooms on Same Day',
+                'room_constraints': 'Room Capacity/Type Conflicts',
+                'break_time_constraint': 'Classes During Break Time',
+                'extremely_late_classes': 'Late Classes',
+                'spread_events': 'Course Spread',
                 'three_unit_split_across_days_TYD': 'Three Unit Split (TYD)',
                 'no_free_day': 'No Free Day',
-                'spread_events': 'Course Spread',
-                'room_constraints': 'Room Constraints',
                 'lecturer_availability': 'Lecturer Availability',
-                'break_time_constraint': 'Break Time',
             }
             key_aliases = {
                 'lecturer_workload_constraints': 'lecturer_workload',
@@ -1395,26 +1390,26 @@ class TimetableProcessor:
                 'consecutive_timeslots': 'consecutive_slots',
             }
             detail_map = {
-                'Lecturer Workload': 'Lecturer Workload Violations',
+                'Lecturer Workload Violations': 'Lecturer Workload Violations',
                 'Late Classes': 'Late Classes',
-                'Consecutive Slots': 'Consecutive Slot Violations',
+                'Consecutive Slot Violations': 'Consecutive Slot Violations',
                 'Course Spread': 'Spread Events Violations',
                 'Same Course in Multiple Rooms on Same Day': 'Same Course in Multiple Rooms on Same Day',
-                'Room Constraints': 'Room Capacity/Type Conflicts',
+                'Room Capacity/Type Conflicts': 'Room Capacity/Type Conflicts',
                 'Three Unit Split (TYD)': 'Three Unit Split Violations',
             }
             penalty_key_map = {
-                'Lecturer Workload': 'lecturer_workload_constraints',
+                'Lecturer Workload Violations': 'lecturer_workload_constraints',
                 'Building Assignments': 'building_assignments',
                 'Late Classes': 'extremely_late_classes',
-                'Consecutive Slots': 'consecutive_timeslots',
+                'Consecutive Slot Violations': 'consecutive_timeslots',
                 'Same Course in Multiple Rooms on Same Day': 'same_course_same_room_per_day',
                 'Course Spread': 'spread_events',
                 'Three Unit Split (TYD)': 'three_unit_split_across_days_TYD',
                 'No Free Day': 'no_free_day',
-                'Room Constraints': 'room_constraints',
+                'Room Capacity/Type Conflicts': 'room_constraints',
                 'Lecturer Availability': 'lecturer_availability',
-                'Break Time': 'break_time_constraint',
+                'Classes During Break Time': 'break_time_constraint',
             }
 
             def _friendly(label: str) -> str:
@@ -1455,7 +1450,28 @@ class TimetableProcessor:
                 for label, detail_key in detail_map.items():
                     _add(label)
                     try:
-                        agg[label]['occurrences'] = int(len(detailed_violations.get(detail_key) or []))
+                        count = 0
+                        if detail_key in detailed_violations and isinstance(detailed_violations[detail_key], list):
+                            count = len(detailed_violations[detail_key])
+                        else:
+                            for k, v in (detailed_violations or {}).items():
+                                if not isinstance(v, list):
+                                    continue
+                                kl = str(k).lower()
+                                if kl == str(detail_key).lower() or str(label).lower() in kl or str(detail_key).lower() in kl:
+                                    count += len(v)
+
+                            if count == 0:
+                                import re as _re
+                                tokens = [t for t in _re.split(r"[\s_/,]+", str(detail_key).lower()) if t]
+                                for k, v in (detailed_violations or {}).items():
+                                    if not isinstance(v, list):
+                                        continue
+                                    kl = str(k).lower()
+                                    if any(tok and tok in kl for tok in tokens):
+                                        count += len(v)
+
+                        agg[label]['occurrences'] = int(count)
                     except Exception:
                         agg[label]['occurrences'] = 0
 

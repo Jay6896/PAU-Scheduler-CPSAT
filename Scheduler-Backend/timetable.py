@@ -1,7 +1,6 @@
 
 import uuid
 from entitities.Class import Class
-from Gene import Gene
 from entitities.room import Room
 from entitities.time_slot import TimeSlot
 from input_data import input_data

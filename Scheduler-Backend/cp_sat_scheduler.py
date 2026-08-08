@@ -893,7 +893,7 @@ def repair_timetable_with_cpsat(
             missing = model.new_int_var(0, days, f"spread_missing_g{gid}")
             model.add(missing >= target_days - days_used)
             model.add(missing >= 0)
-            soft_priority_terms['spread_events'].append(80000 * missing)
+            soft_priority_terms['spread_events'].append(120000 * missing)
 
             # Soft target: at least 3 active days when possible.
             min_days_target = min(3, total, days)
@@ -901,7 +901,7 @@ def repair_timetable_with_cpsat(
                 min_days_short = model.new_int_var(0, days, f"spread_min_days_short_g{gid}")
                 model.add(min_days_short >= min_days_target - days_used)
                 model.add(min_days_short >= 0)
-                soft_priority_terms['spread_events'].append(30000 * min_days_short)
+                soft_priority_terms['spread_events'].append(50000 * min_days_short)
 
             # Soft target: at least 2 free hours every day.
             max_daily = max(0, hours_per_day - 2)
@@ -912,7 +912,7 @@ def repair_timetable_with_cpsat(
                 over = model.new_int_var(0, hours_per_day, f"spread_over_g{gid}_d{d_idx}")
                 model.add(over >= day_count - max_daily)
                 model.add(over >= 0)
-                soft_priority_terms['spread_events'].append(50000 * over)
+                soft_priority_terms['spread_events'].append(80000 * over)
 
     # 4. Consecutive slots (HARD): 2-credit = 2 consecutive; SST 3-credit = 3-hour block;
     # TYD 3-credit = at least one 2-hour consecutive block on one day.
@@ -1201,10 +1201,10 @@ def repair_timetable_with_cpsat(
             model.add(hour_var[eid] == hours_per_day - 1).OnlyEnforceIf(late)
             model.add(hour_var[eid] != hours_per_day - 1).OnlyEnforceIf(late.Not())
             
-            late_weight = 60000
+            late_weight = 80000
             if group is not None:
                 if not bool(getattr(group, 'is_sst', False)):
-                    late_weight += 40000
+                    late_weight += 50000
                 
                 req_hours = sum(int(x) for x in getattr(group, 'hours_required', []) or [])
                 has_4c = False
@@ -1215,9 +1215,14 @@ def repair_timetable_with_cpsat(
                     if c and int(getattr(c, 'credits', 0) or 0) >= 4:
                         has_4c = True; break
                 if req_hours > 0 and req_hours <= 18 and not has_4c:
-                    late_weight += 450000
+                    late_weight += 600000
                     
-            soft_priority_terms['extremely_late_classes'].append(late_weight * 1200000 * late)
+            soft_priority_terms['extremely_late_classes'].append(late_weight * 1500000 * late)
+            # If late classes are enforced as a hard requirement, ensure no event
+            # ends up in the final hour by adding the indicator to hard_must_hold.
+            # This makes 17:30 placements impossible unless input is infeasible.
+            if cfg.enforce_late_classes:
+                hard_must_hold.append(late)
 
     for viol in hard_must_hold:
         model.add(viol == 0)

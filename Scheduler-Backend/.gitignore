@@ -6,3 +6,6 @@ __pycache__/
 **/__pycache__/
 *.py[cod]
 *$py.class
+
+# Output Timetables
+/PAU-Timetable-Scheduler/output_data/Hybrid-Timetables

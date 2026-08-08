@@ -9,23 +9,23 @@
     "timetable": [
       [
         "08:30",
-        "",
-        "",
-        "",
-        "",
-        "Course: MCM 106, Lecturer: aedosomwan@pau.edu.ng, Room: Maiduguri"
+        "Course: MCM 110, Lecturer: cmgbeadichie@pau.edu.ng, Room: Asaba",
+        "Course: GST-112, Lecturer: eonukwu-Isitua@pau.edu.ng, Room: Uyo",
+        "Course: MCM 110, Lecturer: cmgbeadichie@pau.edu.ng, Room: Enugu",
+        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Newsroom",
+        ""
       ],
       [
         "09:30",
+        "Course: MCM 110, Lecturer: cmgbeadichie@pau.edu.ng, Room: Asaba",
+        "Course: GST-112, Lecturer: eonukwu-Isitua@pau.edu.ng, Room: Uyo",
         "",
-        "",
-        "",
-        "Course: MCM 110, Lecturer: cmgbeadichie@pau.edu.ng, Room: Lokoja",
-        "Course: MCM 106, Lecturer: aedosomwan@pau.edu.ng, Room: Maiduguri"
+        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Newsroom",
+        ""
       ],
       [
         "10:30",
-        "Course: MCM 104, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
+        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Ado-Ekiti",
         "",
         "",
         "",
@@ -33,7 +33,7 @@
       ],
       [
         "11:30",
-        "Course: MCM 104, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
+        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Ado-Ekiti",
         "",
         "",
         "",
@@ -49,34 +49,34 @@
       ],
       [
         "13:30",
-        "Course: GST-112, Lecturer: eonukwu-Isitua@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: MCM 104, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Ibadan",
         "",
-        ""
+        "",
+        "Course: MCM 106, Lecturer: aedosomwan@pau.edu.ng, Room: Jos"
       ],
       [
         "14:30",
-        "Course: GST-112, Lecturer: eonukwu-Isitua@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: MCM 110, Lecturer: cmgbeadichie@pau.edu.ng, Room: Jalingo",
-        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Ibadan",
+        "Course: MCM 104, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
         "",
-        ""
+        "",
+        "",
+        "Course: MCM 106, Lecturer: aedosomwan@pau.edu.ng, Room: Jos"
       ],
       [
         "15:30",
-        "Course: MCM 102, Lecturer: oduenyi@pau.edu.ng, Room: Port-Harcourt",
-        "Course: MCM 110, Lecturer: cmgbeadichie@pau.edu.ng, Room: Jalingo",
         "",
-        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Zaria",
+        "Course: MCM 102, Lecturer: oduenyi@pau.edu.ng, Room: Maiduguri",
+        "",
+        "",
         ""
       ],
       [
         "16:30",
-        "Course: MCM 102, Lecturer: oduenyi@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        "Course: MCM 102, Lecturer: oduenyi@pau.edu.ng, Room: Maiduguri",
         "",
         "",
-        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Jalingo",
         ""
       ],
       [
@@ -100,78 +100,78 @@
       [
         "08:30",
         "",
-        "Course: MCM 210, Lecturer: magada-mba@pau.edu.ng, Room: Jalingo",
-        "Course: MCM 204, Lecturer: sjohn@pau.edu.ng, Room: Lokoja",
-        "Course: MCM 201, Lecturer: roji@pau.edu.ng, Room: Asaba",
+        "",
+        "Course: PAU-MCM 218, Lecturer: oakiode@pau.edu.ng, Room: Uyo",
+        "",
         ""
       ],
       [
         "09:30",
-        "Course: PAU-MCM 292, Lecturer: oogunyemi@pau.edu.ng, Room: Bauchi",
-        "Course: MCM 210, Lecturer: magada-mba@pau.edu.ng, Room: Jalingo",
-        "Course: MCM 204, Lecturer: sjohn@pau.edu.ng, Room: Lokoja",
-        "Course: MCM 201, Lecturer: roji@pau.edu.ng, Room: Asaba",
-        ""
+        "",
+        "Course: MCM 206, Lecturer: mkolade@pau.edu.ng, Room: Abakaliki",
+        "",
+        "Course: PAU-MCM 218, Lecturer: oakiode@pau.edu.ng, Room: Jalingo",
+        "Course: MCM 204, Lecturer: sjohn@pau.edu.ng, Room: Bauchi"
       ],
       [
         "10:30",
-        "Course: PAU-MCM 292, Lecturer: oogunyemi@pau.edu.ng, Room: Bauchi",
-        "Course: PAU-MCM 218, Lecturer: oakiode@pau.edu.ng, Room: Bauchi",
-        "Course: MCM 206, Lecturer: mkolade@pau.edu.ng, Room: Port-Harcourt",
-        "",
-        "Course: MCM 214, Lecturer: owodunni@pau.edu.ng, Room: Art and Graphics Studio"
+        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Jalingo",
+        "Course: MCM 206, Lecturer: mkolade@pau.edu.ng, Room: Abakaliki",
+        "Course: MCM 212, Lecturer: aokoeguale@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-MCM 218, Lecturer: oakiode@pau.edu.ng, Room: Jalingo",
+        "Course: MCM 204, Lecturer: sjohn@pau.edu.ng, Room: Bauchi"
       ],
       [
         "11:30",
+        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Jalingo",
         "",
-        "Course: PAU-MCM 218, Lecturer: oakiode@pau.edu.ng, Room: Bauchi",
-        "Course: MCM 206, Lecturer: mkolade@pau.edu.ng, Room: Port-Harcourt",
-        "Course: MCM 216, Lecturer: unwaezeapu@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: MCM 214, Lecturer: owodunni@pau.edu.ng, Room: Art and Graphics Studio"
+        "Course: MCM 212, Lecturer: aokoeguale@pau.edu.ng, Room: Ibadan",
+        "Course: MCM 204, Lecturer: sjohn@pau.edu.ng, Room: Jalingo",
+        "Course: MCM 202, Lecturer: esere@pau.edu.ng, Room: Port-Harcourt"
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: MCM 214, Lecturer: owodunni@pau.edu.ng, Room: Lokoja",
         "BREAK",
-        "Course: MCM 216, Lecturer: unwaezeapu@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: MCM 208, Lecturer: tcrown@pau.edu.ng, Room: Bauchi",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: MCM 202, Lecturer: esere@pau.edu.ng, Room: Ibadan",
-        "",
-        "Course: MCM 204, Lecturer: sjohn@pau.edu.ng, Room: Lokoja",
-        "",
+        "Course: MCM 201, Lecturer: roji@pau.edu.ng, Room: Uyo",
+        "Course: MCM 214, Lecturer: owodunni@pau.edu.ng, Room: Lokoja",
+        "Course: MCM 202, Lecturer: esere@pau.edu.ng, Room: Umuahia",
+        "Course: MCM 208, Lecturer: tcrown@pau.edu.ng, Room: Bauchi",
         ""
       ],
       [
         "14:30",
+        "Course: MCM 201, Lecturer: roji@pau.edu.ng, Room: Uyo",
         "",
-        "Course: MCM 212, Lecturer: aokoeguale@pau.edu.ng, Room: Abeokuta",
+        "Course: MCM 202, Lecturer: esere@pau.edu.ng, Room: Umuahia",
         "",
-        "",
-        ""
+        "Course: MCM 216, Lecturer: unwaezeapu@pau.edu.ng, Room: Uyo"
       ],
       [
         "15:30",
+        "Course: PAU-MCM 292, Lecturer: oogunyemi@pau.edu.ng, Room: Lokoja",
+        "Course: MCM 210, Lecturer: magada-mba@pau.edu.ng, Room: Uyo",
         "",
-        "Course: MCM 212, Lecturer: aokoeguale@pau.edu.ng, Room: Abeokuta",
-        "Course: MCM 208, Lecturer: tcrown@pau.edu.ng, Room: Oshogbo",
-        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Jos",
-        ""
+        "",
+        "Course: MCM 216, Lecturer: unwaezeapu@pau.edu.ng, Room: Uyo"
       ],
       [
         "16:30",
-        "Course: MCM 202, Lecturer: esere@pau.edu.ng, Room: Ibadan",
-        "Course: PAU-MCM 218, Lecturer: oakiode@pau.edu.ng, Room: Zaria",
-        "Course: MCM 208, Lecturer: tcrown@pau.edu.ng, Room: Zaria",
-        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Jos",
+        "Course: PAU-MCM 292, Lecturer: oogunyemi@pau.edu.ng, Room: Lokoja",
+        "Course: MCM 210, Lecturer: magada-mba@pau.edu.ng, Room: Uyo",
+        "",
+        "",
         ""
       ],
       [
         "17:30",
-        "Course: MCM 202, Lecturer: esere@pau.edu.ng, Room: Ibadan",
+        "",
         "",
         "",
         "",
@@ -189,80 +189,80 @@
     "timetable": [
       [
         "08:30",
+        "Course: PAU-MCM 316, Lecturer: jsawyer@pau.edu.ng, Room: Port-Harcourt",
+        "Course: MCM 310, Lecturer: Amarachi Ubani, Room: Abeokuta",
+        "Course: MCM, Lecturer: jelegido@pau.edu.ng, Room: Lokoja",
         "",
-        "Course: MCM 314, Lecturer: unwaezeapu@pau.edu.ng, Room: Newsroom",
-        "",
-        "",
-        ""
+        "Course: MCM 314, Lecturer: unwaezeapu@pau.edu.ng, Room: Abeokuta"
       ],
       [
         "09:30",
-        "Course: MCM, Lecturer: jelegido@pau.edu.ng, Room: Jalingo",
-        "Course: MCM 314, Lecturer: unwaezeapu@pau.edu.ng, Room: Newsroom",
-        "Course: MCM 312, Lecturer: Dr. Chuddy Oduneyi, Room: Jalingo",
         "",
-        ""
+        "Course: MCM 310, Lecturer: Amarachi Ubani, Room: Abeokuta",
+        "Course: MCM, Lecturer: jelegido@pau.edu.ng, Room: Lokoja",
+        "",
+        "Course: MCM 314, Lecturer: unwaezeapu@pau.edu.ng, Room: Abeokuta"
       ],
       [
         "10:30",
-        "Course: MCM, Lecturer: jelegido@pau.edu.ng, Room: Jalingo",
-        "Course: MCM 308, Lecturer: magada-mba@pau.edu.ng, Room: Maiduguri",
-        "Course: MCM 312, Lecturer: Dr. Chuddy Oduneyi, Room: Jalingo",
-        "Course: MCM 302, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Ibadan",
-        "Course: PAU-MCM 318, Lecturer: Mr. Chukwudi Ezugwu, Room: Zaria"
+        "",
+        "Course: MCM 308, Lecturer: magada-mba@pau.edu.ng, Room: Zaria",
+        "",
+        "Course: PAU-MCM 318, Lecturer: Mr. Chukwudi Ezugwu, Room: Ibadan",
+        "Course: PAU-MCM 316, Lecturer: jsawyer@pau.edu.ng, Room: Newsroom"
       ],
       [
         "11:30",
         "",
-        "Course: MCM 308, Lecturer: magada-mba@pau.edu.ng, Room: Maiduguri",
+        "Course: MCM 308, Lecturer: magada-mba@pau.edu.ng, Room: Zaria",
         "",
-        "Course: MCM 302, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Ibadan",
-        "Course: PAU-MCM 318, Lecturer: Mr. Chukwudi Ezugwu, Room: Zaria"
+        "Course: PAU-MCM 318, Lecturer: Mr. Chukwudi Ezugwu, Room: Ibadan",
+        "Course: PAU-MCM 316, Lecturer: jsawyer@pau.edu.ng, Room: Newsroom"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: CMS 303, Lecturer: kalakwe@pau.edu.ng, Room: Oshogbo",
+        "Course: PAU-MCM 318, Lecturer: Mr. Chukwudi Ezugwu, Room: Ibadan",
         "BREAK",
         "",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: CMS 303, Lecturer: kalakwe@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "Course: CMS 303, Lecturer: kalakwe@pau.edu.ng, Room: Oshogbo",
         "",
-        "",
-        ""
+        "Course: MCM 302, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Ibadan",
+        "Course: GST 312, Lecturer: oowodunni@pau.edu.ng, Room: Zaria"
       ],
       [
         "14:30",
+        "Course: CMS 303, Lecturer: kalakwe@pau.edu.ng, Room: Ado-Ekiti",
         "",
         "",
-        "Course: GST 312, Lecturer: oowodunni@pau.edu.ng, Room: Jos",
+        "Course: MCM 302, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Newsroom",
+        "Course: GST 312, Lecturer: oowodunni@pau.edu.ng, Room: Zaria"
+      ],
+      [
+        "15:30",
+        "Course: ENT 312, Lecturer: Miss Joy, Room: Newsroom",
+        "",
+        "Course: MCM 312, Lecturer: Dr. Chuddy Oduneyi, Room: Jos",
         "",
         ""
       ],
       [
-        "15:30",
-        "Course: ENT 312, Lecturer: Miss Joy, Room: Uyo",
-        "",
-        "Course: GST 312, Lecturer: oowodunni@pau.edu.ng, Room: Jos",
-        "Course: PAU-MCM 316, Lecturer: jsawyer@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: PAU-MCM 316, Lecturer: jsawyer@pau.edu.ng, Room: Ado-Ekiti"
-      ],
-      [
         "16:30",
-        "Course: ENT 312, Lecturer: Miss Joy, Room: Uyo",
-        "Course: MCM 310, Lecturer: Amarachi Ubani, Room: Ado-Ekiti",
+        "Course: ENT 312, Lecturer: Miss Joy, Room: Newsroom",
         "",
-        "Course: PAU-MCM 318, Lecturer: Mr. Chukwudi Ezugwu, Room: Zaria",
-        "Course: PAU-MCM 316, Lecturer: jsawyer@pau.edu.ng, Room: Ado-Ekiti"
+        "Course: MCM 312, Lecturer: Dr. Chuddy Oduneyi, Room: Jos",
+        "",
+        ""
       ],
       [
         "17:30",
         "",
-        "Course: MCM 310, Lecturer: Amarachi Ubani, Room: Ado-Ekiti",
+        "",
         "",
         "",
         ""
@@ -279,17 +279,17 @@
     "timetable": [
       [
         "08:30",
-        "Course: COM 412, Lecturer: cnjoku@pau.edu.ng, Room: Enugu",
         "",
+        "Course: COM 404, Lecturer: aagina@pau.edu.ng, Room: Asaba",
+        "Course: COM 412, Lecturer: cnjoku@pau.edu.ng, Room: Bauchi",
         "",
-        "",
-        "Course: COM 412, Lecturer: cnjoku@pau.edu.ng, Room: Uyo"
+        "Course: COM 412, Lecturer: cnjoku@pau.edu.ng, Room: Bauchi"
       ],
       [
         "09:30",
-        "Course: COM 412, Lecturer: cnjoku@pau.edu.ng, Room: Enugu",
         "",
-        "",
+        "Course: COM 404, Lecturer: aagina@pau.edu.ng, Room: Asaba",
+        "Course: COM 412, Lecturer: cnjoku@pau.edu.ng, Room: Bauchi",
         "",
         ""
       ],
@@ -298,7 +298,7 @@
         "",
         "",
         "",
-        "",
+        "Course: COM 414, Lecturer: kesere@pau.edu.ng, Room: Ado-Ekiti",
         ""
       ],
       [
@@ -306,7 +306,7 @@
         "",
         "",
         "",
-        "",
+        "Course: COM 414, Lecturer: kesere@pau.edu.ng, Room: Ado-Ekiti",
         ""
       ],
       [
@@ -319,7 +319,7 @@
       ],
       [
         "13:30",
-        "Course: COM 406, Lecturer: aolaniyan@pau.edu.ng, Room: Maiduguri",
+        "",
         "",
         "",
         "",
@@ -327,7 +327,7 @@
       ],
       [
         "14:30",
-        "Course: COM 406, Lecturer: aolaniyan@pau.edu.ng, Room: Maiduguri",
+        "",
         "",
         "",
         "",
@@ -335,17 +335,17 @@
       ],
       [
         "15:30",
+        "Course: COM 406, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: COM 404, Lecturer: aagina@pau.edu.ng, Room: Asaba",
-        "Course: COM 414, Lecturer: kesere@pau.edu.ng, Room: Maiduguri",
+        "",
         "",
         ""
       ],
       [
         "16:30",
+        "Course: COM 406, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: COM 404, Lecturer: aagina@pau.edu.ng, Room: Asaba",
-        "Course: COM 414, Lecturer: kesere@pau.edu.ng, Room: Jos",
+        "",
         "",
         ""
       ],
@@ -369,15 +369,15 @@
     "timetable": [
       [
         "08:30",
-        "Course: PAU-STC 111, Lecturer: cmgbeadichie@pau.edu.ng, Room: Asaba",
+        "Course: STC 104, Lecturer: aokoeguale@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         "",
-        "Course: PAU-STC 111, Lecturer: cmgbeadichie@pau.edu.ng, Room: Uyo",
+        "",
         ""
       ],
       [
         "09:30",
-        "Course: PAU-STC 111, Lecturer: cmgbeadichie@pau.edu.ng, Room: Asaba",
+        "Course: STC 104, Lecturer: aokoeguale@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         "",
         "",
@@ -386,23 +386,23 @@
       [
         "10:30",
         "",
+        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Enugu",
         "",
         "",
-        "Course: STC 104, Lecturer: aokoeguale@pau.edu.ng, Room: Newsroom",
-        ""
+        "Course: STC 102, Lecturer: kalakwe@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "11:30",
         "",
+        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Enugu",
         "",
         "",
-        "Course: STC 104, Lecturer: aokoeguale@pau.edu.ng, Room: Newsroom",
-        ""
+        "Course: STC 102, Lecturer: kalakwe@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: PAU-STC 111, Lecturer: cmgbeadichie@pau.edu.ng, Room: Uyo",
         "BREAK",
         "",
         "BREAK"
@@ -410,38 +410,38 @@
       [
         "13:30",
         "",
-        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-STC 111, Lecturer: cmgbeadichie@pau.edu.ng, Room: Uyo",
         "",
         "",
-        "Course: GST-112, Lecturer: jeneji@pau.edu.ng, Room: Art and Graphics Studio"
+        ""
       ],
       [
         "14:30",
         "",
-        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Maiduguri",
         "",
         "",
-        "Course: GST-112, Lecturer: jeneji@pau.edu.ng, Room: Art and Graphics Studio"
+        "",
+        ""
       ],
       [
         "15:30",
+        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Zaria",
         "",
-        "Course: STC 106, Lecturer: negbunike@pau.edu.ng, Room: Umuahia",
-        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Ibadan",
-        "",
+        "Course: GST-112, Lecturer: jeneji@pau.edu.ng, Room: Enugu",
+        "Course: STC 106, Lecturer: negbunike@pau.edu.ng, Room: Abakaliki",
         ""
       ],
       [
         "16:30",
-        "Course: STC 102, Lecturer: kalakwe@pau.edu.ng, Room: Oshogbo",
-        "Course: STC 106, Lecturer: negbunike@pau.edu.ng, Room: Umuahia",
-        "Course: CMS 102, Lecturer: cnjoku@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-MCM-108, Lecturer: aagina@pau.edu.ng, Room: Zaria",
         "",
-        ""
+        "Course: GST-112, Lecturer: jeneji@pau.edu.ng, Room: Enugu",
+        "Course: STC 106, Lecturer: negbunike@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-STC 111, Lecturer: cmgbeadichie@pau.edu.ng, Room: Uyo"
       ],
       [
         "17:30",
-        "Course: STC 102, Lecturer: kalakwe@pau.edu.ng, Room: Oshogbo",
+        "",
         "",
         "",
         "",
@@ -459,17 +459,17 @@
     "timetable": [
       [
         "08:30",
-        "Course: CMS 112, Lecturer: aolaniyan@pau.edu.ng, Room: Bauchi",
+        "Course: CMS 112, Lecturer: aolaniyan@pau.edu.ng, Room: Umuahia",
         "",
+        "Course: PAU-ISM 115, Lecturer: kmakinde@pau.edu.ng, Room: Newsroom",
         "",
-        "",
-        "Course: ISM 121, Lecturer: aokonkwo@pau.edu.ng, Room: Oshogbo"
+        ""
       ],
       [
         "09:30",
-        "Course: CMS 112, Lecturer: aolaniyan@pau.edu.ng, Room: Abeokuta",
+        "Course: CMS 112, Lecturer: aolaniyan@pau.edu.ng, Room: Umuahia",
         "",
-        "",
+        "Course: PAU-ISM 115, Lecturer: kmakinde@pau.edu.ng, Room: Newsroom",
         "",
         ""
       ],
@@ -477,17 +477,17 @@
         "10:30",
         "",
         "",
-        "Course: PAU-ISM 191, Lecturer: iogboh@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: ISM 121, Lecturer: aokonkwo@pau.edu.ng, Room: Oshogbo",
-        ""
+        "",
+        "",
+        "Course: ISM 111, Lecturer: josah@pau.edu.ng, Room: Art and Graphics Studio"
       ],
       [
         "11:30",
         "",
         "",
-        "Course: PAU-ISM 191, Lecturer: iogboh@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: ISM 121, Lecturer: aokonkwo@pau.edu.ng, Room: Oshogbo",
-        ""
+        "",
+        "",
+        "Course: ISM 111, Lecturer: josah@pau.edu.ng, Room: Art and Graphics Studio"
       ],
       [
         "12:30",
@@ -501,33 +501,33 @@
         "13:30",
         "",
         "",
-        "",
-        "",
+        "Course: ISM 113, Lecturer: kesere@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-ISM 191, Lecturer: iogboh@pau.edu.ng, Room: Art and Graphics Studio",
         ""
       ],
       [
         "14:30",
-        "",
+        "Course: ISM 121, Lecturer: aokonkwo@pau.edu.ng, Room: Maiduguri",
+        "Course: ISM 121, Lecturer: aokonkwo@pau.edu.ng, Room: Port-Harcourt",
+        "Course: ISM 113, Lecturer: kesere@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-ISM 191, Lecturer: iogboh@pau.edu.ng, Room: Art and Graphics Studio",
+        ""
+      ],
+      [
+        "15:30",
+        "Course: ISM 121, Lecturer: aokonkwo@pau.edu.ng, Room: Maiduguri",
         "",
         "",
         "",
         ""
       ],
       [
-        "15:30",
-        "Course: ISM 113, Lecturer: kesere@pau.edu.ng, Room: Umuahia",
-        "Course: ISM 111, Lecturer: josah@pau.edu.ng, Room: Oshogbo",
-        "",
-        "",
-        "Course: PAU-ISM 115, Lecturer: kmakinde@pau.edu.ng, Room: Jos"
-      ],
-      [
         "16:30",
-        "Course: ISM 113, Lecturer: kesere@pau.edu.ng, Room: Umuahia",
-        "Course: ISM 111, Lecturer: josah@pau.edu.ng, Room: Oshogbo",
         "",
         "",
-        "Course: PAU-ISM 115, Lecturer: kmakinde@pau.edu.ng, Room: Jos"
+        "",
+        "",
+        ""
       ],
       [
         "17:30",
@@ -549,19 +549,19 @@
     "timetable": [
       [
         "08:30",
-        "Course: ISM 213, Lecturer: wusaku@pau.edu.ng, Room: Abakaliki",
-        "",
+        "Course: PAU-ISM 210, Lecturer: aokonkwo@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-ISM 291 (GST 203), Lecturer: uokoro@pau.edu.ng, Room: Newsroom",
         "",
         "",
         ""
       ],
       [
         "09:30",
-        "Course: ISM 213, Lecturer: wusaku@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-ISM 210, Lecturer: aokonkwo@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-ISM 291 (GST 203), Lecturer: uokoro@pau.edu.ng, Room: Newsroom",
+        "Course: ISM 211, Lecturer: csada@pau.edu.ng, Room: Asaba",
         "",
-        "",
-        "",
-        ""
+        "Course: PAU-ISM 210, Lecturer: aokonkwo@pau.edu.ng, Room: Ibadan"
       ],
       [
         "10:30",
@@ -573,8 +573,8 @@
       ],
       [
         "11:30",
-        "Course: ISM 211, Lecturer: csada@pau.edu.ng, Room: Port-Harcourt",
-        "Course: ISM 211, Lecturer: csada@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        "",
         "",
         "",
         ""
@@ -582,42 +582,42 @@
       [
         "12:30",
         "BREAK",
-        "Course: ISM 211, Lecturer: csada@pau.edu.ng, Room: Port-Harcourt",
-        "BREAK",
         "",
+        "BREAK",
+        "Course: ISM 213, Lecturer: wusaku@pau.edu.ng, Room: Umuahia",
         "BREAK"
       ],
       [
         "13:30",
         "",
+        "Course: ISM 212, Lecturer: aodoh@pau.edu.ng, Room: Jos",
         "",
-        "",
-        "",
-        ""
+        "Course: ISM 213, Lecturer: wusaku@pau.edu.ng, Room: Umuahia",
+        "Course: ISM 211, Lecturer: csada@pau.edu.ng, Room: Abeokuta"
       ],
       [
         "14:30",
         "",
-        "Course: ISM 212, Lecturer: aodoh@pau.edu.ng, Room: Ibadan",
+        "Course: ISM 212, Lecturer: aodoh@pau.edu.ng, Room: Jos",
         "",
+        "",
+        "Course: ISM 211, Lecturer: csada@pau.edu.ng, Room: Abeokuta"
+      ],
+      [
+        "15:30",
+        "Course: ISM 223, Lecturer: kmakinde@pau.edu.ng, Room: Art and Graphics Studio",
+        "",
+        "Course: ISM 224, Lecturer: sjohn@pau.edu.ng, Room: Port-Harcourt",
         "",
         ""
       ],
       [
-        "15:30",
-        "Course: ISM 224, Lecturer: sjohn@pau.edu.ng, Room: Abakaliki",
-        "Course: ISM 212, Lecturer: aodoh@pau.edu.ng, Room: Ibadan",
-        "Course: PAU-ISM 210, Lecturer: aokonkwo@pau.edu.ng, Room: Uyo",
-        "Course: ISM 223, Lecturer: kmakinde@pau.edu.ng, Room: Enugu",
-        "Course: PAU-ISM 291 (GST 203), Lecturer: uokoro@pau.edu.ng, Room: Port-Harcourt"
-      ],
-      [
         "16:30",
-        "Course: ISM 224, Lecturer: sjohn@pau.edu.ng, Room: Abakaliki",
-        "Course: PAU-ISM 210, Lecturer: aokonkwo@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: PAU-ISM 210, Lecturer: aokonkwo@pau.edu.ng, Room: Uyo",
-        "Course: ISM 223, Lecturer: kmakinde@pau.edu.ng, Room: Enugu",
-        "Course: PAU-ISM 291 (GST 203), Lecturer: uokoro@pau.edu.ng, Room: Port-Harcourt"
+        "Course: ISM 223, Lecturer: kmakinde@pau.edu.ng, Room: Art and Graphics Studio",
+        "",
+        "Course: ISM 224, Lecturer: sjohn@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        ""
       ],
       [
         "17:30",
@@ -639,79 +639,79 @@
     "timetable": [
       [
         "08:30",
+        "Course: CMS 312, Lecturer: nokorie@pau.edu.ng, Room: Jos",
+        "Course: CMS 311, Lecturer: alakwe@pau.edu.ng, Room: Jos",
         "",
         "",
-        "",
-        "Course: CMS 313, Lecturer: josah@pau.edu.ng, Room: Enugu",
         ""
       ],
       [
         "09:30",
+        "Course: CMS 312, Lecturer: nokorie@pau.edu.ng, Room: Jos",
+        "Course: CMS 311, Lecturer: alakwe@pau.edu.ng, Room: Jos",
         "",
         "",
-        "",
-        "Course: CMS 313, Lecturer: josah@pau.edu.ng, Room: Enugu",
         ""
       ],
       [
         "10:30",
+        "Course: PAU-ISM 316, Lecturer: aolaniyan@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: PAU-ISM 308, Lecturer: danger@pau.edu.ng, Room: Maiduguri",
         "",
         "",
-        "Course: CMS 311, Lecturer: alakwe@pau.edu.ng, Room: Zaria",
-        "",
-        "Course: ISM 314, Lecturer: uogbonna@pau.edu.ng, Room: Jos"
+        ""
       ],
       [
         "11:30",
+        "Course: PAU-ISM 316, Lecturer: aolaniyan@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: PAU-ISM 308, Lecturer: danger@pau.edu.ng, Room: Maiduguri",
         "",
         "",
-        "Course: CMS 311, Lecturer: alakwe@pau.edu.ng, Room: Zaria",
-        "",
-        "Course: ISM 314, Lecturer: uogbonna@pau.edu.ng, Room: Jos"
+        ""
       ],
       [
         "12:30",
         "BREAK",
         "",
         "BREAK",
-        "",
+        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Zaria",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Jos",
-        "Course: PAU-ISM 308, Lecturer: danger@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "Course: ISM 323, Lecturer: eojesebholo@pau.edu.ng, Room: Port-Harcourt"
+        "Course: ISM 323, Lecturer: eojesebholo@pau.edu.ng, Room: Enugu",
+        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Zaria",
+        ""
       ],
       [
         "14:30",
-        "Course: PAU-ISM 310, Lecturer: aodoh@pau.edu.ng, Room: Port-Harcourt",
-        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Jos",
-        "Course: PAU-ISM 308, Lecturer: danger@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "Course: ISM 323, Lecturer: eojesebholo@pau.edu.ng, Room: Port-Harcourt"
+        "",
+        "Course: ISM 323, Lecturer: eojesebholo@pau.edu.ng, Room: Enugu",
+        "",
+        ""
       ],
       [
         "15:30",
-        "Course: PAU-ISM 310, Lecturer: aodoh@pau.edu.ng, Room: Bauchi",
-        "Course: CMS 312, Lecturer: nokorie@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         "",
-        ""
+        "Course: PAU-ISM 310, Lecturer: aodoh@pau.edu.ng, Room: Zaria",
+        "Course: CMS 313, Lecturer: josah@pau.edu.ng, Room: Newsroom",
+        "Course: ISM 314, Lecturer: uogbonna@pau.edu.ng, Room: Lokoja"
       ],
       [
         "16:30",
-        "Course: PAU-ISM 316, Lecturer: aolaniyan@pau.edu.ng, Room: Bauchi",
-        "Course: CMS 312, Lecturer: nokorie@pau.edu.ng, Room: Enugu",
         "",
         "",
-        ""
+        "Course: PAU-ISM 310, Lecturer: aodoh@pau.edu.ng, Room: Zaria",
+        "Course: CMS 313, Lecturer: josah@pau.edu.ng, Room: Newsroom",
+        "Course: ISM 314, Lecturer: uogbonna@pau.edu.ng, Room: Lokoja"
       ],
       [
         "17:30",
-        "Course: PAU-ISM 316, Lecturer: aolaniyan@pau.edu.ng, Room: Bauchi",
+        "",
         "",
         "",
         "",
@@ -733,31 +733,31 @@
         "",
         "",
         "",
-        ""
+        "Course: ISM 402, Lecturer: magada-mba@pau.edu.ng, Room: Newsroom"
       ],
       [
         "09:30",
+        "Course: ISM 404, Lecturer: jelegido@pau.edu.ng, Room: Uyo",
         "",
+        "Course: ISM 406, Lecturer: pogidi@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "",
-        "",
-        ""
+        "Course: ISM 402, Lecturer: magada-mba@pau.edu.ng, Room: Newsroom"
       ],
       [
         "10:30",
-        "Course: ISM 406, Lecturer: pogidi@pau.edu.ng, Room: Jos",
-        "Course: ISM 414, Lecturer: pokposo@pau.edu.ng, Room: Asaba",
-        "",
+        "Course: ISM 404, Lecturer: jelegido@pau.edu.ng, Room: Uyo",
+        "Course: ISM 413, Lecturer: fogungbe@pau.edu.ng, Room: Asaba",
+        "Course: ISM 406, Lecturer: pogidi@pau.edu.ng, Room: Port-Harcourt",
         "",
         ""
       ],
       [
         "11:30",
-        "Course: ISM 406, Lecturer: pogidi@pau.edu.ng, Room: Jos",
-        "Course: ISM 414, Lecturer: pokposo@pau.edu.ng, Room: Asaba",
+        "",
+        "Course: ISM 413, Lecturer: fogungbe@pau.edu.ng, Room: Asaba",
         "",
         "",
-        ""
+        "Course: ISM 406, Lecturer: pogidi@pau.edu.ng, Room: Bauchi"
       ],
       [
         "12:30",
@@ -773,31 +773,31 @@
         "",
         "",
         "",
-        "Course: ISM 402, Lecturer: magada-mba@pau.edu.ng, Room: Abakaliki"
+        ""
       ],
       [
         "14:30",
         "",
         "",
         "",
-        "Course: ISM 406, Lecturer: pogidi@pau.edu.ng, Room: Jos",
+        "Course: ISM 414, Lecturer: pokposo@pau.edu.ng, Room: Port-Harcourt",
         ""
       ],
       [
         "15:30",
-        "Course: ISM 404, Lecturer: jelegido@pau.edu.ng, Room: Maiduguri",
+        "Course: ISM 416, Lecturer: scsada@pau.edu.ng, Room: Ibadan",
         "",
-        "Course: ISM 413, Lecturer: fogungbe@pau.edu.ng, Room: Enugu",
-        "Course: ISM 416, Lecturer: scsada@pau.edu.ng, Room: Abeokuta",
-        "Course: ISM 402, Lecturer: magada-mba@pau.edu.ng, Room: Abakaliki"
+        "",
+        "Course: ISM 414, Lecturer: pokposo@pau.edu.ng, Room: Port-Harcourt",
+        ""
       ],
       [
         "16:30",
-        "Course: ISM 404, Lecturer: jelegido@pau.edu.ng, Room: Maiduguri",
+        "Course: ISM 416, Lecturer: scsada@pau.edu.ng, Room: Ibadan",
         "",
-        "Course: ISM 413, Lecturer: fogungbe@pau.edu.ng, Room: Enugu",
-        "Course: ISM 416, Lecturer: scsada@pau.edu.ng, Room: Abeokuta",
-        "Course: ISM 402, Lecturer: magada-mba@pau.edu.ng, Room: Abakaliki"
+        "",
+        "Course: ISM 402, Lecturer: magada-mba@pau.edu.ng, Room: Abeokuta",
+        ""
       ],
       [
         "17:30",
@@ -819,72 +819,72 @@
     "timetable": [
       [
         "08:30",
-        "Course: PAU-FMM 106, Lecturer: eajala@pau.edu.ng, Room: Newsroom",
         "",
         "",
+        "Course: PAU-FMM 191, Lecturer: bisiekwe@pau.edu.ng, Room: Ibadan",
         "",
         ""
       ],
       [
         "09:30",
-        "Course: PAU-FMM 106, Lecturer: eajala@pau.edu.ng, Room: Newsroom",
-        "Course: PAU-FMM 105, Lecturer: cmgbeadichie@pau.edu.ng, Room: Enugu",
-        "Course: PAU-FMM 106, Lecturer: eajala@pau.edu.ng, Room: Bauchi",
-        "",
-        "Course: FMM 102, Lecturer: cogbonna@pau.edu.ngc, Room: Uyo"
-      ],
-      [
-        "10:30",
-        "",
-        "Course: PAU-FMM 105, Lecturer: cmgbeadichie@pau.edu.ng, Room: Enugu",
         "",
         "",
-        "Course: FMM 102, Lecturer: cogbonna@pau.edu.ngc, Room: Uyo"
-      ],
-      [
-        "11:30",
-        "",
-        "",
-        "",
+        "Course: PAU-FMM 191, Lecturer: bisiekwe@pau.edu.ng, Room: Ibadan",
         "",
         ""
       ],
       [
+        "10:30",
+        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Umuahia",
+        "",
+        "",
+        "Course: PAU-FMM 105, Lecturer: cmgbeadichie@pau.edu.ng, Room: Bauchi",
+        "Course: FMM 102, Lecturer: cogbonna@pau.edu.ngc, Room: Enugu"
+      ],
+      [
+        "11:30",
+        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Umuahia",
+        "",
+        "",
+        "Course: PAU-FMM 105, Lecturer: cmgbeadichie@pau.edu.ng, Room: Bauchi",
+        "Course: FMM 102, Lecturer: cogbonna@pau.edu.ngc, Room: Enugu"
+      ],
+      [
         "12:30",
         "BREAK",
-        "Course: PAU-FMM 191, Lecturer: bisiekwe@pau.edu.ng, Room: Jalingo",
+        "",
         "BREAK",
-        "Course: CMS 102, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Enugu",
+        "",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: PAU-FMM 106, Lecturer: eajala@pau.edu.ng, Room: Ibadan",
         "",
-        "Course: PAU-FMM 191, Lecturer: bisiekwe@pau.edu.ng, Room: Jalingo",
-        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Enugu",
-        "Course: CMS 102, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Enugu",
+        "",
+        "",
         ""
       ],
       [
         "14:30",
         "",
         "",
-        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Enugu",
+        "",
         "",
         ""
       ],
       [
         "15:30",
-        "",
-        "",
+        "Course: CMS 102, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-FMM 106, Lecturer: eajala@pau.edu.ng, Room: Ibadan",
         "",
         "",
         ""
       ],
       [
         "16:30",
-        "",
-        "",
+        "Course: CMS 102, Lecturer: sjohn-ofoleta@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-FMM 106, Lecturer: eajala@pau.edu.ng, Room: Ibadan",
         "",
         "",
         ""
@@ -909,48 +909,48 @@
     "timetable": [
       [
         "08:30",
+        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Enugu",
         "",
-        "",
-        "Course: PAU-FMM 210, Lecturer: fogungbe@pau.edu.ng, Room: Jalingo",
-        "",
-        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Zaria"
-      ],
-      [
-        "09:30",
-        "",
-        "Course: PAU-FMM 210, Lecturer: fogungbe@pau.edu.ng, Room: Ado-Ekiti",
-        "",
-        "",
-        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Zaria"
-      ],
-      [
-        "10:30",
-        "Course: FMM 202, Lecturer: eajala@pau.edu.ng, Room: Ibadan",
-        "Course: PAU-FMM 210, Lecturer: fogungbe@pau.edu.ng, Room: Ado-Ekiti",
-        "",
+        "Course: FMM 202, Lecturer: eajala@pau.edu.ng, Room: Zaria",
         "",
         ""
       ],
       [
+        "09:30",
+        "Course: GST 212, Lecturer: ialamezie@pau.edu.ng, Room: Enugu",
+        "",
+        "Course: FMM 202, Lecturer: eajala@pau.edu.ng, Room: Zaria",
+        "",
+        "Course: PAU-FMM 208, Lecturer: lakande@pau.edu.ng, Room: Ado-Ekiti"
+      ],
+      [
+        "10:30",
+        "Course: FMM 206, Lecturer: uwammanda@pau.edu.ng, Room: Abakaliki",
+        "",
+        "Course: PAU-FMM 210, Lecturer: fogungbe@pau.edu.ng, Room: Zaria",
+        "",
+        "Course: PAU-FMM 208, Lecturer: lakande@pau.edu.ng, Room: Ado-Ekiti"
+      ],
+      [
         "11:30",
-        "Course: FMM 202, Lecturer: eajala@pau.edu.ng, Room: Ibadan",
+        "Course: FMM 206, Lecturer: uwammanda@pau.edu.ng, Room: Abakaliki",
         "",
         "",
-        "Course: FMM 206, Lecturer: uwammanda@pau.edu.ng, Room: Zaria",
+        "",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: PAU-FMM 210, Lecturer: fogungbe@pau.edu.ng, Room: Jalingo",
         "BREAK",
-        "Course: FMM 206, Lecturer: uwammanda@pau.edu.ng, Room: Zaria",
+        "Course: PAU-FMM 212, Lecturer: aadeyeye@pau.edu.ng, Room: Abeokuta",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "",
+        "Course: PAU-FMM 210, Lecturer: fogungbe@pau.edu.ng, Room: Jalingo",
         "",
         "",
         ""
@@ -958,25 +958,25 @@
       [
         "14:30",
         "",
-        "Course: PAU-FMM 212, Lecturer: aadeyeye@pau.edu.ng, Room: Bauchi",
+        "",
         "",
         "",
         ""
       ],
       [
         "15:30",
-        "Course: FMM 204, Lecturer: mailto:cogbonna@pau.edu.ngc, Room: Art and Graphics Studio",
-        "Course: PAU-FMM 212, Lecturer: aadeyeye@pau.edu.ng, Room: Bauchi",
+        "Course: PAU-FMM 212, Lecturer: aadeyeye@pau.edu.ng, Room: Umuahia",
+        "Course: FMM 204, Lecturer: mailto:cogbonna@pau.edu.ngc, Room: Zaria",
         "",
-        "Course: PAU-FMM 208, Lecturer: lakande@pau.edu.ng, Room: Asaba",
+        "",
         ""
       ],
       [
         "16:30",
-        "Course: FMM 204, Lecturer: mailto:cogbonna@pau.edu.ngc, Room: Art and Graphics Studio",
-        "Course: PAU-FMM 212, Lecturer: aadeyeye@pau.edu.ng, Room: Bauchi",
+        "Course: PAU-FMM 212, Lecturer: aadeyeye@pau.edu.ng, Room: Umuahia",
+        "Course: FMM 204, Lecturer: mailto:cogbonna@pau.edu.ngc, Room: Zaria",
         "",
-        "Course: PAU-FMM 208, Lecturer: lakande@pau.edu.ng, Room: Asaba",
+        "",
         ""
       ],
       [
@@ -999,32 +999,32 @@
     "timetable": [
       [
         "08:30",
-        "Course: FMM 306, Lecturer: nikeh@pau.edu.ng, Room: Jos",
-        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Bauchi",
+        "",
+        "",
+        "",
+        "Course: FMM 304, Lecturer: uwammanda@pau.edu.ng, Room: Uyo",
+        "Course: CMS 302, Lecturer: (Prof. Okorie, Room: Asaba"
+      ],
+      [
+        "09:30",
+        "",
+        "Course: FMM 302, Lecturer: mailto:eajala@pau.edu.ng, Room: Oshogbo",
+        "",
+        "Course: FMM 304, Lecturer: uwammanda@pau.edu.ng, Room: Uyo",
+        "Course: CMS 302, Lecturer: (Prof. Okorie, Room: Asaba"
+      ],
+      [
+        "10:30",
+        "",
+        "Course: FMM 302, Lecturer: mailto:eajala@pau.edu.ng, Room: Oshogbo",
         "",
         "",
         ""
       ],
       [
-        "09:30",
-        "Course: FMM 306, Lecturer: nikeh@pau.edu.ng, Room: Jos",
-        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Bauchi",
-        "",
-        "",
-        "Course: PAU\u2010FMM 312, Lecturer: lakande@pau.edu.ng, Room: Bauchi"
-      ],
-      [
-        "10:30",
-        "",
-        "Course: PAU\u2010FMM 314, Lecturer: busola.olugbemileke@pau.edu.ng, Room: Jalingo",
-        "",
-        "",
-        "Course: PAU\u2010FMM 312, Lecturer: lakande@pau.edu.ng, Room: Enugu"
-      ],
-      [
         "11:30",
         "",
-        "Course: PAU\u2010FMM 314, Lecturer: busola.olugbemileke@pau.edu.ng, Room: Jalingo",
+        "Course: PAU\u2010FMM 312, Lecturer: lakande@pau.edu.ng, Room: Port-Harcourt",
         "",
         "",
         ""
@@ -1034,39 +1034,39 @@
         "BREAK",
         "",
         "BREAK",
-        "Course: FMM 302, Lecturer: mailto:eajala@pau.edu.ng, Room: Newsroom",
+        "",
         "BREAK"
       ],
       [
         "13:30",
         "",
+        "Course: PAU\u2010FMM 314, Lecturer: busola.olugbemileke@pau.edu.ng, Room: Enugu",
         "",
         "",
-        "Course: FMM 302, Lecturer: mailto:eajala@pau.edu.ng, Room: Newsroom",
-        "Course: PAU\u2010FMM 312, Lecturer: lakande@pau.edu.ng, Room: Bauchi"
+        ""
       ],
       [
         "14:30",
-        "Course: FMM 304, Lecturer: uwammanda@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
+        "Course: PAU\u2010FMM 314, Lecturer: busola.olugbemileke@pau.edu.ng, Room: Enugu",
+        "Course: PAU\u2010FMM 312, Lecturer: lakande@pau.edu.ng, Room: Abeokuta",
         "",
         ""
       ],
       [
         "15:30",
-        "Course: FMM 304, Lecturer: uwammanda@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: FMM 306, Lecturer: nikeh@pau.edu.ng, Room: Enugu",
         "",
-        "Course: CMS 302, Lecturer: (Prof. Okorie, Room: Asaba",
-        "",
+        "Course: PAU\u2010FMM 312, Lecturer: lakande@pau.edu.ng, Room: Abeokuta",
+        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Zaria",
         ""
       ],
       [
         "16:30",
+        "Course: FMM 306, Lecturer: nikeh@pau.edu.ng, Room: Enugu",
         "",
         "",
-        "Course: CMS 302, Lecturer: (Prof. Okorie, Room: Asaba",
-        "",
+        "Course: GST 312, Lecturer: oogunyemi@pau.edu.ng, Room: Zaria",
         ""
       ],
       [
@@ -1089,75 +1089,75 @@
     "timetable": [
       [
         "08:30",
-        "Course: PAU-ACC 107, Lecturer: oikpesu@pau.edu.ng, Room: Ibadan",
+        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Lokoja",
+        "Course: PAU ACC 105, Lecturer: fanetor@pau.edu.ng, Room: Ibadan",
         "",
-        "Course: PAU ACC 105, Lecturer: fanetor@pau.edu.ng, Room: Abakaliki",
-        "",
-        "Course: PAU-ACC-104, Lecturer: nsolomon@pau.edu.ng, Room: Lokoja"
+        "Course: PAU ACC 105, Lecturer: fanetor@pau.edu.ng, Room: Oshogbo",
+        "Course: ACC 102, Lecturer: oowolabi@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "09:30",
-        "",
-        "",
-        "",
+        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Lokoja",
+        "Course: PAU ACC 105, Lecturer: fanetor@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-ACC 107, Lecturer: oikpesu@pau.edu.ng, Room: Jos",
         "",
         ""
       ],
       [
         "10:30",
-        "Course: PAU-ACC 191, Lecturer: iogboh@pau.edu.ng, Room: Lokoja",
         "",
-        "Course: PAU ACC 105, Lecturer: fanetor@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-ACC 191, Lecturer: iogboh@pau.edu.ng, Room: Jalingo",
         "",
+        "Course: PAU-ACC 107, Lecturer: oikpesu@pau.edu.ng, Room: Abakaliki",
         ""
       ],
       [
         "11:30",
-        "Course: PAU-ACC 191, Lecturer: iogboh@pau.edu.ng, Room: Lokoja",
-        "Course: ACC 102, Lecturer: oowolabi@pau.edu.ng, Room: Uyo",
-        "Course: PAU ACC 105, Lecturer: fanetor@pau.edu.ng, Room: Abakaliki",
         "",
+        "Course: PAU-ACC 191, Lecturer: iogboh@pau.edu.ng, Room: Jalingo",
+        "",
+        "Course: PAU-ACC 107, Lecturer: oikpesu@pau.edu.ng, Room: Abakaliki",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Lokoja",
-        "BREAK",
         "",
+        "BREAK",
+        "Course: PAU-ACC-104, Lecturer: nsolomon@pau.edu.ng, Room: Ado-Ekiti",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Lokoja",
+        "Course: PAU-ACC-104, Lecturer: nsolomon@pau.edu.ng, Room: Ibadan",
+        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Zaria",
         "",
-        "",
-        "Course: PAU-ACC-104, Lecturer: nsolomon@pau.edu.ng, Room: Lokoja"
+        ""
       ],
       [
         "14:30",
-        "Course: PAU-ACC 107, Lecturer: oikpesu@pau.edu.ng, Room: Ibadan",
         "",
+        "Course: PAU-ACC-104, Lecturer: nsolomon@pau.edu.ng, Room: Ibadan",
+        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Zaria",
         "",
-        "",
-        "Course: PAU-ACC-104, Lecturer: nsolomon@pau.edu.ng, Room: Lokoja"
+        ""
       ],
       [
         "15:30",
-        "Course: PAU-ACC 107, Lecturer: oikpesu@pau.edu.ng, Room: Ibadan",
-        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "Course: ACC 102, Lecturer: oowolabi@pau.edu.ng, Room: Newsroom",
-        ""
+        "",
+        "",
+        "",
+        "Course: ACC 102, Lecturer: oowolabi@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "16:30",
         "",
-        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "Course: ACC 102, Lecturer: oowolabi@pau.edu.ng, Room: Newsroom",
-        ""
+        "",
+        "",
+        "Course: ACC 102, Lecturer: oowolabi@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "17:30",
@@ -1179,32 +1179,32 @@
     "timetable": [
       [
         "08:30",
-        "Course: PAU-ACC-208, Lecturer: iunah@pau.edu.ng, Room: Lokoja",
-        "Course: ACC 202, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
+        "Course: ACC 206, Lecturer: jimhanzenobe@pau.edu.ng, Room: Uyo",
         "",
-        "",
-        "Course: PAU-ACC-207, Lecturer: pokposo@pau.edu.ng, Room: Ado-Ekiti"
-      ],
-      [
-        "09:30",
-        "Course: PAU-ACC-208, Lecturer: iunah@pau.edu.ng, Room: Lokoja",
-        "Course: ACC 202, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
-        "Course: PAU-ACC-207, Lecturer: pokposo@pau.edu.ng, Room: Asaba",
+        "Course: ACC 202, Lecturer: lraheed@pau.edu.ng, Room: Jalingo",
         "",
         ""
       ],
       [
+        "09:30",
+        "Course: PAU-ACC-207, Lecturer: pokposo@pau.edu.ng, Room: Abakaliki",
+        "",
+        "Course: ACC 203, Lecturer: iolaniyi@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-ACC-208, Lecturer: iunah@pau.edu.ng, Room: Jos",
+        "Course: PAU-ACC-207, Lecturer: pokposo@pau.edu.ng, Room: Oshogbo"
+      ],
+      [
         "10:30",
-        "Course: ACC 206, Lecturer: jimhanzenobe@pau.edu.ng, Room: Port-Harcourt",
-        "Course: ACC 202, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
-        "Course: PAU-ACC-207, Lecturer: pokposo@pau.edu.ng, Room: Asaba",
-        "Course: ACC 203, Lecturer: iolaniyi@pau.edu.ng, Room: Uyo",
-        "Course: PAU-ACC-208, Lecturer: iunah@pau.edu.ng, Room: Lokoja"
+        "",
+        "Course: ACC 202, Lecturer: lraheed@pau.edu.ng, Room: Newsroom",
+        "Course: ACC 203, Lecturer: iolaniyi@pau.edu.ng, Room: Ado-Ekiti",
+        "",
+        "Course: PAU-ACC-207, Lecturer: pokposo@pau.edu.ng, Room: Oshogbo"
       ],
       [
         "11:30",
-        "Course: ACC 206, Lecturer: jimhanzenobe@pau.edu.ng, Room: Ado-Ekiti",
         "",
+        "Course: ACC 202, Lecturer: lraheed@pau.edu.ng, Room: Newsroom",
         "",
         "",
         ""
@@ -1212,7 +1212,7 @@
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: PAU-ACC-208, Lecturer: iunah@pau.edu.ng, Room: Zaria",
         "BREAK",
         "",
         "BREAK"
@@ -1220,7 +1220,7 @@
       [
         "13:30",
         "",
-        "",
+        "Course: PAU-ACC-208, Lecturer: iunah@pau.edu.ng, Room: Zaria",
         "",
         "",
         ""
@@ -1230,24 +1230,24 @@
         "",
         "",
         "",
-        "Course: ACC 203, Lecturer: iolaniyi@pau.edu.ng, Room: Uyo",
+        "Course: PAU-ACC-291, Lecturer: roji@pau.edu.ng, Room: Abeokuta",
         ""
       ],
       [
         "15:30",
         "",
         "",
-        "",
-        "Course: ACC 203, Lecturer: iolaniyi@pau.edu.ng, Room: Uyo",
-        "Course: PAU-ACC-291, Lecturer: roji@pau.edu.ng, Room: Asaba"
+        "Course: ACC 206, Lecturer: jimhanzenobe@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-ACC-291, Lecturer: roji@pau.edu.ng, Room: Abeokuta",
+        ""
       ],
       [
         "16:30",
+        "",
+        "Course: ACC 203, Lecturer: iolaniyi@pau.edu.ng, Room: Port-Harcourt",
         "Course: ACC 206, Lecturer: jimhanzenobe@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
-        "",
-        "Course: PAU-ACC-291, Lecturer: roji@pau.edu.ng, Room: Asaba"
+        ""
       ],
       [
         "17:30",
@@ -1269,79 +1269,79 @@
     "timetable": [
       [
         "08:30",
-        "Course: ACC 306, Lecturer: ovincent@pau.edu.ng, Room: Ado-Ekiti",
         "",
         "",
-        "Course: ACC 302, Lecturer: iudofia@pau.edu.ng, Room: Umuahia",
+        "",
+        "Course: ACC 303, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
         ""
       ],
       [
         "09:30",
-        "Course: ACC 306, Lecturer: ovincent@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-ACC 392, Lecturer: aogbuchi@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "Course: PAU-ACC 392, Lecturer: aogbuchi@pau.edu.ng, Room: Umuahia",
         "",
+        "Course: ACC 303, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
         ""
       ],
       [
         "10:30",
-        "Course: ACC 306, Lecturer: ovincent@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: PAU-ACC 310, Lecturer: sokon@pau.edu.ng, Room: Abakaliki",
-        "Course: PAU-ACC 392, Lecturer: aogbuchi@pau.edu.ng, Room: Umuahia",
+        "Course: PAU-ACC 392, Lecturer: aogbuchi@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        "",
         "",
         ""
       ],
       [
         "11:30",
         "",
-        "Course: PAU-ACC 310, Lecturer: sokon@pau.edu.ng, Room: Abakaliki",
+        "Course: ACC 302, Lecturer: iudofia@pau.edu.ng, Room: Abeokuta",
         "",
-        "",
-        ""
+        "Course: PAU-ACC 310, Lecturer: sokon@pau.edu.ng, Room: Enugu",
+        "Course: PAU-ACC 312, Lecturer: oikejimba@pau.edu.ng, Room: Oshogbo"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: PAU-ACC 312, Lecturer: oikejimba@pau.edu.ng, Room: Maiduguri",
+        "Course: ACC 302, Lecturer: iudofia@pau.edu.ng, Room: Abeokuta",
         "BREAK",
         "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: ACC 303, Lecturer: lraheed@pau.edu.ng, Room: Newsroom",
+        "Course: PAU-ACC 312, Lecturer: oikejimba@pau.edu.ng, Room: Newsroom",
         "",
-        "",
-        "",
-        ""
+        "Course: ACC 311, Lecturer: iudofia@pau.edu.ng, Room: Jalingo",
+        "Course: ACC 302, Lecturer: iudofia@pau.edu.ng, Room: Abeokuta",
+        "Course: PAU-ACC 310, Lecturer: sokon@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "14:30",
-        "Course: ACC 303, Lecturer: lraheed@pau.edu.ng, Room: Asaba",
-        "Course: ACC 303, Lecturer: lraheed@pau.edu.ng, Room: Asaba",
+        "Course: PAU-ACC 312, Lecturer: oikejimba@pau.edu.ng, Room: Newsroom",
+        "Course: ACC 306, Lecturer: ovincent@pau.edu.ng, Room: Asaba",
         "",
-        "Course: ACC 311, Lecturer: iudofia@pau.edu.ng, Room: Maiduguri",
-        ""
+        "",
+        "Course: PAU-ACC 310, Lecturer: sokon@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "15:30",
         "",
-        "Course: PAU-ACC 312, Lecturer: oikejimba@pau.edu.ng, Room: Maiduguri",
+        "Course: ACC 306, Lecturer: ovincent@pau.edu.ng, Room: Asaba",
         "",
-        "Course: ACC 302, Lecturer: iudofia@pau.edu.ng, Room: Umuahia",
-        "Course: ACC 311, Lecturer: iudofia@pau.edu.ng, Room: Enugu"
+        "Course: ACC 311, Lecturer: iudofia@pau.edu.ng, Room: Jalingo",
+        ""
       ],
       [
         "16:30",
+        "Course: ACC 306, Lecturer: ovincent@pau.edu.ng, Room: Asaba",
         "",
-        "Course: PAU-ACC 312, Lecturer: oikejimba@pau.edu.ng, Room: Maiduguri",
-        "",
-        "Course: ACC 302, Lecturer: iudofia@pau.edu.ng, Room: Umuahia",
-        "Course: ACC 311, Lecturer: iudofia@pau.edu.ng, Room: Enugu"
+        "Course: ACC 303, Lecturer: lraheed@pau.edu.ng, Room: Uyo",
+        "Course: ACC 311, Lecturer: iudofia@pau.edu.ng, Room: Jalingo",
+        ""
       ],
       [
         "17:30",
-        "Course: PAU-ACC 310, Lecturer: sokon@pau.edu.ng, Room: Maiduguri",
+        "",
         "",
         "",
         "",
@@ -1360,46 +1360,46 @@
       [
         "08:30",
         "",
+        "Course: ACC 406, Lecturer: ovincent@pau.edu.ng, Room: Lokoja",
         "",
-        "",
-        "",
-        "Course: ACC 408, Lecturer: okpala@pau.edu.ng, Room: Bauchi"
+        "Course: ACC 405, Lecturer: iokwuosa@pau.edu.ng, Room: Umuahia",
+        ""
       ],
       [
         "09:30",
         "",
+        "Course: ACC 406, Lecturer: ovincent@pau.edu.ng, Room: Lokoja",
         "",
-        "",
-        "Course: ACC 403, Lecturer: fikpesu@pau.edu.ng, Room: Zaria",
-        "Course: ACC 403, Lecturer: fikpesu@pau.edu.ng, Room: Enugu"
+        "Course: ACC 405, Lecturer: iokwuosa@pau.edu.ng, Room: Umuahia",
+        "Course: ACC 408, Lecturer: okpala@pau.edu.ng, Room: Zaria"
       ],
       [
         "10:30",
-        "Course: ACC 409, Lecturer: lraheed@pau.edu.ng, Room: Enugu",
+        "Course: ACC 403, Lecturer: fikpesu@pau.edu.ng, Room: Ibadan",
         "",
+        "Course: ACC 409, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: ACC 403, Lecturer: fikpesu@pau.edu.ng, Room: Zaria",
-        "Course: ACC 408, Lecturer: okpala@pau.edu.ng, Room: Bauchi"
+        "Course: ACC 408, Lecturer: okpala@pau.edu.ng, Room: Zaria"
       ],
       [
         "11:30",
-        "Course: ACC 409, Lecturer: lraheed@pau.edu.ng, Room: Enugu",
-        "Course: ACC 405, Lecturer: iokwuosa@pau.edu.ng, Room: Abeokuta",
+        "Course: ACC 403, Lecturer: fikpesu@pau.edu.ng, Room: Ibadan",
         "",
-        "",
-        "Course: ACC 408, Lecturer: okpala@pau.edu.ng, Room: Bauchi"
+        "Course: ACC 409, Lecturer: lraheed@pau.edu.ng, Room: Abeokuta",
+        "Course: ACC 406, Lecturer: ovincent@pau.edu.ng, Room: Maiduguri",
+        ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: ACC 405, Lecturer: iokwuosa@pau.edu.ng, Room: Abeokuta",
+        "",
         "BREAK",
-        "Course: ACC 405, Lecturer: iokwuosa@pau.edu.ng, Room: Abeokuta",
+        "",
         "BREAK"
       ],
       [
         "13:30",
-        "",
+        "Course: ACC 408, Lecturer: okpala@pau.edu.ng, Room: Bauchi",
         "",
         "",
         "",
@@ -1409,25 +1409,25 @@
         "14:30",
         "",
         "",
-        "Course: ACC 406, Lecturer: ovincent@pau.edu.ng, Room: Umuahia",
         "",
+        "Course: ACC 403, Lecturer: fikpesu@pau.edu.ng, Room: Abakaliki",
         ""
       ],
       [
         "15:30",
         "",
         "",
-        "Course: ACC 406, Lecturer: ovincent@pau.edu.ng, Room: Umuahia",
+        "",
         "",
         ""
       ],
       [
         "16:30",
         "",
-        "Course: ACC 406, Lecturer: ovincent@pau.edu.ng, Room: Jalingo",
         "",
         "",
-        "Course: ACC 409, Lecturer: lraheed@pau.edu.ng, Room: Oshogbo"
+        "Course: ACC 409, Lecturer: lraheed@pau.edu.ng, Room: Enugu",
+        "Course: ACC 405, Lecturer: iokwuosa@pau.edu.ng, Room: Enugu"
       ],
       [
         "17:30",
@@ -1453,70 +1453,70 @@
         "",
         "",
         "",
-        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Abakaliki"
+        "Course: BUA 102, Lecturer: rokolo@pau.edu.ng, Room: Uyo"
       ],
       [
         "09:30",
         "",
         "",
-        "Course: PAU-BUA 110, Lecturer: uattoh@pau.edu.ng, Room: Maiduguri",
-        "Course: BUA 102, Lecturer: rokolo@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Abakaliki"
+        "",
+        "",
+        "Course: BUA 102, Lecturer: rokolo@pau.edu.ng, Room: Uyo"
       ],
       [
         "10:30",
         "",
-        "Course: PAU-BUA 191, Lecturer: easogwa@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: PAU-BUA 110, Lecturer: uattoh@pau.edu.ng, Room: Maiduguri",
-        "Course: BUA 102, Lecturer: rokolo@pau.edu.ng, Room: Art and Graphics Studio",
+        "",
+        "Course: PAU-BUA 191, Lecturer: easogwa@pau.edu.ng, Room: Umuahia",
+        "",
         ""
       ],
       [
         "11:30",
         "",
-        "Course: PAU-BUA 191, Lecturer: easogwa@pau.edu.ng, Room: Art and Graphics Studio",
-        "",
+        "Course: PAU-BUA 109, Lecturer: jbankole@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-BUA 191, Lecturer: easogwa@pau.edu.ng, Room: Umuahia",
         "",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: PAU-BUA 109, Lecturer: jbankole@pau.edu.ng, Room: Ado-Ekiti",
         "BREAK",
-        "Course: PAU-BUA 108, Lecturer: oowolabi@pau.edu.ng, Room: Jalingo",
+        "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: PAU-BUA 107, Lecturer: fiyoha@pau.edu.ng, Room: Uyo",
+        "Course: PAU-BUA 107, Lecturer: fiyoha@pau.edu.ng, Room: Umuahia",
         "",
-        "Course: PAU-BUA 109, Lecturer: jbankole@pau.edu.ng, Room: Maiduguri",
-        "Course: PAU-BUA 108, Lecturer: oowolabi@pau.edu.ng, Room: Jalingo",
+        "",
+        "",
         ""
       ],
       [
         "14:30",
-        "Course: PAU-BUA 107, Lecturer: fiyoha@pau.edu.ng, Room: Uyo",
-        "",
-        "Course: PAU-BUA 109, Lecturer: jbankole@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-BUA 107, Lecturer: fiyoha@pau.edu.ng, Room: Umuahia",
+        "Course: PAU-BUA 108, Lecturer: oowolabi@pau.edu.ng, Room: Umuahia",
+        "Course: PAU-BUA 109, Lecturer: jbankole@pau.edu.ng, Room: Ado-Ekiti",
         "",
         ""
       ],
       [
         "15:30",
+        "Course: PAU-BUA 110, Lecturer: uattoh@pau.edu.ng, Room: Uyo",
+        "Course: PAU-BUA 108, Lecturer: oowolabi@pau.edu.ng, Room: Umuahia",
         "",
-        "",
-        "",
-        "",
+        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Art and Graphics Studio",
         ""
       ],
       [
         "16:30",
-        "Course: PAU-BUA 109, Lecturer: jbankole@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-BUA 110, Lecturer: uattoh@pau.edu.ng, Room: Uyo",
         "",
         "",
-        "",
+        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Art and Graphics Studio",
         ""
       ],
       [
@@ -1539,71 +1539,71 @@
     "timetable": [
       [
         "08:30",
+        "Course: BUA 218, Lecturer: gogbo@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-BUA 291, Lecturer: enzeaka@pau.edu.ng, Room: Jalingo",
         "",
-        "",
-        "Course: BUA 205, Lecturer: rokolo@pau.edu.ng, Room: Port-Harcourt",
         "",
         ""
       ],
       [
         "09:30",
+        "Course: BUA 218, Lecturer: gogbo@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-BUA 291, Lecturer: enzeaka@pau.edu.ng, Room: Jalingo",
+        "Course: BUA 203, Lecturer: cebegbetale@pau.edu.ng, Room: Uyo",
         "",
-        "",
-        "Course: BUA 205, Lecturer: rokolo@pau.edu.ng, Room: Port-Harcourt",
-        "Course: BUA 218, Lecturer: gogbo@pau.edu.ng, Room: Jalingo",
         ""
       ],
       [
         "10:30",
-        "Course: BUA 216, Lecturer: fikpesu@pau.edu.ng, Room: Newsroom",
+        "Course: BUA 202, Lecturer: alawal@pau.edu.ng, Room: Newsroom",
         "",
         "",
-        "Course: BUA 218, Lecturer: gogbo@pau.edu.ng, Room: Jalingo",
-        "Course: BUA 202, Lecturer: alawal@pau.edu.ng, Room: Abakaliki"
+        "",
+        "Course: BUA 205, Lecturer: rokolo@pau.edu.ng, Room: Jalingo"
       ],
       [
         "11:30",
-        "Course: BUA 216, Lecturer: fikpesu@pau.edu.ng, Room: Newsroom",
+        "Course: BUA 202, Lecturer: alawal@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: BUA 203, Lecturer: cebegbetale@pau.edu.ng, Room: Bauchi",
-        "Course: BUA 203, Lecturer: cebegbetale@pau.edu.ng, Room: Asaba",
-        "Course: BUA 202, Lecturer: alawal@pau.edu.ng, Room: Abakaliki"
+        "Course: BUA 216, Lecturer: fikpesu@pau.edu.ng, Room: Maiduguri",
+        "",
+        "Course: BUA 205, Lecturer: rokolo@pau.edu.ng, Room: Jalingo"
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: BUA 202, Lecturer: alawal@pau.edu.ng, Room: Enugu",
         "BREAK",
-        "Course: BUA 203, Lecturer: cebegbetale@pau.edu.ng, Room: Asaba",
+        "",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: BUA 203, Lecturer: cebegbetale@pau.edu.ng, Room: Lokoja",
         "",
-        "Course: PAU-BUA 206, Lecturer: hagbonrofo@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
-        "Course: BUA 216, Lecturer: fikpesu@pau.edu.ng, Room: Maiduguri"
+        "Course: PAU-BUA 206, Lecturer: hagbonrofo@pau.edu.ng, Room: Lokoja",
+        ""
       ],
       [
         "14:30",
+        "Course: BUA 203, Lecturer: cebegbetale@pau.edu.ng, Room: Lokoja",
+        "Course: BUA 216, Lecturer: fikpesu@pau.edu.ng, Room: Oshogbo",
         "",
-        "Course: PAU-BUA 206, Lecturer: hagbonrofo@pau.edu.ng, Room: Ado-Ekiti",
-        "",
-        "",
-        "Course: BUA 202, Lecturer: alawal@pau.edu.ng, Room: Abakaliki"
+        "Course: PAU-BUA 206, Lecturer: hagbonrofo@pau.edu.ng, Room: Lokoja",
+        ""
       ],
       [
         "15:30",
-        "Course: PAU-BUA 291, Lecturer: enzeaka@pau.edu.ng, Room: Jos",
         "",
+        "Course: BUA 216, Lecturer: fikpesu@pau.edu.ng, Room: Oshogbo",
         "",
         "",
         ""
       ],
       [
         "16:30",
-        "Course: PAU-BUA 291, Lecturer: enzeaka@pau.edu.ng, Room: Jos",
+        "",
         "",
         "",
         "",
@@ -1629,75 +1629,75 @@
     "timetable": [
       [
         "08:30",
-        "Course: PAU-BUA 316, Lecturer: hagbonrofo@pau.edu.ng, Room: Zaria",
-        "Course: BUA 303, Lecturer: cebegbetale@pau.edu.ng, Room: Abakaliki",
-        "Course: BUA 303, Lecturer: cebegbetale@pau.edu.ng, Room: Bauchi",
         "",
-        ""
+        "",
+        "",
+        "",
+        "Course: PAU-BUA 315, Lecturer: gogbo@pau.edu.ng, Room: Umuahia"
       ],
       [
         "09:30",
-        "Course: PAU-BUA 316, Lecturer: hagbonrofo@pau.edu.ng, Room: Zaria",
-        "Course: BUA 303, Lecturer: cebegbetale@pau.edu.ng, Room: Abakaliki",
         "",
         "",
-        ""
+        "",
+        "Course: BUA 323, Lecturer: fikpesu@pau.edu.ng, Room: Asaba",
+        "Course: PAU-BUA 315, Lecturer: gogbo@pau.edu.ng, Room: Umuahia"
       ],
       [
         "10:30",
-        "Course: PAU-BUA 317, Lecturer: enzeaka@pau.edu.ng, Room: Abakaliki",
-        "Course: PAU-BUA 315, Lecturer: gogbo@pau.edu.ng, Room: Port-Harcourt",
+        "Course: PAU-BUA 316, Lecturer: hagbonrofo@pau.edu.ng, Room: Jos",
         "",
-        "",
+        "Course: PAU-BUA 317, Lecturer: enzeaka@pau.edu.ng, Room: Bauchi",
+        "Course: BUA 323, Lecturer: fikpesu@pau.edu.ng, Room: Asaba",
         ""
       ],
       [
         "11:30",
-        "Course: PAU-BUA 317, Lecturer: enzeaka@pau.edu.ng, Room: Abakaliki",
-        "Course: PAU-BUA 315, Lecturer: gogbo@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: PAU-BUA 316, Lecturer: hagbonrofo@pau.edu.ng, Room: Maiduguri",
-        "Course: BUA 321, Lecturer: rokolo@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: PAU-BUA 316, Lecturer: hagbonrofo@pau.edu.ng, Room: Jos",
+        "",
+        "Course: PAU-BUA 317, Lecturer: enzeaka@pau.edu.ng, Room: Bauchi",
+        "",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: BUA 304, Lecturer: alawal@pau.edu.ng, Room: Ado-Ekiti",
+        "",
         "BREAK",
-        "Course: BUA 321, Lecturer: rokolo@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: BUA 303, Lecturer: cebegbetale@pau.edu.ng, Room: Maiduguri",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: BUA 304, Lecturer: alawal@pau.edu.ng, Room: Abeokuta",
-        "Course: BUA 323, Lecturer: fikpesu@pau.edu.ng, Room: Uyo",
-        "Course: PAU-BUA 315, Lecturer: gogbo@pau.edu.ng, Room: Ado-Ekiti",
-        ""
+        "",
+        "",
+        "Course: BUA 303, Lecturer: cebegbetale@pau.edu.ng, Room: Maiduguri",
+        "Course: PAU-BUA 392, Lecturer: aogbuchi@pau.edu.ng, Room: Ibadan"
       ],
       [
         "14:30",
         "",
+        "Course: BUA 304, Lecturer: alawal@pau.edu.ng, Room: Lokoja",
         "",
-        "Course: BUA 323, Lecturer: fikpesu@pau.edu.ng, Room: Uyo",
         "",
-        ""
+        "Course: PAU-BUA 392, Lecturer: aogbuchi@pau.edu.ng, Room: Ibadan"
       ],
       [
         "15:30",
+        "Course: PAU-BUA 316, Lecturer: hagbonrofo@pau.edu.ng, Room: Jos",
+        "Course: BUA 304, Lecturer: alawal@pau.edu.ng, Room: Lokoja",
         "",
-        "",
-        "",
-        "",
-        "Course: PAU-BUA 392, Lecturer: aogbuchi@pau.edu.ng, Room: Newsroom"
+        "Course: PAU-BUA 315, Lecturer: gogbo@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: BUA 321, Lecturer: rokolo@pau.edu.ng, Room: Ado-Ekiti"
       ],
       [
         "16:30",
         "",
         "",
-        "Course: BUA 304, Lecturer: alawal@pau.edu.ng, Room: Oshogbo",
-        "",
-        "Course: PAU-BUA 392, Lecturer: aogbuchi@pau.edu.ng, Room: Newsroom"
+        "Course: BUA 303, Lecturer: cebegbetale@pau.edu.ng, Room: Oshogbo",
+        "Course: BUA 304, Lecturer: alawal@pau.edu.ng, Room: Port-Harcourt",
+        "Course: BUA 321, Lecturer: rokolo@pau.edu.ng, Room: Ado-Ekiti"
       ],
       [
         "17:30",
@@ -1719,33 +1719,33 @@
     "timetable": [
       [
         "08:30",
-        "Course: BUS 406, Lecturer: genyinnaya@pau.edu.ng, Room: Maiduguri",
-        "",
-        "",
         "Course: BUS 406, Lecturer: genyinnaya@pau.edu.ng, Room: Abeokuta",
-        "Course: BUS 404, Lecturer: odakare@pau.edu.ng, Room: Jalingo"
+        "",
+        "",
+        "",
+        ""
       ],
       [
         "09:30",
-        "Course: BUS 406, Lecturer: genyinnaya@pau.edu.ng, Room: Maiduguri",
-        "Course: BUS 407, Lecturer: alawal@pau.edu.ng, Room: Maiduguri",
-        "Course: BUS 404, Lecturer: odakare@pau.edu.ng, Room: Abeokuta",
+        "Course: BUS 406, Lecturer: genyinnaya@pau.edu.ng, Room: Abeokuta",
+        "Course: BUS 407, Lecturer: alawal@pau.edu.ng, Room: Port-Harcourt",
+        "",
         "",
         ""
       ],
       [
         "10:30",
         "",
-        "Course: BUS 407, Lecturer: alawal@pau.edu.ng, Room: Lokoja",
-        "Course: BUS 404, Lecturer: odakare@pau.edu.ng, Room: Abeokuta",
+        "Course: BUS 407, Lecturer: alawal@pau.edu.ng, Room: Port-Harcourt",
+        "Course: BUS 404, Lecturer: odakare@pau.edu.ng, Room: Lokoja",
         "",
         ""
       ],
       [
         "11:30",
         "",
-        "Course: BUS 407, Lecturer: alawal@pau.edu.ng, Room: Lokoja",
         "",
+        "Course: BUS 404, Lecturer: odakare@pau.edu.ng, Room: Lokoja",
         "",
         ""
       ],
@@ -1770,8 +1770,8 @@
         "",
         "",
         "",
-        "",
-        ""
+        "Course: BUS 404, Lecturer: odakare@pau.edu.ng, Room: Umuahia",
+        "Course: BUS 407, Lecturer: alawal@pau.edu.ng, Room: Port-Harcourt"
       ],
       [
         "15:30",
@@ -1785,7 +1785,7 @@
         "16:30",
         "",
         "",
-        "",
+        "Course: BUS 406, Lecturer: genyinnaya@pau.edu.ng, Room: Abeokuta",
         "",
         ""
       ],
@@ -1810,78 +1810,78 @@
       [
         "08:30",
         "Course: PAU-FIN-111, Lecturer: ooluyombo@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-FIN- 113, Lecturer: kibekwe@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-FIN-111, Lecturer: ooluyombo@pau.edu.ng, Room: Jos",
         "",
-        "",
-        "",
-        "Course: PAU-FIN- 113, Lecturer: kibekwe@pau.edu.ng, Room: Umuahia"
+        ""
       ],
       [
         "09:30",
+        "Course: PAU-FIN-111, Lecturer: ooluyombo@pau.edu.ng, Room: Jalingo",
         "",
         "",
         "",
-        "",
-        "Course: PAU-FIN- 113, Lecturer: kibekwe@pau.edu.ng, Room: Umuahia"
+        ""
       ],
       [
         "10:30",
+        "Course: PAU-FIN- 113, Lecturer: kibekwe@pau.edu.ng, Room: Oshogbo",
         "",
         "",
-        "Course: PAU-FIN-112, Lecturer: oikpesu@pau.edu.ng, Room: Oshogbo",
         "",
         ""
       ],
       [
         "11:30",
-        "Course: PAU-FIN-104, Lecturer: fanetor@pau.edu.ng, Room: Bauchi",
+        "Course: PAU-FIN- 113, Lecturer: kibekwe@pau.edu.ng, Room: Oshogbo",
+        "Course: PAU-FIN-104, Lecturer: fanetor@pau.edu.ng, Room: Oshogbo",
         "",
-        "Course: PAU-FIN-112, Lecturer: oikpesu@pau.edu.ng, Room: Oshogbo",
         "",
-        ""
+        "Course: PAU-FIN-104, Lecturer: fanetor@pau.edu.ng, Room: Zaria"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: PAU-FIN-104, Lecturer: fanetor@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-FIN-104, Lecturer: fanetor@pau.edu.ng, Room: Oshogbo",
         "BREAK",
-        "Course: PAU-FIN-112, Lecturer: oikpesu@pau.edu.ng, Room: Lokoja",
+        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Enugu",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: PAU-FIN-104, Lecturer: fanetor@pau.edu.ng, Room: Abakaliki",
         "",
-        "",
-        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Enugu"
+        "Course: PAU-FIN-112, Lecturer: oikpesu@pau.edu.ng, Room: Asaba",
+        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Enugu",
+        ""
       ],
       [
         "14:30",
-        "Course: PAU-FIN-111, Lecturer: ooluyombo@pau.edu.ng, Room: Jalingo",
         "",
+        "Course: PAU-FIN-191, Lecturer: easogwa@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-FIN-112, Lecturer: oikpesu@pau.edu.ng, Room: Asaba",
         "",
-        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Oshogbo",
-        "Course: AMS 103, Lecturer: ooni@pau.edu.ng, Room: Enugu"
+        ""
       ],
       [
         "15:30",
-        "Course: PAU-FIN-111, Lecturer: ooluyombo@pau.edu.ng, Room: Jalingo",
         "",
+        "Course: PAU-FIN-191, Lecturer: easogwa@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-FIN-112, Lecturer: oikpesu@pau.edu.ng, Room: Asaba",
         "",
-        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Oshogbo",
-        ""
+        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Port-Harcourt"
       ],
       [
         "16:30",
-        "Course: PAU-FIN-191, Lecturer: easogwa@pau.edu.ng, Room: Enugu",
-        "Course: PAU-FIN- 113, Lecturer: kibekwe@pau.edu.ng, Room: Jos",
         "",
         "",
-        ""
+        "",
+        "",
+        "Course: AMS 101, Lecturer: odakare@pau.edu.ng, Room: Port-Harcourt"
       ],
       [
         "17:30",
-        "Course: PAU-FIN-191, Lecturer: easogwa@pau.edu.ng, Room: Enugu",
+        "",
         "",
         "",
         "",
@@ -1899,35 +1899,35 @@
     "timetable": [
       [
         "08:30",
-        "Course: FIN 216, Lecturer: pfine@pau.edu.ng, Room: Oshogbo",
         "",
-        "Course: FIN 217, Lecturer: tvincent@pau.edu.ng, Room: Uyo",
+        "Course: PAU-FIN 211, Lecturer: iudofia@pau.edu.ng, Room: Maiduguri",
         "",
+        "Course: PAU-FIN 211, Lecturer: iudofia@pau.edu.ng, Room: Maiduguri",
         ""
       ],
       [
         "09:30",
-        "Course: FIN 216, Lecturer: pfine@pau.edu.ng, Room: Ibadan",
         "",
-        "Course: FIN 217, Lecturer: tvincent@pau.edu.ng, Room: Uyo",
         "",
-        "Course: PAU-FIN 211, Lecturer: iudofia@pau.edu.ng, Room: Jalingo"
+        "",
+        "Course: PAU-FIN 211, Lecturer: iudofia@pau.edu.ng, Room: Maiduguri",
+        ""
       ],
       [
         "10:30",
+        "Course: PAU-FIN- 209, Lecturer: oekechi@pau.edu.ng, Room: Asaba",
         "",
         "",
-        "Course: FIN 217, Lecturer: tvincent@pau.edu.ng, Room: Uyo",
         "",
-        "Course: PAU-FIN 211, Lecturer: iudofia@pau.edu.ng, Room: Jalingo"
+        ""
       ],
       [
         "11:30",
-        "Course: FIN 210, Lecturer: pfine@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-FIN- 209, Lecturer: oekechi@pau.edu.ng, Room: Asaba",
         "",
         "",
         "",
-        "Course: PAU-FIN 211, Lecturer: iudofia@pau.edu.ng, Room: Jalingo"
+        ""
       ],
       [
         "12:30",
@@ -1939,35 +1939,35 @@
       ],
       [
         "13:30",
-        "Course: FIN 210, Lecturer: pfine@pau.edu.ng, Room: Zaria",
-        "Course: PAU-FIN- 209, Lecturer: oekechi@pau.edu.ng, Room: Port-Harcourt",
+        "Course: FIN 215, Lecturer: pokposo@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "",
+        "Course: FIN 210, Lecturer: pfine@pau.edu.ng, Room: Port-Harcourt",
+        "Course: FIN 217, Lecturer: tvincent@pau.edu.ng, Room: Jalingo",
         ""
       ],
       [
         "14:30",
-        "Course: FIN 210, Lecturer: pfine@pau.edu.ng, Room: Bauchi",
-        "Course: PAU-FIN- 209, Lecturer: oekechi@pau.edu.ng, Room: Port-Harcourt",
-        "",
-        "",
+        "Course: FIN 215, Lecturer: pokposo@pau.edu.ng, Room: Port-Harcourt",
+        "Course: FIN 216, Lecturer: pfine@pau.edu.ng, Room: Bauchi",
+        "Course: FIN 210, Lecturer: pfine@pau.edu.ng, Room: Port-Harcourt",
+        "Course: FIN 217, Lecturer: tvincent@pau.edu.ng, Room: Jalingo",
         ""
       ],
       [
         "15:30",
         "",
+        "Course: FIN 216, Lecturer: pfine@pau.edu.ng, Room: Bauchi",
         "",
         "",
-        "Course: FIN 215, Lecturer: pokposo@pau.edu.ng, Room: Ibadan",
-        ""
+        "Course: FIN 217, Lecturer: tvincent@pau.edu.ng, Room: Ibadan"
       ],
       [
         "16:30",
         "",
         "",
         "",
-        "Course: FIN 215, Lecturer: pokposo@pau.edu.ng, Room: Oshogbo",
-        ""
+        "",
+        "Course: FIN 210, Lecturer: pfine@pau.edu.ng, Room: Art and Graphics Studio"
       ],
       [
         "17:30",
@@ -1990,39 +1990,39 @@
       [
         "08:30",
         "",
+        "Course: PAU-FIN 309, Lecturer: iunah@pau.edu.ng, Room: Zaria",
+        "Course: PAU-FIN 314, Lecturer: sokon@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "Course: PAU-FIN 314, Lecturer: sokon@pau.edu.ng, Room: Art and Graphics Studio",
-        "",
-        "Course: PAU-FIN 321, Lecturer: aonwudinjo@pau.edu.ng, Room: Jos"
+        "Course: FIN 316, Lecturer: pfine@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "09:30",
         "",
+        "Course: PAU-FIN 309, Lecturer: iunah@pau.edu.ng, Room: Zaria",
         "",
         "",
-        "",
-        "Course: PAU-FIN 321, Lecturer: aonwudinjo@pau.edu.ng, Room: Jos"
+        "Course: FIN 316, Lecturer: pfine@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "10:30",
-        "Course: PAU-FIN 320, Lecturer: iolaniyi@pau.edu.ng, Room: Umuahia",
-        "Course: PAU-FIN 319, Lecturer: oikejimba@pau.edu.ng, Room: Jos",
         "",
         "",
-        "Course: PAU-FIN 319, Lecturer: oikejimba@pau.edu.ng, Room: Maiduguri"
-      ],
-      [
-        "11:30",
-        "Course: PAU-FIN 320, Lecturer: iolaniyi@pau.edu.ng, Room: Umuahia",
-        "Course: PAU-FIN 319, Lecturer: oikejimba@pau.edu.ng, Room: Jos",
         "",
         "",
         ""
       ],
       [
+        "11:30",
+        "",
+        "",
+        "",
+        "",
+        "Course: FIN 317, Lecturer: oowolabi@pau.edu.ng, Room: Uyo"
+      ],
+      [
         "12:30",
         "BREAK",
-        "Course: PAU-FIN 314, Lecturer: sokon@pau.edu.ng, Room: Umuahia",
+        "Course: PAU-FIN 321, Lecturer: aonwudinjo@pau.edu.ng, Room: Abakaliki",
         "BREAK",
         "",
         "BREAK"
@@ -2030,33 +2030,33 @@
       [
         "13:30",
         "",
-        "Course: PAU-FIN 314, Lecturer: sokon@pau.edu.ng, Room: Umuahia",
+        "Course: PAU-FIN 321, Lecturer: aonwudinjo@pau.edu.ng, Room: Abakaliki",
         "",
-        "",
-        ""
+        "Course: PAU-FIN 314, Lecturer: sokon@pau.edu.ng, Room: Asaba",
+        "Course: PAU-FIN 319, Lecturer: oikejimba@pau.edu.ng, Room: Umuahia"
       ],
       [
         "14:30",
         "",
-        "",
-        "",
-        "",
+        "Course: PAU-FIN 319, Lecturer: oikejimba@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-FIN 320, Lecturer: iolaniyi@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: PAU-FIN 314, Lecturer: sokon@pau.edu.ng, Room: Asaba",
         ""
       ],
       [
         "15:30",
-        "Course: PAU-FIN 309, Lecturer: iunah@pau.edu.ng, Room: Lokoja",
-        "Course: FIN 317, Lecturer: oowolabi@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: FIN 317, Lecturer: oowolabi@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: FIN 316, Lecturer: pfine@pau.edu.ng, Room: Maiduguri",
+        "Course: FIN 317, Lecturer: oowolabi@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-FIN 319, Lecturer: oikejimba@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-FIN 320, Lecturer: iolaniyi@pau.edu.ng, Room: Art and Graphics Studio",
+        "",
         ""
       ],
       [
         "16:30",
-        "Course: PAU-FIN 309, Lecturer: iunah@pau.edu.ng, Room: Lokoja",
+        "Course: FIN 317, Lecturer: oowolabi@pau.edu.ng, Room: Jalingo",
         "",
-        "Course: FIN 317, Lecturer: oowolabi@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: FIN 316, Lecturer: pfine@pau.edu.ng, Room: Maiduguri",
+        "",
+        "",
         ""
       ],
       [
@@ -2079,62 +2079,54 @@
     "timetable": [
       [
         "08:30",
-        "Course: FIN 407, Lecturer: fikpesu@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: BUS 402, Lecturer: odakare@pau.edu.ng, Room: Jos",
+        "Course: FIN 406, Lecturer: iunah@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: FIN 409, Lecturer: ooluyombo@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "",
-        "Course: FIN 409, Lecturer: ooluyombo@pau.edu.ng, Room: Port-Harcourt"
+        "Course: FIN 410, Lecturer: pose1@pau.edu.ng, Room: Jalingo",
+        ""
       ],
       [
         "09:30",
-        "Course: FIN 407, Lecturer: fikpesu@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: BUS 402, Lecturer: odakare@pau.edu.ng, Room: Jos",
+        "Course: FIN 406, Lecturer: iunah@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
-        "Course: FIN 409, Lecturer: ooluyombo@pau.edu.ng, Room: Port-Harcourt"
+        "Course: FIN 408, Lecturer: oowolabi@pau.edu.ng, Room: Jalingo",
+        "Course: FIN 409, Lecturer: ooluyombo@pau.edu.ng, Room: Enugu",
+        ""
       ],
       [
         "10:30",
         "",
-        "Course: FIN 408, Lecturer: oowolabi@pau.edu.ng, Room: Newsroom",
         "",
-        "",
-        "Course: FIN 409, Lecturer: ooluyombo@pau.edu.ng, Room: Port-Harcourt"
+        "Course: FIN 408, Lecturer: oowolabi@pau.edu.ng, Room: Jalingo",
+        "Course: FIN 409, Lecturer: ooluyombo@pau.edu.ng, Room: Enugu",
+        "Course: BUS 402, Lecturer: odakare@pau.edu.ng, Room: Umuahia"
       ],
       [
         "11:30",
-        "Course: FIN 406, Lecturer: iunah@pau.edu.ng, Room: Uyo",
         "",
         "",
         "",
-        "Course: FIN 407, Lecturer: fikpesu@pau.edu.ng, Room: Maiduguri"
+        "",
+        "Course: BUS 402, Lecturer: odakare@pau.edu.ng, Room: Umuahia"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: BUS 402, Lecturer: odakare@pau.edu.ng, Room: Jos",
+        "Course: FIN 410, Lecturer: pose1@pau.edu.ng, Room: Asaba",
         "BREAK",
-        "Course: FIN 406, Lecturer: iunah@pau.edu.ng, Room: Uyo",
+        "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: FIN 408, Lecturer: oowolabi@pau.edu.ng, Room: Asaba",
+        "",
+        "Course: FIN 410, Lecturer: pose1@pau.edu.ng, Room: Asaba",
         "",
         "",
-        "Course: FIN 406, Lecturer: iunah@pau.edu.ng, Room: Uyo",
-        "Course: FIN 410, Lecturer: pose1@pau.edu.ng, Room: Ibadan"
+        "Course: FIN 408, Lecturer: oowolabi@pau.edu.ng, Room: Uyo"
       ],
       [
         "14:30",
-        "Course: FIN 408, Lecturer: oowolabi@pau.edu.ng, Room: Abakaliki",
-        "",
-        "",
-        "",
-        "Course: FIN 410, Lecturer: pose1@pau.edu.ng, Room: Jalingo"
-      ],
-      [
-        "15:30",
         "",
         "",
         "",
@@ -2142,12 +2134,20 @@
         ""
       ],
       [
+        "15:30",
+        "",
+        "",
+        "Course: FIN 407, Lecturer: fikpesu@pau.edu.ng, Room: Umuahia",
+        "",
+        "Course: FIN 407, Lecturer: fikpesu@pau.edu.ng, Room: Art and Graphics Studio"
+      ],
+      [
         "16:30",
         "",
         "",
-        "",
-        "",
-        "Course: FIN 410, Lecturer: pose1@pau.edu.ng, Room: Ibadan"
+        "Course: FIN 407, Lecturer: fikpesu@pau.edu.ng, Room: Umuahia",
+        "Course: BUS 402, Lecturer: odakare@pau.edu.ng, Room: Umuahia",
+        "Course: FIN 406, Lecturer: iunah@pau.edu.ng, Room: Oshogbo"
       ],
       [
         "17:30",
@@ -2169,34 +2169,34 @@
     "timetable": [
       [
         "08:30",
+        "Course: PAU-ECO 112, Lecturer: fikpesu@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: PAU-ECO 108, Lecturer: ooluyombo@pau.edu.ng, Room: Oshogbo",
-        "",
+        "Course: PAU-ECO 106, Lecturer: jujah@pau.edu.ng, Room: Maiduguri",
         "",
         ""
       ],
       [
         "09:30",
+        "Course: PAU-ECO 112, Lecturer: fikpesu@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: PAU-ECO 108, Lecturer: ooluyombo@pau.edu.ng, Room: Oshogbo",
-        "",
+        "Course: PAU-ECO 106, Lecturer: jujah@pau.edu.ng, Room: Maiduguri",
         "",
         ""
       ],
       [
         "10:30",
-        "Course: PAU-ECO 191, Lecturer: bisiekwe@pau.edu.ng, Room: Asaba",
         "",
         "",
         "",
+        "Course: PAU-ECO 110, Lecturer: rokolo@pau.edu.ng, Room: Zaria",
         ""
       ],
       [
         "11:30",
-        "Course: PAU-ECO 191, Lecturer: bisiekwe@pau.edu.ng, Room: Asaba",
         "",
         "",
         "",
+        "Course: PAU-ECO 110, Lecturer: rokolo@pau.edu.ng, Room: Zaria",
         ""
       ],
       [
@@ -2209,35 +2209,35 @@
       ],
       [
         "13:30",
+        "Course: PAU-ECO 191, Lecturer: bisiekwe@pau.edu.ng, Room: Zaria",
+        "Course: ECO 102, Lecturer: hagbonrofo@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
-        "",
-        "",
+        "Course: PAU-ECO 108, Lecturer: ooluyombo@pau.edu.ng, Room: Port-Harcourt",
         ""
       ],
       [
         "14:30",
-        "Course: PAU-ECO 112, Lecturer: fikpesu@pau.edu.ng, Room: Newsroom",
-        "Course: PAU-ECO 110, Lecturer: rokolo@pau.edu.ng, Room: Enugu",
+        "Course: PAU-ECO 191, Lecturer: bisiekwe@pau.edu.ng, Room: Zaria",
+        "Course: ECO 102, Lecturer: hagbonrofo@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-ECO 108, Lecturer: ooluyombo@pau.edu.ng, Room: Lokoja",
         "",
-        "Course: PAU-ECO 108, Lecturer: ooluyombo@pau.edu.ng, Room: Enugu",
         ""
       ],
       [
         "15:30",
-        "Course: PAU-ECO 112, Lecturer: fikpesu@pau.edu.ng, Room: Newsroom",
-        "Course: PAU-ECO 110, Lecturer: rokolo@pau.edu.ng, Room: Enugu",
-        "Course: ECO 104, Lecturer: snwani@pau.edu.ng, Room: Abeokuta",
-        "Course: ECO 102, Lecturer: hagbonrofo@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: PAU-ECO 106, Lecturer: jujah@pau.edu.ng, Room: Uyo"
+        "",
+        "",
+        "Course: PAU-ECO 108, Lecturer: ooluyombo@pau.edu.ng, Room: Lokoja",
+        "",
+        "Course: ECO 104, Lecturer: snwani@pau.edu.ng, Room: Umuahia"
       ],
       [
         "16:30",
         "",
         "",
-        "Course: ECO 104, Lecturer: snwani@pau.edu.ng, Room: Abeokuta",
-        "Course: ECO 102, Lecturer: hagbonrofo@pau.edu.ng, Room: Art and Graphics Studio",
-        "Course: PAU-ECO 106, Lecturer: jujah@pau.edu.ng, Room: Uyo"
+        "",
+        "",
+        "Course: ECO 104, Lecturer: snwani@pau.edu.ng, Room: Umuahia"
       ],
       [
         "17:30",
@@ -2259,35 +2259,35 @@
     "timetable": [
       [
         "08:30",
-        "Course: SSC 202, Lecturer: okposo@pau.edu.ng, Room: Port-Harcourt",
         "",
+        "Course: SSC 202, Lecturer: okposo@pau.edu.ng, Room: Oshogbo",
         "",
         "",
         ""
       ],
       [
         "09:30",
-        "Course: SSC 202, Lecturer: okposo@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        "Course: ECO 202, Lecturer: hagbonrofo@pau.edu.ng, Room: Ado-Ekiti",
         "",
         "",
-        "",
-        "Course: PAU-ECO 291, Lecturer: enzeaka@pau.edu.ng, Room: Oshogbo"
+        ""
       ],
       [
         "10:30",
+        "Course: SSC 202, Lecturer: okposo@pau.edu.ng, Room: Maiduguri",
+        "Course: ECO 202, Lecturer: hagbonrofo@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "Course: SSC 202, Lecturer: okposo@pau.edu.ng, Room: Uyo",
-        "",
-        "Course: ECO 206, Lecturer: snwani@pau.edu.ng, Room: Port-Harcourt",
-        "Course: PAU-ECO 291, Lecturer: enzeaka@pau.edu.ng, Room: Oshogbo"
+        "Course: ECO 206, Lecturer: snwani@pau.edu.ng, Room: Abeokuta",
+        "Course: PAU-ECO 208, Lecturer: eozegbe@pau.edu.ng, Room: Asaba"
       ],
       [
         "11:30",
+        "Course: SSC 202, Lecturer: okposo@pau.edu.ng, Room: Maiduguri",
         "",
         "",
-        "",
-        "Course: ECO 206, Lecturer: snwani@pau.edu.ng, Room: Port-Harcourt",
-        ""
+        "Course: ECO 206, Lecturer: snwani@pau.edu.ng, Room: Abeokuta",
+        "Course: PAU-ECO 208, Lecturer: eozegbe@pau.edu.ng, Room: Asaba"
       ],
       [
         "12:30",
@@ -2299,25 +2299,25 @@
       ],
       [
         "13:30",
+        "Course: ECO 204, Lecturer: pose1@pau.edu.ng, Room: Enugu",
         "",
         "",
-        "Course: ECO 202, Lecturer: hagbonrofo@pau.edu.ng, Room: Jalingo",
         "",
-        "Course: PAU-ECO 208, Lecturer: eozegbe@pau.edu.ng, Room: Newsroom"
+        ""
       ],
       [
         "14:30",
+        "Course: ECO 204, Lecturer: pose1@pau.edu.ng, Room: Enugu",
         "",
-        "Course: ECO 204, Lecturer: pose1@pau.edu.ng, Room: Abakaliki",
-        "Course: ECO 202, Lecturer: hagbonrofo@pau.edu.ng, Room: Jalingo",
         "",
-        "Course: PAU-ECO 208, Lecturer: eozegbe@pau.edu.ng, Room: Newsroom"
+        "",
+        ""
       ],
       [
         "15:30",
         "",
-        "Course: ECO 204, Lecturer: pose1@pau.edu.ng, Room: Abakaliki",
         "",
+        "Course: PAU-ECO 291, Lecturer: enzeaka@pau.edu.ng, Room: Newsroom",
         "",
         ""
       ],
@@ -2325,7 +2325,7 @@
         "16:30",
         "",
         "",
-        "",
+        "Course: PAU-ECO 291, Lecturer: enzeaka@pau.edu.ng, Room: Newsroom",
         "",
         ""
       ],
@@ -2349,75 +2349,75 @@
     "timetable": [
       [
         "08:30",
-        "Course: PAU-ECO 314, Lecturer: oikejimba@pau.edu.ng, Room: Umuahia",
         "",
-        "Course: ECO 310, Lecturer: eozegbe@pau.edu.ng, Room: Oshogbo",
-        "Course: PAU-ECO 320, Lecturer: aarije@pau.edu.ng, Room: Jos",
+        "",
+        "",
+        "",
         ""
       ],
       [
         "09:30",
-        "Course: PAU-ECO 314, Lecturer: oikejimba@pau.edu.ng, Room: Umuahia",
         "",
-        "Course: ECO 310, Lecturer: eozegbe@pau.edu.ng, Room: Oshogbo",
-        "Course: PAU-ECO 320, Lecturer: aarije@pau.edu.ng, Room: Jos",
+        "",
+        "",
+        "",
         ""
       ],
       [
         "10:30",
-        "Course: PAU-ECO 317, Lecturer: tomolokun@pau.ng.ng, Room: Art and Graphics Studio",
-        "",
-        "",
-        "",
-        "Course: PAU-ECO 392, Lecturer: aonaga@pau.edu.ng, Room: Ado-Ekiti"
+        "Course: ECO 304, Lecturer: doke@pau.edu.ng, Room: Enugu",
+        "Course: PAU-ECO 392, Lecturer: aonaga@pau.edu.ng, Room: Lokoja",
+        "Course: PAU-ECO 314, Lecturer: oikejimba@pau.edu.ng, Room: Enugu",
+        "Course: PAU-ECO 316, Lecturer: okposo@pau.edu.ng, Room: Newsroom",
+        "Course: PAU-ECO 318, Lecturer: eosuji@pau.edu.ng, Room: Jos"
       ],
       [
         "11:30",
-        "Course: PAU-ECO 317, Lecturer: tomolokun@pau.ng.ng, Room: Art and Graphics Studio",
-        "Course: ECO 305, Lecturer: eozegbe@pau.edu.ng, Room: Newsroom",
-        "",
-        "Course: PAU-ECO 316, Lecturer: okposo@pau.edu.ng, Room: Bauchi",
-        "Course: PAU-ECO 392, Lecturer: aonaga@pau.edu.ng, Room: Ado-Ekiti"
+        "Course: ECO 304, Lecturer: doke@pau.edu.ng, Room: Enugu",
+        "Course: PAU-ECO 392, Lecturer: aonaga@pau.edu.ng, Room: Lokoja",
+        "Course: PAU-ECO 314, Lecturer: oikejimba@pau.edu.ng, Room: Enugu",
+        "Course: PAU-ECO 316, Lecturer: okposo@pau.edu.ng, Room: Newsroom",
+        "Course: PAU-ECO 318, Lecturer: eosuji@pau.edu.ng, Room: Jos"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: ECO 305, Lecturer: eozegbe@pau.edu.ng, Room: Newsroom",
+        "Course: ECO 302, Lecturer: snwani@pau.edu.ng, Room: Port-Harcourt",
         "BREAK",
-        "Course: PAU-ECO 316, Lecturer: okposo@pau.edu.ng, Room: Bauchi",
+        "Course: PAU-ECO 320, Lecturer: aarije@pau.edu.ng, Room: Uyo",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: ECO 304, Lecturer: doke@pau.edu.ng, Room: Umuahia",
         "",
-        "",
-        "",
+        "Course: ECO 302, Lecturer: snwani@pau.edu.ng, Room: Port-Harcourt",
+        "Course: SSC 302, Lecturer: eolaniyi@pau.edu.ng, Room: Newsroom",
+        "Course: PAU-ECO 320, Lecturer: aarije@pau.edu.ng, Room: Uyo",
         ""
       ],
       [
         "14:30",
-        "Course: ECO 304, Lecturer: doke@pau.edu.ng, Room: Umuahia",
+        "Course: ECO 310, Lecturer: eozegbe@pau.edu.ng, Room: Asaba",
         "",
+        "Course: SSC 302, Lecturer: eolaniyi@pau.edu.ng, Room: Newsroom",
         "",
-        "",
-        "Course: PAU-ECO 318, Lecturer: eosuji@pau.edu.ng, Room: Maiduguri"
+        ""
       ],
       [
         "15:30",
-        "Course: ECO 302, Lecturer: snwani@pau.edu.ng, Room: Oshogbo",
+        "Course: ECO 310, Lecturer: eozegbe@pau.edu.ng, Room: Asaba",
+        "Course: ECO 305, Lecturer: eozegbe@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: SSC 302, Lecturer: eolaniyi@pau.edu.ng, Room: Abakaliki",
         "",
-        "Course: PAU-ECO 318, Lecturer: eosuji@pau.edu.ng, Room: Maiduguri"
+        "Course: PAU-ECO 317, Lecturer: tomolokun@pau.ng.ng, Room: Abeokuta"
       ],
       [
         "16:30",
-        "Course: ECO 302, Lecturer: snwani@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: SSC 302, Lecturer: eolaniyi@pau.edu.ng, Room: Abakaliki",
+        "Course: ECO 305, Lecturer: eozegbe@pau.edu.ng, Room: Newsroom",
         "",
-        ""
+        "",
+        "Course: PAU-ECO 317, Lecturer: tomolokun@pau.ng.ng, Room: Abeokuta"
       ],
       [
         "17:30",
@@ -2440,33 +2440,33 @@
       [
         "08:30",
         "",
-        "Course: ECO 428, Lecturer: eozegbe@pau.edu.ng, Room: Lokoja",
-        "",
-        "",
-        "Course: ECO 422, Lecturer: emesagan@pau.edu.ng, Room: Ibadan"
-      ],
-      [
-        "09:30",
-        "",
-        "Course: ECO 428, Lecturer: eozegbe@pau.edu.ng, Room: Lokoja",
+        "Course: BUS 301, Lecturer: jnmhamzenobe@pau.edu.ng, Room: Enugu",
         "",
         "",
         ""
       ],
       [
-        "10:30",
-        "Course: BUS 301, Lecturer: jnmhamzenobe@pau.edu.ng, Room: Maiduguri",
-        "Course: ECO 421, Lecturer: eolaniyi@pau.edu.ng, Room: Zaria",
+        "09:30",
+        "Course: ECO 428, Lecturer: eozegbe@pau.edu.ng, Room: Bauchi",
+        "Course: BUS 301, Lecturer: jnmhamzenobe@pau.edu.ng, Room: Enugu",
         "",
+        "Course: ECO 422, Lecturer: emesagan@pau.edu.ng, Room: Art and Graphics Studio",
+        ""
+      ],
+      [
+        "10:30",
+        "Course: ECO 428, Lecturer: eozegbe@pau.edu.ng, Room: Bauchi",
+        "",
+        "Course: BUS 301, Lecturer: jnmhamzenobe@pau.edu.ng, Room: Uyo",
         "",
         ""
       ],
       [
         "11:30",
-        "Course: BUS 301, Lecturer: jnmhamzenobe@pau.edu.ng, Room: Maiduguri",
         "",
         "",
-        "Course: ECO 421, Lecturer: eolaniyi@pau.edu.ng, Room: Maiduguri",
+        "",
+        "",
         ""
       ],
       [
@@ -2474,40 +2474,40 @@
         "BREAK",
         "",
         "BREAK",
-        "Course: ECO 421, Lecturer: eolaniyi@pau.edu.ng, Room: Maiduguri",
+        "",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: ECO 422, Lecturer: emesagan@pau.edu.ng, Room: Oshogbo",
         "",
-        "Course: ECO 427, Lecturer: nsolomon@pau.edu.ng, Room: Newsroom",
         "",
         "",
         ""
       ],
       [
         "14:30",
-        "Course: ECO 423, Lecturer: hagbonrofo@pau.edu.ng, Room: Zaria",
-        "Course: ECO 427, Lecturer: nsolomon@pau.edu.ng, Room: Newsroom",
+        "Course: ECO 422, Lecturer: emesagan@pau.edu.ng, Room: Oshogbo",
         "",
         "",
-        "Course: ECO 422, Lecturer: emesagan@pau.edu.ng, Room: Ibadan"
+        "Course: ECO 421, Lecturer: eolaniyi@pau.edu.ng, Room: Bauchi",
+        "Course: ECO 421, Lecturer: eolaniyi@pau.edu.ng, Room: Umuahia"
       ],
       [
         "15:30",
-        "Course: ECO 423, Lecturer: hagbonrofo@pau.edu.ng, Room: Zaria",
         "",
-        "Course: ECO 426, Lecturer: nsolomon@pau.edu.ng, Room: Lokoja",
-        "",
-        "Course: ECO 422, Lecturer: emesagan@pau.edu.ng, Room: Ibadan"
+        "Course: ECO 426, Lecturer: nsolomon@pau.edu.ng, Room: Jos",
+        "Course: ECO 423, Lecturer: hagbonrofo@pau.edu.ng, Room: Maiduguri",
+        "Course: ECO 421, Lecturer: eolaniyi@pau.edu.ng, Room: Bauchi",
+        "Course: ECO 427, Lecturer: nsolomon@pau.edu.ng, Room: Jos"
       ],
       [
         "16:30",
         "",
-        "Course: BUS 301, Lecturer: jnmhamzenobe@pau.edu.ng, Room: Lokoja",
-        "Course: ECO 426, Lecturer: nsolomon@pau.edu.ng, Room: Lokoja",
+        "Course: ECO 426, Lecturer: nsolomon@pau.edu.ng, Room: Jos",
+        "Course: ECO 423, Lecturer: hagbonrofo@pau.edu.ng, Room: Maiduguri",
         "",
-        ""
+        "Course: ECO 427, Lecturer: nsolomon@pau.edu.ng, Room: Jos"
       ],
       [
         "17:30",
@@ -2530,79 +2530,79 @@
       [
         "08:30",
         "",
-        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Uyo",
         "",
-        "Course: PAU-MCT 103, Lecturer: agreen@pau.edu.ng, Room: Classroom 2",
+        "",
+        "",
         ""
       ],
       [
         "09:30",
-        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Classroom 2",
-        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Uyo",
         "",
-        "Course: PAU-MCT 103, Lecturer: agreen@pau.edu.ng, Room: Classroom 2",
-        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Strength of Materials"
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Strength of Materials",
+        "Course: PAU-MCT 104, Lecturer: gdosunmu@pau.edu.ng, Room: Classroom 3",
+        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
+        ""
       ],
       [
         "10:30",
-        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Classroom 2",
-        "",
-        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 3",
-        "",
-        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Strength of Materials"
+        "Course: PAU-MCT 103, Lecturer: agreen@pau.edu.ng, Room: Classroom 4",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Strength of Materials",
+        "Course: PAU-MCT 104, Lecturer: gdosunmu@pau.edu.ng, Room: Classroom 3",
+        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
+        ""
       ],
       [
         "11:30",
+        "Course: PAU-MCT 103, Lecturer: agreen@pau.edu.ng, Room: Classroom 4",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Strength of Materials",
         "",
-        "",
-        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 3",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Umuahia",
-        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Strength of Materials"
+        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
+        ""
       ],
       [
         "12:30",
         "BREAK",
         "",
         "BREAK",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Umuahia",
+        "",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
+        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Strength of Materials",
         "",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Umuahia",
-        ""
+        "",
+        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "14:30",
         "",
-        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
+        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Strength of Materials",
         "",
-        "",
-        "Course: PAU-MCT 112, Lecturer: aoyelami@pau.edu.ng, Room: Zaria"
+        "Course: PAU-MCT 112, Lecturer: aoyelami@pau.edu.ng, Room: Uyo",
+        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "15:30",
+        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "",
-        "",
-        "",
-        "Course: PAU-MCT 112, Lecturer: aoyelami@pau.edu.ng, Room: Zaria"
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Strength of Materials",
+        "Course: PAU-MCT 112, Lecturer: aoyelami@pau.edu.ng, Room: Uyo",
+        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Engineering Drawing Studio"
       ],
       [
         "16:30",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Classroom 1",
-        "Course: PAU-MCT 104, Lecturer: gdosunmu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Port-Harcourt",
         "",
-        "",
-        "Course: PAU-MCT 112, Lecturer: aoyelami@pau.edu.ng, Room: Zaria"
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Strength of Materials",
+        "Course: PAU-MCT 112, Lecturer: aoyelami@pau.edu.ng, Room: Uyo",
+        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Engineering Drawing Studio"
       ],
       [
         "17:30",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Classroom 1",
-        "Course: PAU-MCT 104, Lecturer: gdosunmu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "",
+        "",
         "",
         "",
         ""
@@ -2619,74 +2619,74 @@
     "timetable": [
       [
         "08:30",
+        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Zaria",
         "",
         "",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Strength of Materials",
-        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Newsroom",
-        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Newsroom"
+        "",
+        ""
       ],
       [
         "09:30",
+        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Zaria",
         "",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Strength of Materials",
-        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Newsroom",
         ""
       ],
       [
         "10:30",
-        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Zaria",
-        "Course: PAU-MCE 204, Lecturer: ponu@pau.edu.ng, Room: Classroom 4",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Strength of Materials",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Abakaliki",
+        "",
+        "",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 5",
+        "",
         ""
       ],
       [
         "11:30",
-        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Zaria",
-        "Course: PAU-MCE 204, Lecturer: ponu@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Abakaliki",
+        "",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 5",
+        "",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Classroom 4",
+        "",
         "BREAK",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Abakaliki",
+        "",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Strength of Materials",
         "",
-        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Classroom 4",
+        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 2",
         "",
-        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Bauchi",
-        ""
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Enugu"
       ],
       [
         "14:30",
-        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Enugu",
-        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Classroom 4",
+        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Strength of Materials",
         "",
-        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Bauchi",
-        ""
+        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 2",
+        "",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Enugu"
       ],
       [
         "15:30",
-        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Enugu",
-        "",
-        "",
-        "",
-        ""
+        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Strength of Materials",
+        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Classroom 2",
+        "Course: PAU-MCE 204, Lecturer: ponu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 2",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Enugu"
       ],
       [
         "16:30",
-        "",
-        "",
-        "",
-        "",
+        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Strength of Materials",
+        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Classroom 2",
+        "Course: PAU-MCE 204, Lecturer: ponu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 2",
         ""
       ],
       [
@@ -2709,83 +2709,83 @@
     "timetable": [
       [
         "08:30",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Oshogbo",
+        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Maiduguri",
-        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Classroom 2",
-        "",
-        ""
+        "Course: PAU-MEE 104, Lecturer: gdosunmu@pau.edu.ng, Room: Classroom 1",
+        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 5"
       ],
       [
         "09:30",
         "",
-        "Course: PAU-MEE 104, Lecturer: gdosunmu@pau.edu.ng, Room: Umuahia",
-        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Classroom 2",
+        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Classroom 5",
         "",
-        ""
+        "Course: PAU-MEE 104, Lecturer: gdosunmu@pau.edu.ng, Room: Classroom 1",
+        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 5"
       ],
       [
         "10:30",
         "",
-        "Course: PAU-MEE 104, Lecturer: gdosunmu@pau.edu.ng, Room: Umuahia",
+        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Ibadan",
         "",
-        "",
+        "Course: PAU-MEE 103, Lecturer: agreen@pau.edu.ng, Room: Engineering Drawing Studio",
         ""
       ],
       [
         "11:30",
         "",
+        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Ibadan",
         "",
-        "",
-        "",
-        ""
+        "Course: PAU-MEE 103, Lecturer: agreen@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 2"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Asaba",
+        "",
         "BREAK",
-        "Course: PAU-MEE 103, Lecturer: agreen@pau.edu.ng, Room: Classroom 4",
+        "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: MTH 103, Lecturer: jaroloye@pau.edu.ng, Room: Asaba",
-        "Course: PAU-MEE 112, Lecturer: aoyelami@pau.edu.ng, Room: Zaria",
-        "Course: PAU-MEE 103, Lecturer: agreen@pau.edu.ng, Room: Classroom 4",
-        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Asaba"
+        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Engineering Drawing Studio",
+        "",
+        "",
+        "",
+        ""
       ],
       [
         "14:30",
-        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Zaria",
+        "Course: PAU-MEE 112, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: PAU-MEE 112, Lecturer: aoyelami@pau.edu.ng, Room: Zaria",
-        "",
-        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Asaba"
+        ""
       ],
       [
         "15:30",
         "",
-        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-MEE 112, Lecturer: aoyelami@pau.edu.ng, Room: Zaria",
-        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 3",
-        ""
+        "",
+        "Course: PAU-MEE 112, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 5",
+        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 2"
       ],
       [
         "16:30",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Oshogbo",
         "",
-        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Classroom 5",
-        "",
-        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 3",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 5"
+        "Course: PAU-MEE 112, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 5",
+        "Course: GET 102, Lecturer: patrick.onwordi@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 2"
       ],
       [
         "17:30",
         "",
         "",
         "",
-        "Course: CHM 108, Lecturer: eofor@pau.edu.ng, Room: Classroom 3",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 5"
+        "",
+        ""
       ]
     ]
   },
@@ -2800,39 +2800,39 @@
       [
         "08:30",
         "",
+        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Classroom 3",
         "",
-        "Course: GST212, Lecturer: ckezie@pau.edu.ng, Room: Zaria",
-        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Classroom 2",
         ""
       ],
       [
         "09:30",
         "",
+        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Classroom 3",
         "",
-        "Course: GST212, Lecturer: ckezie@pau.edu.ng, Room: Zaria",
-        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Maiduguri",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Asaba"
+        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Classroom 2",
+        ""
       ],
       [
         "10:30",
+        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Zaria",
+        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 1",
         "",
-        "",
-        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Lokoja",
-        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Abeokuta",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Ibadan"
+        "Course: GET 202, Lecturer: cabima@pau.edu.ng, Room: Classroom 2",
+        "Course: GST212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "11:30",
+        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Zaria",
+        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 1",
         "",
         "",
-        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Lokoja",
-        "",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Ibadan"
+        "Course: GST212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Maiduguri",
         "BREAK",
         "",
         "BREAK"
@@ -2840,24 +2840,24 @@
       [
         "13:30",
         "",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Maiduguri",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Bauchi",
         "",
-        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 4"
+        ""
       ],
       [
         "14:30",
         "",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Maiduguri",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Bauchi",
         "",
-        "Course: GET 208, Lecturer: rloto@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-MEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 4"
+        ""
       ],
       [
         "15:30",
         "",
         "",
-        "",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Bauchi",
         "",
         ""
       ],
@@ -2889,75 +2889,75 @@
     "timetable": [
       [
         "08:30",
+        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 1",
         "",
-        "Course: PAU-MEE 312, Lecturer: cabima@pau.edu.ng, Room: Engineering Drawing Studio",
-        "",
-        "",
+        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-MEE 322, Lecturer: jajiboye@pau.edu.ng, Room: Ibadan",
         ""
       ],
       [
         "09:30",
+        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 1",
         "",
-        "Course: PAU-MEE 312, Lecturer: cabima@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Jos",
+        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-MEE 322, Lecturer: jajiboye@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-MEE 310, Lecturer: gihenacho@pau.edu.ng, Room: Classroom 4"
+      ],
+      [
+        "10:30",
+        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 1",
+        "",
+        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Abakaliki",
+        "Course: MEE 306, Lecturer: sigwe@pau.edu.ng, Room: Port-Harcourt",
+        "Course: PAU-MEE 310, Lecturer: gihenacho@pau.edu.ng, Room: Classroom 4"
+      ],
+      [
+        "11:30",
+        "Course: MEE 306, Lecturer: sigwe@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        "",
         "",
         ""
       ],
       [
-        "10:30",
-        "",
-        "",
-        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Jos",
-        "Course: MEE 306, Lecturer: sigwe@pau.edu.ng, Room: Classroom 4",
-        "Course: PAU-MEE 310, Lecturer: gihenacho@pau.edu.ng, Room: Umuahia"
-      ],
-      [
-        "11:30",
-        "",
-        "",
-        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Classroom 5",
-        "Course: MEE 306, Lecturer: sigwe@pau.edu.ng, Room: Classroom 4",
-        "Course: PAU-MEE 310, Lecturer: gihenacho@pau.edu.ng, Room: Umuahia"
-      ],
-      [
         "12:30",
         "BREAK",
-        "Course: PAU-MEE 322, Lecturer: jajiboye@pau.edu.ng, Room: Bauchi",
+        "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 5",
         "BREAK",
-        "",
+        "Course: MEE 306, Lecturer: sigwe@pau.edu.ng, Room: Port-Harcourt",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Strength of Materials",
-        "Course: PAU-MEE 322, Lecturer: jajiboye@pau.edu.ng, Room: Bauchi",
-        "Course: MEE 306, Lecturer: sigwe@pau.edu.ng, Room: Classroom 4",
+        "Course: PAU-MEE 306, Lecturer: aonokwai@pau.edu.ng, Room: Classroom 3",
+        "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 5",
+        "",
         "",
         ""
       ],
       [
         "14:30",
-        "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Strength of Materials",
+        "Course: PAU-MEE 306, Lecturer: aonokwai@pau.edu.ng, Room: Classroom 3",
+        "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         ""
       ],
       [
         "15:30",
-        "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Strength of Materials",
         "",
-        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Art and Graphics Studio",
         "",
-        "Course: PAU-MEE 306, Lecturer: aonokwai@pau.edu.ng, Room: Lokoja"
+        "Course: PAU-MEE 312, Lecturer: cabima@pau.edu.ng, Room: Classroom 4",
+        "",
+        ""
       ],
       [
         "16:30",
         "",
         "",
-        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: PAU-MEE 312, Lecturer: cabima@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: PAU-MEE 306, Lecturer: aonokwai@pau.edu.ng, Room: Lokoja"
+        ""
       ],
       [
         "17:30",
@@ -2979,75 +2979,75 @@
     "timetable": [
       [
         "08:30",
+        "Course: PAU-MCE 423, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: MEE 402, Lecturer: gihenacho@pau.edu.ng, Room: Zaria",
-        "Course: PAU-MEE 402, Lecturer: dagholor@pau.edu.ng, Room: Engineering Drawing Studio",
+        "",
         "",
         ""
       ],
       [
         "09:30",
-        "Course: PAU-MCE 423, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 3",
-        "Course: MEE 402, Lecturer: gihenacho@pau.edu.ng, Room: Zaria",
-        "Course: PAU-MEE 402, Lecturer: dagholor@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PAU-MCE 423, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 5",
+        "Course: MEE 404, Lecturer: p.ose@pau.edu.ng, Room: Classroom 4",
+        "",
         "",
         ""
       ],
       [
         "10:30",
-        "Course: PAU-MCE 423, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 3",
         "",
-        "Course: PAU-MEE 402, Lecturer: dagholor@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: MEE 404, Lecturer: p.ose@pau.edu.ng, Room: Classroom 4",
         "",
-        ""
+        "",
+        "Course: PAU-MEE 404, Lecturer: cosueke@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "11:30",
-        "Course: PAU-MCE 423, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 3",
-        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Enugu",
         "",
+        "Course: PAU-MEE 402, Lecturer: dagholor@pau.edu.ng, Room: Umuahia",
+        "Course: PAU-MCE 423, Lecturer: banyaegbuna@pau.edu.ng, Room: Strength of Materials",
         "",
-        ""
+        "Course: PAU-MEE 404, Lecturer: cosueke@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Enugu",
+        "Course: PAU-MEE 402, Lecturer: dagholor@pau.edu.ng, Room: Umuahia",
         "BREAK",
-        "",
+        "Course: MEE 402, Lecturer: gihenacho@pau.edu.ng, Room: Abakaliki",
         "BREAK"
       ],
       [
         "13:30",
         "",
+        "Course: PAU-MEE 402, Lecturer: dagholor@pau.edu.ng, Room: Umuahia",
         "",
-        "",
-        "",
+        "Course: MEE 402, Lecturer: gihenacho@pau.edu.ng, Room: Abakaliki",
         ""
       ],
       [
         "14:30",
         "",
         "",
-        "",
-        "",
+        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Uyo",
+        "Course: GET 402, Lecturer: banyaegbuna@pau.edu.ng, Room: Enugu",
         ""
       ],
       [
         "15:30",
         "",
-        "Course: PAU-MEE 404, Lecturer: cosueke@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "Course: MEE 404, Lecturer: p.ose@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GET 402, Lecturer: banyaegbuna@pau.edu.ng, Room: Jalingo"
+        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Uyo",
+        "Course: GET 402, Lecturer: banyaegbuna@pau.edu.ng, Room: Enugu",
+        ""
       ],
       [
         "16:30",
         "",
-        "Course: PAU-MEE 404, Lecturer: cosueke@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: MEE 404, Lecturer: p.ose@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GET 402, Lecturer: banyaegbuna@pau.edu.ng, Room: Strength of Materials"
+        "",
+        "",
+        ""
       ],
       [
         "17:30",
@@ -3079,7 +3079,7 @@
         "09:30",
         "",
         "",
-        "",
+        "Course: PAU-MEE 510, Lecturer: uegbuchulam@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         ""
       ],
@@ -3087,53 +3087,53 @@
         "10:30",
         "",
         "",
+        "Course: PAU-MEE 510, Lecturer: uegbuchulam@pau.edu.ng, Room: Art and Graphics Studio",
         "",
-        "",
-        "Course: PAU-MEE 518, Lecturer: ponu@pau.edu.ng, Room: Abeokuta"
+        ""
       ],
       [
         "11:30",
         "",
         "",
+        "Course: PAU-MEE 510, Lecturer: uegbuchulam@pau.edu.ng, Room: Art and Graphics Studio",
         "",
-        "",
-        "Course: PAU-MEE 518, Lecturer: ponu@pau.edu.ng, Room: Abeokuta"
+        ""
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: GET 502, Lecturer: tvincent@pau.edu.ng, Room: Newsroom",
         "BREAK",
         "",
         "BREAK"
       ],
       [
         "13:30",
-        "",
-        "",
+        "Course: PAU-MEE 518, Lecturer: ponu@pau.edu.ng, Room: Jalingo",
+        "Course: GET 502, Lecturer: tvincent@pau.edu.ng, Room: Newsroom",
         "",
         "",
         ""
       ],
       [
         "14:30",
-        "Course: PAU-MEE 510, Lecturer: uegbuchulam@pau.edu.ng, Room: Classroom 2",
+        "Course: PAU-MEE 518, Lecturer: ponu@pau.edu.ng, Room: Jalingo",
         "",
-        "Course: GET 502, Lecturer: tvincent@pau.edu.ng, Room: Ado-Ekiti",
+        "",
         "",
         ""
       ],
       [
         "15:30",
-        "Course: PAU-MEE 510, Lecturer: uegbuchulam@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: GET 502, Lecturer: tvincent@pau.edu.ng, Room: Port-Harcourt",
+        "",
+        "",
         "",
         ""
       ],
       [
         "16:30",
-        "Course: PAU-MEE 510, Lecturer: uegbuchulam@pau.edu.ng, Room: Classroom 3",
+        "",
         "",
         "",
         "",
@@ -3160,74 +3160,74 @@
       [
         "08:30",
         "",
+        "Course: CHM 108, Lecturer: cifegwu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Strength of Materials",
         "",
-        "",
-        "",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 1"
+        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Strength of Materials"
       ],
       [
         "09:30",
         "",
-        "Course: PAU-EEE-104, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 3",
-        "",
-        "",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 1"
+        "Course: CHM 108, Lecturer: cifegwu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Strength of Materials",
+        "Course: PAU-EEE-104, Lecturer: oakintunde@pau.edu.ng, Room: Lokoja",
+        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Strength of Materials"
       ],
       [
         "10:30",
-        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-EEE-104, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 3",
         "",
-        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Classroom 3",
-        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Classroom 1"
+        "Course: CHM 108, Lecturer: cifegwu@pau.edu.ng, Room: Engineering Drawing Studio",
+        "",
+        "Course: PAU-EEE-104, Lecturer: oakintunde@pau.edu.ng, Room: Lokoja",
+        "Course: GET 102, Lecturer: ponwordi@pau.edu.ng, Room: Engineering Drawing Studio"
       ],
       [
         "11:30",
-        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 5",
         "",
         "",
-        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Classroom 3",
-        ""
+        "",
+        "",
+        "Course: GET 102, Lecturer: ponwordi@pau.edu.ng, Room: Engineering Drawing Studio"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: GET 102, Lecturer: ponwordi@pau.edu.ng, Room: Uyo",
+        "",
         "BREAK",
         "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: PAU-EEE-112, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 2",
-        "Course: GET 102, Lecturer: ponwordi@pau.edu.ng, Room: Uyo",
-        "Course: MTH 103, Lecturer: gokoacha@pau.edu.ng, Room: Oshogbo",
         "",
-        "Course: CHM 108, Lecturer: cifegwu@pau.edu.ng, Room: Strength of Materials"
+        "Course: PHY 108, Lecturer: oakintunde@pau.edu.ng, Room: Oshogbo",
+        "",
+        "",
+        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "14:30",
-        "Course: PAU-EEE-112, Lecturer: oavbenake@pau.edu.ng, Room: Oshogbo",
+        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 2",
+        "Course: PAU-EEE-112, Lecturer: oavbenake@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: MTH 103, Lecturer: gokoacha@pau.edu.ng, Room: Oshogbo",
-        "",
-        "Course: CHM 108, Lecturer: cifegwu@pau.edu.ng, Room: Strength of Materials"
+        "Course: PAU-EEE-103, Lecturer: gdosunmu@pau.edu.ng, Room: Maiduguri",
+        "Course: CHM 102, Lecturer: eofor@pau.edu.ng, Room: Abakaliki"
       ],
       [
         "15:30",
-        "Course: PAU-EEE-112, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 2",
+        "Course: MTH 102, Lecturer: aijezie@pau.edu.ng, Room: Classroom 2",
+        "Course: PAU-EEE-112, Lecturer: oavbenake@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Classroom 2",
-        "Course: PAU-EEE-103, Lecturer: gdosunmu@pau.edu.ng, Room: Strength of Materials",
-        "Course: CHM 108, Lecturer: cifegwu@pau.edu.ng, Room: Strength of Materials"
+        "Course: PAU-EEE-103, Lecturer: gdosunmu@pau.edu.ng, Room: Maiduguri",
+        "Course: MTH 103, Lecturer: gokoacha@pau.edu.ng, Room: Zaria"
       ],
       [
         "16:30",
         "",
+        "Course: PAU-EEE-112, Lecturer: oavbenake@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: GST 112, Lecturer: jeneji@pau.edu.ng, Room: Classroom 2",
-        "Course: PAU-EEE-103, Lecturer: gdosunmu@pau.edu.ng, Room: Strength of Materials",
-        ""
+        "",
+        "Course: MTH 103, Lecturer: gokoacha@pau.edu.ng, Room: Zaria"
       ],
       [
         "17:30",
@@ -3249,75 +3249,75 @@
     "timetable": [
       [
         "08:30",
-        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 5",
         "",
         "",
         "",
+        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Abakaliki",
         ""
       ],
       [
         "09:30",
-        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 5",
         "",
         "",
-        "Course: EEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 1",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Classroom 5"
+        "",
+        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Abakaliki",
+        ""
       ],
       [
         "10:30",
         "",
-        "Course: GET 299, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "Course: EEE 202, Lecturer: nedomah@pau.edu.ng, Room: Maiduguri",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Classroom 5"
+        "",
+        "Course: PAU-EEE 208, Lecturer: rloto@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Abeokuta"
       ],
       [
         "11:30",
         "",
-        "Course: GET 299, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "Course: EEE 202, Lecturer: nedomah@pau.edu.ng, Room: Classroom 1",
-        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Classroom 5"
+        "",
+        "Course: PAU-EEE 208, Lecturer: rloto@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Abeokuta"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: GET 299, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio",
-        "BREAK",
         "",
+        "BREAK",
+        "Course: PAU-EEE 208, Lecturer: rloto@pau.edu.ng, Room: Art and Graphics Studio",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Oshogbo",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Enugu",
-        "Course: PAU-EEE 208, Lecturer: rloto@pau.edu.ng, Room: Bauchi",
         "",
-        "Course: EEE 204, Lecturer: dokojie@pau.edu.ng, Room: Classroom 3"
+        "",
+        "",
+        "Course: EEE 204, Lecturer: dokojie@pau.edu.ng, Room: Oshogbo",
+        ""
       ],
       [
         "14:30",
-        "Course: GET 204, Lecturer: jajiboye@pau.edu.ng, Room: Lokoja",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Lokoja",
-        "Course: PAU-EEE 208, Lecturer: rloto@pau.edu.ng, Room: Bauchi",
-        "",
-        "Course: EEE 204, Lecturer: dokojie@pau.edu.ng, Room: Classroom 3"
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 1",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 299, Lecturer: careers@pau.edu.ng, Room: Abakaliki",
+        "Course: EEE 204, Lecturer: dokojie@pau.edu.ng, Room: Oshogbo",
+        "Course: EEE 202, Lecturer: nedomah@pau.edu.ng, Room: Strength of Materials"
       ],
       [
         "15:30",
-        "",
-        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Lokoja",
-        "Course: PAU-EEE 208, Lecturer: rloto@pau.edu.ng, Room: Bauchi",
-        "",
-        "Course: EEE 204, Lecturer: dokojie@pau.edu.ng, Room: Classroom 3"
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 1",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 299, Lecturer: careers@pau.edu.ng, Room: Abakaliki",
+        "Course: EEE 204, Lecturer: dokojie@pau.edu.ng, Room: Oshogbo",
+        "Course: EEE 202, Lecturer: nedomah@pau.edu.ng, Room: Strength of Materials"
       ],
       [
         "16:30",
+        "Course: GET 210, Lecturer: aoyelami@pau.edu.ng, Room: Classroom 1",
+        "Course: GET 206, Lecturer: aonokwai@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: GET 299, Lecturer: careers@pau.edu.ng, Room: Abakaliki",
         "",
-        "",
-        "",
-        "",
-        ""
+        "Course: EEE 202, Lecturer: nedomah@pau.edu.ng, Room: Strength of Materials"
       ],
       [
         "17:30",
@@ -3340,81 +3340,81 @@
       [
         "08:30",
         "",
-        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Classroom 2",
-        "Course: EEE 326, Lecturer: oomeje@pau.edu.ng, Room: Classroom 5",
         "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Bauchi",
-        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Classroom 4",
+        "",
+        ""
       ],
       [
         "09:30",
-        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Strength of Materials",
-        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Classroom 2",
-        "Course: EEE 326, Lecturer: oomeje@pau.edu.ng, Room: Classroom 5",
+        "",
         "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Bauchi",
-        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Classroom 4",
+        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 3",
+        ""
       ],
       [
         "10:30",
-        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Strength of Materials",
-        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Classroom 2",
-        "",
+        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Strength of Materials",
         "Course: GET 304, Lecturer: banyaegbuna@pau.edu.ng, Room: Bauchi",
-        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: EEE 326, Lecturer: oomeje@pau.edu.ng, Room: Jos",
+        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 3",
+        ""
       ],
       [
         "11:30",
-        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Strength of Materials",
-        "Course: PAU-EEE 308, Lecturer: jbandele@pau.edu.ng, Room: Classroom 2",
         "",
-        "",
-        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: PAU-EEE 312, Lecturer: jbandele@pau.edu.ng, Room: Art and Graphics Studio",
+        "Course: EEE 326, Lecturer: oomeje@pau.edu.ng, Room: Jos",
+        "Course: GET 302, Lecturer: oavbenake@pau.edu.ng, Room: Classroom 3",
+        ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: PAU-EEE 308, Lecturer: jbandele@pau.edu.ng, Room: Classroom 2",
+        "Course: PAU-EEE 312, Lecturer: jbandele@pau.edu.ng, Room: Art and Graphics Studio",
         "BREAK",
         "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: PAU-EEE 310, Lecturer: nedomah@pau.edu.ng, Room: Jos",
         "",
         "",
         "",
-        "Course: PAU-EEE 312, Lecturer: jbandele@pau.edu.ng, Room: Ado-Ekiti"
+        "Course: PAU-EEE 310, Lecturer: nedomah@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-EEE 308, Lecturer: jbandele@pau.edu.ng, Room: Jalingo"
       ],
       [
         "14:30",
-        "Course: PAU-EEE 310, Lecturer: nedomah@pau.edu.ng, Room: Jos",
+        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Bauchi",
         "",
         "",
-        "Course: EEE 322, Lecturer: dokojie@pau.edu.ng, Room: Classroom 4",
-        "Course: PAU-EEE 312, Lecturer: jbandele@pau.edu.ng, Room: Ado-Ekiti"
+        "Course: PAU-EEE 310, Lecturer: nedomah@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-EEE 308, Lecturer: jbandele@pau.edu.ng, Room: Jalingo"
       ],
       [
         "15:30",
+        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Bauchi",
         "",
+        "Course: EEE 322, Lecturer: dokojie@pau.edu.ng, Room: Classroom 3",
         "",
-        "",
-        "Course: EEE 322, Lecturer: dokojie@pau.edu.ng, Room: Classroom 4",
-        ""
+        "Course: EEE 324, Lecturer: oomeje@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "16:30",
+        "Course: GET 307, Lecturer: amakinde@pau.edu.ng, Room: Bauchi",
+        "Course: GET 399, Lecturer: careers@pau.edu.ng, Room: Classroom 5",
+        "Course: EEE 322, Lecturer: dokojie@pau.edu.ng, Room: Classroom 3",
         "",
-        "",
-        "",
-        "Course: EEE 324, Lecturer: oomeje@pau.edu.ng, Room: Classroom 1",
-        ""
+        "Course: EEE 324, Lecturer: oomeje@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "17:30",
         "",
         "",
         "",
-        "Course: EEE 324, Lecturer: oomeje@pau.edu.ng, Room: Classroom 1",
+        "",
         ""
       ]
     ]
@@ -3432,37 +3432,37 @@
         "",
         "",
         "",
-        "Course: PAU-EEE 413, Lecturer: dagholor@pau.edu.ng, Room: Classroom 3",
-        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Art and Graphics Studio"
+        "",
+        ""
       ],
       [
         "09:30",
         "",
         "",
         "",
-        "Course: PAU-EEE 413, Lecturer: dagholor@pau.edu.ng, Room: Classroom 3",
-        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Art and Graphics Studio"
+        "",
+        "Course: GET 402, Lecturer: nedomah@pau.edu.ng, Room: Classroom 2"
       ],
       [
         "10:30",
         "",
         "",
+        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Newsroom",
         "",
-        "",
-        ""
+        "Course: GET 402, Lecturer: nedomah@pau.edu.ng, Room: Classroom 2"
       ],
       [
         "11:30",
         "",
-        "Course: GET 402, Lecturer: nedomah@pau.edu.ng, Room: Classroom 5",
         "",
+        "Course: GET 404, Lecturer: aowolabi@lbs.edu.ng, Room: Newsroom",
         "",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: GET 402, Lecturer: nedomah@pau.edu.ng, Room: Classroom 5",
+        "",
         "BREAK",
         "",
         "BREAK"
@@ -3485,18 +3485,18 @@
       ],
       [
         "15:30",
-        "Course: PAU-EEE 402, Lecturer: nedomah@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
+        "Course: PAU-EEE 402, Lecturer: nedomah@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
+        "Course: PAU-EEE 413, Lecturer: dagholor@pau.edu.ng, Room: Asaba",
         ""
       ],
       [
         "16:30",
-        "Course: PAU-EEE 402, Lecturer: nedomah@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
+        "Course: PAU-EEE 402, Lecturer: nedomah@pau.edu.ng, Room: Ado-Ekiti",
         "",
-        "",
+        "Course: PAU-EEE 413, Lecturer: dagholor@pau.edu.ng, Room: Asaba",
         ""
       ],
       [
@@ -3520,32 +3520,32 @@
       [
         "08:30",
         "",
+        "Course: PAU-EEE 514, Lecturer: madelabu@pau.edu.ng, Room: Umuahia",
         "",
-        "Course: PAU-EEE 510, Lecturer: banyaegbuna@pau.edu.ng, Room: Enugu",
         "",
-        "Course: PAU-EEE 506, Lecturer: p.ose@pau.edu.ng, Room: Abeokuta"
+        "Course: PAU-EEE 510, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "09:30",
         "",
+        "Course: PAU-EEE 514, Lecturer: madelabu@pau.edu.ng, Room: Umuahia",
         "",
-        "Course: PAU-EEE 510, Lecturer: banyaegbuna@pau.edu.ng, Room: Enugu",
-        "Course: PAU-EEE 514, Lecturer: madelabu@pau.edu.ng, Room: Ado-Ekiti",
-        "Course: PAU-EEE 506, Lecturer: p.ose@pau.edu.ng, Room: Abeokuta"
+        "Course: PAU-EEE 512, Lecturer: eusen@pau.edu.ng, Room: Oshogbo",
+        "Course: PAU-EEE 510, Lecturer: banyaegbuna@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "10:30",
         "",
         "",
-        "",
-        "Course: PAU-EEE 514, Lecturer: madelabu@pau.edu.ng, Room: Ado-Ekiti",
+        "Course: PAU-EEE 506, Lecturer: p.ose@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PAU-EEE 512, Lecturer: eusen@pau.edu.ng, Room: Oshogbo",
         ""
       ],
       [
         "11:30",
         "",
         "",
-        "",
+        "Course: PAU-EEE 506, Lecturer: p.ose@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
         ""
       ],
@@ -3559,7 +3559,7 @@
       ],
       [
         "13:30",
-        "Course: PAU-EEE 512, Lecturer: eusen@pau.edu.ng, Room: Classroom 5",
+        "",
         "",
         "",
         "",
@@ -3567,7 +3567,7 @@
       ],
       [
         "14:30",
-        "Course: PAU-EEE 512, Lecturer: eusen@pau.edu.ng, Room: Classroom 5",
+        "",
         "",
         "",
         "",
@@ -3575,19 +3575,19 @@
       ],
       [
         "15:30",
+        "Course: GET 502, Lecturer: p.ose@pau.edu.ng, Room: Classroom 3",
         "",
         "",
         "",
-        "",
-        "Course: GET 502, Lecturer: p.ose@pau.edu.ng, Room: Classroom 4"
+        ""
       ],
       [
         "16:30",
+        "Course: GET 502, Lecturer: p.ose@pau.edu.ng, Room: Classroom 3",
         "",
         "",
         "",
-        "",
-        "Course: GET 502, Lecturer: p.ose@pau.edu.ng, Room: Classroom 3"
+        ""
       ],
       [
         "17:30",
@@ -3609,33 +3609,33 @@
     "timetable": [
       [
         "08:30",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 3",
         "",
+        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "",
-        "",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Enugu"
+        ""
       ],
       [
         "09:30",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 3",
         "",
-        "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
-        "",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Newsroom"
+        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Classroom 4",
+        ""
       ],
       [
         "10:30",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 3",
         "",
-        "",
-        "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Newsroom"
+        "Course: GST 111, Lecturer: uokoro@pau.edu.ng, Room: Classroom 4",
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Classroom 4",
+        ""
       ],
       [
         "11:30",
         "",
         "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
+        "Course: GST 111, Lecturer: uokoro@pau.edu.ng, Room: Classroom 4",
         "",
         ""
       ],
@@ -3649,32 +3649,32 @@
       ],
       [
         "13:30",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Classroom 3",
-        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 3",
-        "Course: GST 111, Lecturer: uokoro@pau.edu.ng, Room: Classroom 1",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Abakaliki",
-        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Art and Graphics Studio",
+        "",
+        "",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Oshogbo"
       ],
       [
         "14:30",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Classroom 3",
-        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 3",
-        "Course: GST 111, Lecturer: uokoro@pau.edu.ng, Room: Classroom 1",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Abakaliki",
-        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Art and Graphics Studio",
+        "",
+        "",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Oshogbo"
       ],
       [
         "15:30",
-        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Classroom 3",
         "",
+        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Enugu",
         "",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Abakaliki",
-        ""
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Oshogbo"
       ],
       [
         "16:30",
-        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Strength of Materials",
         "",
+        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Enugu",
         "",
         "",
         ""
@@ -3699,32 +3699,32 @@
     "timetable": [
       [
         "08:30",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Uyo",
-        "Course: PAU-CSC 293, Lecturer: oekechi@pau.edu.ng, Room: Port-Harcourt",
+        "Course: GST 212, Lecturer: ose1@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 4"
+        "",
+        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Ado-Ekiti",
+        ""
       ],
       [
         "09:30",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Uyo",
-        "Course: PAU-CSC 293, Lecturer: oekechi@pau.edu.ng, Room: Port-Harcourt",
+        "Course: GST 212, Lecturer: ose1@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 4"
+        "",
+        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Ado-Ekiti",
+        ""
       ],
       [
         "10:30",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Uyo",
+        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Lokoja",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Jos",
         "",
         "",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Classroom 5",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 4"
+        ""
       ],
       [
         "11:30",
-        "",
-        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 1",
+        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Lokoja",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Jos",
         "",
         "",
         ""
@@ -3732,50 +3732,50 @@
       [
         "12:30",
         "BREAK",
-        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 1",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Jos",
         "BREAK",
-        "",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Engineering Drawing Studio",
         "BREAK"
       ],
       [
         "13:30",
         "",
         "",
-        "",
-        "",
+        "Course: PAU-CSC 293, Lecturer: oekechi@pau.edu.ng, Room: Classroom 1",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Engineering Drawing Studio",
         ""
       ],
       [
         "14:30",
         "",
         "",
-        "",
-        "",
-        ""
+        "Course: PAU-CSC 293, Lecturer: oekechi@pau.edu.ng, Room: Classroom 1",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "15:30",
         "",
         "",
-        "Course: GST 212, Lecturer: ose1@pau.edu.ng, Room: Classroom 3",
         "",
-        ""
+        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Lokoja",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "16:30",
-        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Zaria",
         "",
-        "Course: GST 212, Lecturer: ose1@pau.edu.ng, Room: Bauchi",
         "",
-        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 2"
+        "",
+        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Lokoja",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 3"
       ],
       [
         "17:30",
-        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Zaria",
         "",
         "",
         "",
-        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 2"
+        "",
+        ""
       ]
     ]
   },
@@ -3790,25 +3790,25 @@
       [
         "08:30",
         "",
-        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 4",
         "",
         "",
-        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Classroom 3"
+        "",
+        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Jos"
       ],
       [
         "09:30",
         "",
-        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         "",
-        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Classroom 3"
+        "",
+        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Jos"
       ],
       [
         "10:30",
         "",
         "",
         "",
-        "",
+        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 1",
         ""
       ],
       [
@@ -3816,7 +3816,7 @@
         "",
         "",
         "",
-        "",
+        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 1",
         ""
       ],
       [
@@ -3824,46 +3824,46 @@
         "BREAK",
         "",
         "BREAK",
-        "",
+        "Course: GST 212, Lecturer: ose@pau.edu.ng, Room: Newsroom",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 5",
         "",
-        "Course: PAU-CSC 293, Lecturer: roji@pau.edu.ng, Room: Strength of Materials",
-        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 2",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Port-Harcourt",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Oshogbo"
+        "Course: PAU-CSC 293, Lecturer: roji@pau.edu.ng, Room: Jos",
+        "Course: GST 212, Lecturer: ose@pau.edu.ng, Room: Newsroom",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Newsroom"
       ],
       [
         "14:30",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 5",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 293, Lecturer: roji@pau.edu.ng, Room: Jos",
         "",
-        "Course: PAU-CSC 293, Lecturer: roji@pau.edu.ng, Room: Strength of Materials",
-        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 2",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Port-Harcourt",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Oshogbo"
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Newsroom"
       ],
       [
         "15:30",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Asaba",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 5",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Classroom 1",
         "",
-        "",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Port-Harcourt",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Oshogbo"
+        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 3",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Newsroom"
       ],
       [
         "16:30",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Asaba",
         "",
-        "Course: GST 212, Lecturer: ose@pau.edu.ng, Room: Classroom 1",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Classroom 1",
         "",
+        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 3",
         ""
       ],
       [
         "17:30",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Asaba",
         "",
-        "Course: GST 212, Lecturer: ose@pau.edu.ng, Room: Classroom 1",
+        "",
+        "",
         "",
         ""
       ]
@@ -3881,73 +3881,73 @@
         "08:30",
         "",
         "",
-        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: ENT 312, Lecturer: joy@pau.edu.ng, Room: Classroom 2"
+        "",
+        ""
       ],
       [
         "09:30",
+        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
         "",
         "",
-        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Newsroom",
         "",
-        "Course: ENT 312, Lecturer: joy@pau.edu.ng, Room: Classroom 2"
+        ""
       ],
       [
         "10:30",
+        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
+        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 3",
+        "Course: ENT 312, Lecturer: joy@pau.edu.ng, Room: Classroom 2",
         "",
-        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Oshogbo",
-        "",
-        "",
-        ""
+        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "11:30",
+        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
+        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 3",
+        "Course: ENT 312, Lecturer: joy@pau.edu.ng, Room: Classroom 2",
         "",
-        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Strength of Materials",
-        "",
-        "",
-        ""
+        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Maiduguri"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Strength of Materials",
-        "BREAK",
         "",
+        "BREAK",
+        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
+        "",
+        "",
+        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
+        "Course: GST 302, Lecturer: aonwudinjo@pau.edu.ng, Room: Lokoja"
+      ],
+      [
+        "14:30",
+        "",
+        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Engineering Drawing Studio",
+        "",
+        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
+        "Course: GST 302, Lecturer: aonwudinjo@pau.edu.ng, Room: Lokoja"
+      ],
+      [
+        "15:30",
+        "",
+        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
         "",
         ""
       ],
       [
-        "14:30",
-        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Classroom 4",
-        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
-        "",
-        "Course: GST 302, Lecturer: aonwudinjo@pau.edu.ng, Room: Jalingo",
-        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Bauchi"
-      ],
-      [
-        "15:30",
-        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Classroom 4",
-        "",
-        "",
-        "Course: GST 302, Lecturer: aonwudinjo@pau.edu.ng, Room: Jalingo",
-        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Bauchi"
-      ],
-      [
         "16:30",
-        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Classroom 4",
+        "",
+        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
         "",
-        "",
-        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Bauchi"
+        ""
       ],
       [
         "17:30",
@@ -3969,75 +3969,75 @@
     "timetable": [
       [
         "08:30",
+        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Strength of Materials",
         "",
         "",
         "",
-        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Strength of Materials",
         ""
       ],
       [
         "09:30",
-        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Oshogbo",
+        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Strength of Materials",
         "",
+        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
         "",
-        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Strength of Materials",
         ""
       ],
       [
         "10:30",
-        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Oshogbo",
         "",
         "",
-        "",
+        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
         ""
       ],
       [
         "11:30",
-        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Oshogbo",
         "",
         "",
-        "",
+        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: CSC 401, Lecturer: aogbuchi@pau.edu.ng, Room: Classroom 1",
         "BREAK",
-        "",
+        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
         "BREAK"
       ],
       [
         "13:30",
         "",
+        "Course: CSC 401, Lecturer: aogbuchi@pau.edu.ng, Room: Classroom 1",
         "",
         "",
-        "",
-        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 5"
+        ""
       ],
       [
         "14:30",
         "",
-        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Uyo",
         "",
         "",
-        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 5"
+        "",
+        ""
       ],
       [
         "15:30",
         "",
-        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Uyo",
-        "Course: CSC 401, Lecturer: aogbuchi@pau.edu.ng, Room: Newsroom",
         "",
-        ""
+        "",
+        "",
+        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "16:30",
         "",
-        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Uyo",
-        "Course: CSC 401, Lecturer: aogbuchi@pau.edu.ng, Room: Newsroom",
         "",
-        ""
+        "",
+        "",
+        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "17:30",
@@ -4060,74 +4060,74 @@
       [
         "08:30",
         "",
-        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Asaba",
         "",
+        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 2",
         "",
-        ""
+        "Course: CSC 401, Lecturer: ose1@pau.edu.ng, Room: Jalingo"
       ],
       [
         "09:30",
         "",
-        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Asaba",
         "",
+        "Course: PAU-CSC 411, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 2",
         "",
-        ""
+        "Course: CSC 401, Lecturer: ose1@pau.edu.ng, Room: Jalingo"
       ],
       [
         "10:30",
         "",
         "",
         "",
-        "",
+        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Jos",
         ""
       ],
       [
         "11:30",
         "",
-        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Ibadan",
         "",
         "",
+        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Jos",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Engineering Drawing Studio",
         "BREAK",
-        "Course: CSC 498, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Jos",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Classroom 1",
-        "Course: PAU-CSC 417, Lecturer: jiloekwe@pau.edu.ng, Room: Ibadan",
+        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Abakaliki",
+        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "Course: CSC 498, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
+        "",
         ""
       ],
       [
         "14:30",
-        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Abakaliki",
         "",
         "",
-        "Course: CSC 498, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
-        "Course: CSC 401, Lecturer: ose1@pau.edu.ng, Room: Classroom 2"
+        "",
+        "Course: CSC 498, Lecturer: jiloekwe@pau.edu.ng, Room: Bauchi"
       ],
       [
         "15:30",
-        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 416, Lecturer: dmoru@pau.edu.ng, Room: Abakaliki",
         "",
-        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: CSC 401, Lecturer: ose1@pau.edu.ng, Room: Classroom 2"
+        "",
+        "Course: CSC 498, Lecturer: jiloekwe@pau.edu.ng, Room: Bauchi"
       ],
       [
         "16:30",
         "",
         "",
-        "Course: PAU-CSC 413, Lecturer: oIheanetu@pau.edu.ng, Room: Classroom 4",
         "",
-        ""
+        "",
+        "Course: CSC 498, Lecturer: jiloekwe@pau.edu.ng, Room: Bauchi"
       ],
       [
         "17:30",
@@ -4151,73 +4151,73 @@
         "08:30",
         "",
         "",
-        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Classroom 3",
         "",
-        ""
+        "Course: GST 111, Lecturer: roji@pau.edu.ng, Room: Strength of Materials",
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Lokoja"
       ],
       [
         "09:30",
         "",
-        "Course: GST 111, Lecturer: roji@pau.edu.ng, Room: Ibadan",
-        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Classroom 3",
         "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Ado-Ekiti"
+        "",
+        "Course: GST 111, Lecturer: roji@pau.edu.ng, Room: Strength of Materials",
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Lokoja"
       ],
       [
         "10:30",
         "",
-        "Course: GST 111, Lecturer: roji@pau.edu.ng, Room: Ibadan",
         "",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
-        ""
+        "",
+        "",
+        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 5"
       ],
       [
         "11:30",
         "",
-        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Zaria",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
-        ""
+        "",
+        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 5"
       ],
       [
         "12:30",
         "BREAK",
-        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Zaria",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Classroom 4",
         "BREAK",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Strength of Materials",
+        "",
         "BREAK"
       ],
       [
         "13:30",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Abeokuta",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 2",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Engineering Drawing Studio",
-        "",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Jos",
         ""
       ],
       [
         "14:30",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Abeokuta",
         "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
+        "",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Jos",
         ""
       ],
       [
         "15:30",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Abeokuta",
-        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Jos",
+        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Jalingo"
       ],
       [
         "16:30",
+        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1",
         "",
-        "",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Engineering Drawing Studio"
+        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Jalingo"
       ],
       [
         "17:30",
@@ -4241,30 +4241,30 @@
         "08:30",
         "",
         "",
-        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Ado-Ekiti",
-        "",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Oshogbo",
+        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Zaria",
         ""
       ],
       [
         "09:30",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 5",
-        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Ado-Ekiti",
         "",
+        "",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Oshogbo",
+        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Zaria",
         ""
       ],
       [
         "10:30",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Classroom 5",
         "",
+        "Course: PAU-CSC 293, Lecturer: enzeaka@pau.edu.ng, Room: Uyo",
+        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Oshogbo",
         "",
         ""
       ],
       [
         "11:30",
-        "Course: INS204, Lecturer: foliha@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
+        "Course: PAU-CSC 293, Lecturer: enzeaka@pau.edu.ng, Room: Uyo",
         "",
         "",
         ""
@@ -4274,40 +4274,40 @@
         "BREAK",
         "",
         "BREAK",
-        "Course: PAU-CSC 293, Lecturer: enzeaka@pau.edu.ng, Room: Classroom 2",
+        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 1",
         "BREAK"
       ],
       [
         "13:30",
+        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Jos",
         "",
         "",
-        "",
-        "Course: PAU-CSC 293, Lecturer: enzeaka@pau.edu.ng, Room: Classroom 2",
+        "Course: MTH 202, Lecturer: jehigie@pau.edu.ng, Room: Classroom 1",
         ""
       ],
       [
         "14:30",
+        "Course: GST 212, Lecturer: ckezie@pau.edu.ng, Room: Jos",
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 4",
         "",
-        "",
-        "",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Lokoja",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Umuahia"
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Classroom 5",
+        ""
       ],
       [
         "15:30",
         "",
-        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Strength of Materials",
-        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Strength of Materials",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Lokoja",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Umuahia"
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 4",
+        "",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Classroom 5",
+        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 4"
       ],
       [
         "16:30",
         "",
-        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Strength of Materials",
-        "Course: PAU-CSC 214, Lecturer: segunjobi@pau.edu.ng, Room: Strength of Materials",
-        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Lokoja",
-        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Umuahia"
+        "Course: PAU-CSC 212, Lecturer: kkolade@pau.edu.ng, Room: Classroom 4",
+        "",
+        "Course: COS 202, Lecturer: fenemou@pau.edu.ng, Room: Classroom 5",
+        "Course: IFT 212, Lecturer: sakinboro@pau.edu.ng, Room: Classroom 4"
       ],
       [
         "17:30",
@@ -4337,65 +4337,65 @@
       ],
       [
         "09:30",
-        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
         "",
+        "Course: ENT 312, Lecturer: ose1@pau.edu.ng, Room: Classroom 2",
         "",
         "",
         ""
       ],
       [
         "10:30",
-        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
+        "",
+        "Course: ENT 312, Lecturer: ose1@pau.edu.ng, Room: Classroom 2",
         "",
         "",
-        "",
-        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 3"
+        ""
       ],
       [
         "11:30",
-        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
-        "Course: ENT 312, Lecturer: ose1@pau.edu.ng, Room: Classroom 3",
         "",
+        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
         "",
-        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 3"
+        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 2",
+        ""
       ],
       [
         "12:30",
         "BREAK",
-        "Course: ENT 312, Lecturer: ose1@pau.edu.ng, Room: Classroom 3",
+        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
         "BREAK",
-        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Ibadan",
+        "Course: CSC 313, Lecturer: tamaoo@pau.edu.ng, Room: Classroom 2",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: GST 302, Lecturer: ose@pau.edu.ng, Room: Zaria",
+        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Classroom 2",
         "",
-        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Ibadan",
-        ""
+        "",
+        "Course: GST 302, Lecturer: ose@pau.edu.ng, Room: Ado-Ekiti"
       ],
       [
         "14:30",
+        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
         "",
-        "Course: GST 302, Lecturer: ose@pau.edu.ng, Room: Zaria",
-        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Lokoja",
-        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Ibadan",
-        ""
+        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Jalingo",
+        "",
+        "Course: GST 302, Lecturer: ose@pau.edu.ng, Room: Ado-Ekiti"
       ],
       [
         "15:30",
-        "",
-        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Newsroom",
-        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
+        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Classroom 3",
+        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Jalingo",
         "",
         ""
       ],
       [
         "16:30",
-        "",
-        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Newsroom",
-        "Course: ICT 305, Lecturer: salile@pau.edu.ng, Room: Jalingo",
+        "Course: PAU-CSC 310, Lecturer: chukwudi.ofoma@pau.edu.ng, Room: Classroom 4",
+        "Course: CSC 309, Lecturer: dibidapo@pau.edu.ng, Room: Classroom 3",
+        "Course: DTS 304, Lecturer: sadubi@pau.edu.ng, Room: Jalingo",
         "",
         ""
       ],
@@ -4419,75 +4419,75 @@
     "timetable": [
       [
         "08:30",
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Art and Graphics Studio",
         "",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Classroom 1",
         "",
-        "",
-        ""
+        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "09:30",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Classroom 1",
+        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         "",
-        ""
+        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Classroom 1"
       ],
       [
         "10:30",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
-        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Classroom 1",
+        "",
+        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Art and Graphics Studio",
         "",
         "",
         ""
       ],
       [
         "11:30",
-        "Course: PAU-CSC 112, Lecturer: jiloekwe@pau.edu.ng, Room: Classroom 1",
         "",
+        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Bauchi",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 3",
         "",
-        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Engineering Drawing Studio",
         ""
       ],
       [
         "12:30",
         "BREAK",
-        "",
+        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Bauchi",
         "BREAK",
-        "Course: PAU-CSC 114, Lecturer: kmuka@pau.edu.ng, Room: Engineering Drawing Studio",
+        "Course: GST 111, Lecturer: oekechi@pau.edu.ng, Room: Classroom 3",
         "BREAK"
       ],
       [
         "13:30",
         "",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GST 111, Lecturer: oekechi@pau.edu.ng, Room: Umuahia",
         "",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1"
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 3",
+        "Course: GST 111, Lecturer: oekechi@pau.edu.ng, Room: Classroom 3",
+        ""
       ],
       [
         "14:30",
         "",
-        "Course: GST 112, Lecturer: aonobhayedo@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: GST 111, Lecturer: oekechi@pau.edu.ng, Room: Strength of Materials",
-        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 2",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1"
+        "",
+        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 3",
+        "",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Asaba"
       ],
       [
         "15:30",
         "",
         "",
-        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Engineering Drawing Studio",
-        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 2",
-        "Course: PHY 108, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 1"
+        "",
+        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 4",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Asaba"
       ],
       [
         "16:30",
         "",
         "",
-        "Course: MTH 102, Lecturer: cifegwu@pau.edu.ng, Room: Engineering Drawing Studio",
         "",
-        ""
+        "Course: PHY 102, Lecturer: rbalogun@pau.edu.ng, Room: Classroom 4",
+        "Course: COS 102, Lecturer: dmoru@pau.edu.ng, Room: Asaba"
       ],
       [
         "17:30",

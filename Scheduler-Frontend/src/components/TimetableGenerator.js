@@ -13,7 +13,6 @@ const TimetableGenerator = () => {
   const [progress, setProgress] = useState(0);
   const [progressText, setProgressText] = useState('');
   const [generatedData, setGeneratedData] = useState([]);
-  const [impossibleConstraints, setImpossibleConstraints] = useState([]);
   const [showInstructions, setShowInstructions] = useState(false);
   const [error, setError] = useState('');
 
@@ -24,7 +23,6 @@ const TimetableGenerator = () => {
     setSelectedFile(file);
     setError('');
     setGeneratedData([]);
-    setImpossibleConstraints([]);
     setUploadId(null); // Reset upload ID
     setGenerations('');
     // Generations selector intentionally not auto-shown (disabled)
@@ -38,7 +36,6 @@ const TimetableGenerator = () => {
     setProgress(0);
     setProgressText('');
     setGeneratedData([]);
-    setImpossibleConstraints([]);
     setError('');
     setGenerations('');
   };
@@ -70,16 +67,6 @@ const TimetableGenerator = () => {
     console.log('Generating timetable with ID:', currentUploadId, 'options:', options);
     const timetableData = await generateTimetable(currentUploadId, progressCallback, options);
     console.log('Timetable generation completed:', timetableData);
-
-    // Extract mathematically impossible constraint inputs report (if any)
-    let impossible =
-      timetableData?.impossible_constraints ||
-      timetableData?.impossibleConstraints ||
-      timetableData?.data?.impossible_constraints ||
-      timetableData?.data?.impossibleConstraints ||
-      [];
-    if (!Array.isArray(impossible)) impossible = [];
-    setImpossibleConstraints(impossible);
 
     // Extract timetables from response - handle different response formats
     // PRIORITIZE timetables_raw which contains the actual grid data (rows),
@@ -235,7 +222,6 @@ const TimetableGenerator = () => {
     isProcessing,
     progress,
     generatedDataLength: generatedData.length,
-    impossibleConstraintsCount: impossibleConstraints.length,
     error
   });
 
@@ -263,36 +249,6 @@ const TimetableGenerator = () => {
 
         {uploadId && !isProcessing && generatedData.length > 0 && (
           <>
-            {impossibleConstraints.length > 0 && (
-              <section className="impossible-constraints-panel" aria-label="Mathematically impossible constraint inputs">
-                <div className="impossible-constraints-title">Mathematically impossible constraint inputs detected</div>
-                <div className="impossible-constraints-subtitle">
-                  Some inputs make certain constraints impossible to satisfy; the backend may auto-relax those inputs to keep the problem schedulable.
-                </div>
-                <ul className="impossible-constraints-list">
-                  {impossibleConstraints.slice(0, 50).map((item, idx) => {
-                    const label = item?.label || item?.type || 'Constraint';
-                    const occurrences = typeof item?.occurrences === 'number' ? item.occurrences : null;
-                    const penalty = typeof item?.penalty === 'number' ? item.penalty : null;
-                    const hasMetrics = (occurrences && occurrences > 0) || (penalty && penalty > 0);
-                    const message = item?.message;
-                    const displayText = hasMetrics
-                      ? `${label} Violations - ${occurrences || 0} (Penalty points = ${penalty || 0})`
-                      : (message || `${label} flagged as impossible input.`);
-                    return (
-                      <li key={idx} className="impossible-constraints-item">
-                        <span className="impossible-constraints-tag">{label}</span>
-                        <span className="impossible-constraints-message">{displayText}</span>
-                      </li>
-                    );
-                  })}
-                </ul>
-                {impossibleConstraints.length > 50 && (
-                  <div className="impossible-constraints-more">Showing first 50 of {impossibleConstraints.length}.</div>
-                )}
-              </section>
-            )}
-
             <TimetableResults
               result={{ timetables: generatedData }}
               uploadId={uploadId}

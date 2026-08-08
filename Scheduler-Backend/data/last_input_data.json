@@ -12124,9 +12124,9 @@
       ]
     },
     {
-      "id": "ose@pau.edu.ng",
-      "name": "ose@pau.edu.ng",
-      "department": "Computer Science",
+      "id": "pfine@pau.edu.ng",
+      "name": "pfine@pau.edu.ng",
+      "department": "Finance",
       "status": "Adjunct",
       "avail_days": [
         "ALL"
@@ -12139,48 +12139,9 @@
       "available_hours": 8,
       "available_consecutive_hours": 8,
       "courseID": [
-        "GST 212",
-        "GST 302"
-      ]
-    },
-    {
-      "id": "ose1@pau.edu.ng",
-      "name": "ose1@pau.edu.ng",
-      "department": "Computer Science",
-      "status": "Adjunct",
-      "avail_days": [
-        "ALL"
-      ],
-      "avail_times": {
-        "All": [
-          "ALL"
-        ]
-      },
-      "available_hours": 8,
-      "available_consecutive_hours": 8,
-      "courseID": [
-        "GST 212",
-        "CSC 401",
-        "ENT 312"
-      ]
-    },
-    {
-      "id": "aogbuchi@pau.edu.ng",
-      "name": "aogbuchi@pau.edu.ng",
-      "department": "Accounting",
-      "status": "",
-      "avail_days": [
-        "ALL"
-      ],
-      "avail_times": [
-        "ALL"
-      ],
-      "available_hours": 4,
-      "available_consecutive_hours": 3,
-      "courseID": [
-        "PAU-ACC 392",
-        "PAU-BUA 392",
-        "CSC 401"
+        "FIN 210",
+        "FIN 216",
+        "FIN 316"
       ]
     },
     {
@@ -12252,9 +12213,9 @@
       "available_consecutive_hours": 3
     },
     {
-      "id": "pfine@pau.edu.ng",
-      "name": "pfine@pau.edu.ng",
-      "department": "Finance",
+      "id": "aogbuchi@pau.edu.ng",
+      "name": "aogbuchi@pau.edu.ng",
+      "department": "Accounting",
       "status": "",
       "avail_days": [
         "ALL"
@@ -12263,9 +12224,9 @@
         "ALL"
       ],
       "courseID": [
-        "FIN 210",
-        "FIN 216",
-        "FIN 316"
+        "PAU-ACC 392",
+        "PAU-BUA 392",
+        "CSC 401"
       ],
       "available_hours": 4,
       "available_consecutive_hours": 3
@@ -12303,6 +12264,43 @@
         "MEE 404",
         "GET 502",
         "PAU-EEE 506"
+      ],
+      "available_hours": 4,
+      "available_consecutive_hours": 3
+    },
+    {
+      "id": "ose1@pau.edu.ng",
+      "name": "ose1@pau.edu.ng",
+      "department": "Computer Science",
+      "status": "",
+      "avail_days": [
+        "ALL"
+      ],
+      "avail_times": [
+        "ALL"
+      ],
+      "courseID": [
+        "GST 212",
+        "CSC 401",
+        "ENT 312"
+      ],
+      "available_hours": 4,
+      "available_consecutive_hours": 3
+    },
+    {
+      "id": "ose@pau.edu.ng",
+      "name": "ose@pau.edu.ng",
+      "department": "Computer Science",
+      "status": "",
+      "avail_days": [
+        "ALL"
+      ],
+      "avail_times": [
+        "ALL"
+      ],
+      "courseID": [
+        "GST 212",
+        "GST 302"
       ],
       "available_hours": 4,
       "available_consecutive_hours": 3
